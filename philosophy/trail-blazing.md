@@ -134,5 +134,3 @@ Bringing users in to test your POC before it's a real MVP can be a healthy part 
 If you try to start recruiting users in bulk before your MVP is actually viable, then you risk wasting a bunch of resources assisting users who will eventually grow dissatisfied & leave. The more resources you spend managing a large community of users, the fewer resources you have to put towards making your minimal product truly viable.
 
 Continuing to harden the main happy path is a healthy part of phase 3, but only in the context of polishing off the rough spots. If users cannot reliably travel the main happy path without someone holding their hand, then phase 3 hasn't actually started yet.
-
-Disagree? Plz let me know in the #off-topic channel of the [Connext Discord](https://discord.gg/GbSyc4k) :)
