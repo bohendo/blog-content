@@ -78,7 +78,7 @@ It's objectively true that the sky is blue and it's subjectively true that they 
 
 Trouble can arise when subjective and objective truth diverge. For example: Chernobyl. The subjective truth was that the Soviet Union is a highly-capable nuclear superpower and they build reactors that cannot possibly explode. The objective truth is that a Soviet RBMK reactor exploded. Things got very bad at Chernobyl & they didn't get better until the subjective truth caved-in and accepted objective reality.
 
-If you stay zoomed out, it looks like there would be no benefit to subjective truth diverging from objective truth. There's massive risk no global benefit. One might think we'd all be happily working together to bring our collective subjective reality as closely in line with objective reality as possible.
+If you stay zoomed out, it looks like there would be no benefit to subjective truth diverging from objective truth. There's massive risk and no systemic benefit. One might think we'd all be happily working together to bring our collective subjective reality as closely in line with objective reality as possible.
 
 Unfortunately, when you zoom in & notice individual incentives, you'll find a multi-polar trap: each individual benefits at the group's expense if they treat the subjective reality of those in power as more important/relevant/correct than objective reality.
 
