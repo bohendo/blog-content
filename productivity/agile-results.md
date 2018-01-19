@@ -1,9 +1,7 @@
 
-# Getting Results the Agile Way
+##### by Bo Henderson  --  Originally published July 2015
 
-##### by Bo Henderson  --  published July 2015
-
-[Getting Results the Agile Way by J.D Meier](http://gettingresults.com/wiki/Main_Page) is not nearly as popular as GTD but, of the 110 amazon reviews, the vast majority are positive. It is a fundamentally different book than GTD which means these two systems can work together rather than having to commit to one or the other. The good advice given in *Getting Results the Agile Way* is *really* good advice; the only problem is that the good advice is repeated ad nauseam. I'll spare you the repetition and succinctly summarize what this book has to offer.
+[Getting Results the Agile Way by J.D Meier](http://gettingresults.com/wiki/Main_Page) is not nearly as popular as GTD but it's a fundamentally different book which means these two systems can work together rather than having pulling you in opposite directions. The good advice given in *Getting Results the Agile Way* is *really* good advice; the only problem is that the good advice is repeated ad nauseam. I'll spare you the repetition and succinctly summarize what this book has to offer.
 
 ## *10 Key Principals*
 
@@ -21,7 +19,7 @@
 
 #### 3. Hot Spots (aka Areas of Focus)
 
-**What?** Hot spots are areas of your life where you spend time and energy (similar to "Areas of Focus" from [GTD]). Hot spots can be divided into two main categories: Personal (i.e. mental health, physical health, emotional health, finances, friends, family, hobbies, personal projects) and Professional (i.e. work projects, professional network, roles at work).
+**What?** Hot spots are areas of your life where you spend time and energy (similar to "Areas of Focus" from GTD). Hot spots can be divided into two main categories: Personal (i.e. mental health, physical health, emotional health, finances, friends, family, hobbies, personal projects) and Professional (i.e. work projects, professional network, roles at work).
 
 **Why?** Creating a list of all your hot spots makes it easier to notice ones that you might be over/under-investing in. Identify the top three opportunities and threats within your list of hot spots. Manage threats as efficiently as possible so you have time to dedicate to opportunities.
 
@@ -33,9 +31,9 @@
 
 #### 5. Setting Boundaries
 
-**What?** When presented with a task or hot spot, set a maximum and/or minimum amount of time that you're willing to invest. Instead of choosing a task to complete and spending as much time as you need to complete it, set a maximum amount of time you're willing to dedicate to the task and complete it as well as possible within that time limit. For certain hot spots, you will likely benefit from setting a minimum boundary and trying to spend at least that amount of time on it.
+**What?** When presented with a task or hot spot, set a maximum and/or minimum amount of time that you're willing to invest. Instead of choosing a task to complete and spending as much time as you need to complete it, set a maximum amount of time you're willing to dedicate to the task and complete it as well as possible within that time limit. For certain hot spots (eg health/family), you will likely benefit from setting a minimum boundary and trying to spend at least that amount of time on it.
 
-**Why?** Setting a maximum time limit takes advantage of a corollary of [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law): "Work contracts to fit in the time available". While working within a time-limit, make sure you are delivering incremental value (execution strategy #3). Setting daily or weekly minimum time limits on certain hot spots (i.e. family time, hobbies, health) will help you avoid neglecting them.
+**Why?** Setting a maximum time limit takes advantage of a corollary of [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law): "Work contracts to fit in the time available". While working within a time-limit, make sure you are delivering incremental value (execution strategy #3).
 
 #### 6. Maintain a Results Mindset
 
@@ -58,7 +56,7 @@
 
 #### 9. Emphasis on Technique
 
-**What?** Have an explicit technique to guide your in-the-moment actions (i.e. An execution checklist. See Execution Strategy #4). Focus on improving your overall technique rather than trying to improve each individual result because your results as a whole depend on your technique. I strongly recommend you check out the [GTD] system if you're interested in a detailed task-management system.
+**What?** Have an explicit technique to guide your in-the-moment actions (i.e. An execution checklist. See Execution Strategy #4). Focus on improving your overall technique rather than trying to improve each individual result because your results as a whole depend on your technique. I strongly recommend you check out the GTD system if you're interested in a detailed task-management system.
 
 **Why?** Having an explicit system makes it easier to improve because you can tweak it and see how your results change. Being unsystematically reactive leaves little room for systematic improvement. Having a system also puts small tasks on autopilot and frees up your mental energy to focus on bigger things. When you hit a rough patch, you will have heuristics to guide you so you can manage a crisis without becoming reactive.
 
@@ -112,7 +110,7 @@
 
  - **Yearly Free Write:** Ask yourself "If I were granted three wishes, what three things would I wish for?" List possible wishes and do a short free write on why each wish is so valuable to you. If your wishes are unrealistic/break the laws of nature, identify what you hope to get out of this wish and brainstorm realistic ways to achieve similar outcomes. Imagine it were one year into the future, what outcomes would make you most satisfied with the previous year? Focus on what your life would be like if you achieved each outcome and describe the scenario in great detail. Which three outcomes produce the most appealing scenarios? Use these free writes to identify three goals for the upcoming year.
 
- - **Set SMART Goals:** *S*pecific, *M*easurable, *A*ctionable, *R*ealistic, and *T*ime-limited.
+ - **Set SMART Goals:** **S**pecific, **M**easurable, **A**ctionable, **R**ealistic, and **T**ime-limited.
 
  - **Notice Opportunities:** Clarifying your goals makes you extra sensitive to related opportunities you might not have otherwise noticed. Brainstorm a list of people, events, and resources that might help you achieve each of your desired outcomes and update/review this list regularly (i.e. monthly) during the year.
 
@@ -126,7 +124,7 @@ Often you will find that excessive analysis and planning doesn't actually help t
 
 #### 2. It's a Sprint, Not a Marathon
 
-Or rather, a series of sprints. When you're working, be 100% focused on the task in front of you. When you're on a break, be completely focused on anything besides your work. Spend as little time as possible working at 50%. Take regular breaks and schedule them ahead of time to make it easier to fully relax. Start with the  [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) and adjust the time spent working vs time spent resting as needed.
+Or rather, a series of sprints. When you're working, be 100% focused on the task in front of you. When you're on a break, be completely focused on anything besides your work. Spend as little time as possible working at 50%. Take regular breaks and schedule them ahead of time to make it easier to fully relax. Start with the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) and adjust the time spent working vs time spent resting as needed.
 
 #### 3. Deliver Incremental Value (aka Premature Optimization is the Root of All Evil)
 
@@ -140,6 +138,3 @@ An execution checklist is a list of very specific actions that will get you to a
 
 When you are finishing up for the day, perform a short free write about whatever you were doing and thinking about. Review this free write at the beginning of the next day to quickly get back into the mindset you left with.
 
-Now go forth and get somethin done!
-
-[GTD](getting-things-done)

@@ -1,7 +1,5 @@
 
-# Getting Things Done
-
-##### by Bo Henderson  --  published June 2015
+##### by Bo Henderson  --  Originally published June 2015
 
 Beyond the anecdotal evidence of over 1200 glowing reviews on Amazon, [David Allen's "Getting Things Done"](https://en.wikipedia.org/wiki/Getting_Things_Done) (GTD) system has been successful enough to attract the attention of cognitive researchers from The University of Brussels. Heylighen and Vidal praised GTD in their publication ["Getting Things Done: The Science behind Stress-Free Productivity"](http://cogprints.org/6289/1/Heylighen-Vidal-GTD-Science.pdf) which provides a summary and review of David Allen's GTD method and connects it to cognition theories in an attempt to explain why these methods work so well for so many people (TL;DR: the brain is fantastic at generating ideas but is awful at recall so there is a lot to be gained from the external storage system that is at the heart of GTD).
 
