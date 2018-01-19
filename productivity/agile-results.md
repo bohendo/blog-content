@@ -1,6 +1,4 @@
 
-##### by Bo Henderson  --  Originally published July 2015
-
 [Getting Results the Agile Way by J.D Meier](http://gettingresults.com/wiki/Main_Page) is not nearly as popular as GTD but it's a fundamentally different book which means these two systems can work together rather than having pulling you in opposite directions. The good advice given in *Getting Results the Agile Way* is *really* good advice; the only problem is that the good advice is repeated ad nauseam. I'll spare you the repetition and succinctly summarize what this book has to offer.
 
 ## *10 Key Principals*
