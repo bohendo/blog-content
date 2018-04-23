@@ -1,7 +1,9 @@
 
-"Ultimately, there's one investment that supersedes all others: Invest in yourself, Nobody can take away what you've got in yourself, and everybody has potential they haven't used yet." -- Warren Buffet, the greatest investor of all time
+> "Ultimately, there's one investment that supersedes all others: Invest in yourself, Nobody can take away what you've got in yourself, and everybody has potential they haven't used yet." Warren Buffet, the greatest investor of all time
 
-I can't make such a bold claim as this title without starting out with what my previous investments have been. For the last 6 months since graduating college, I've decided to try my hand at being a professional investor and I think I've done pretty well so far, but let me know what you think.
+Cryptokitties has returned the best ROI of any of my investments.
+
+I can't make such a bold claim as that without starting out with what my previous investments have been. For the last 6 months since graduating college, I've decided to try my hand at being a professional investor and I think I've done pretty well so far, but let me know what you think.
 
 I started investing my time in Bitcoin about a year ago by watching Andreas Antonopoulos on youtube. That time paid off with a huge dividend of enthusiasm that I directed towards his book Mastering Bitcoin. I devoured it before my enthusiasm ran dry and was rewarded with the addition of cryptography & cryptocurrency branches to my tree of knowledge (Thanks Andreas!).
 
