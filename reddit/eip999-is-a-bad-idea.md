@@ -1,5 +1,5 @@
 
-# Top 6 reasons why EIP999 is a horrible idea (but only the last 3 matter)
+# Top 6 reasons why EIP999 is a horrible idea (but the first 2 don't count)
 
 > Seek first to understand, then to be understood
 
@@ -123,7 +123,7 @@ As far as the slippery slope, I say we define our Schelling fence at absolutely 
 
 Slippery slopes only exist within a category so putting bug fixes and censorship in separate categories lets me sleep well at night knowing that we have a well-defined and easily justified Schelling fence in place that ensure fixing bugs will never devolve into censoring transactions, etc.
 
-And the moral hazard? Whatever, the Parity devs have learned their lesson. I don't find this argument particularly compelling.
+And the moral hazard? Whatever, the Parity devs have likely learned their lesson. I don't find this argument particularly compelling. Besides, under the 1949 Geneva Conventions, collective punishment is a war crime.
 
 I am planning on [voting Yes on EIP999](https://www.etherchain.org/coinvote/poll/35) a few hours before the vote ends but I'd like to wait and see if any of the thoughts you share in the comments change my mind. I do my best to maintain strong beliefs, loosely held and am open to changing my mind on this topic. Did I leave out any compelling arguments against EIP999? Did I strawman any of the provided arguments? I look forward to hearing your thoughts.
 
@@ -133,6 +133,6 @@ None of my money was lost by the multi-sig contract's untimely suicide so I have
 
 Also, My Ethereum address is 0x1057Bea69c9ADD11c6e3dE296866AFf98366CFE3 and I have a financial incentive to write a thought-provoking post with a click-bait title that might draw a crowd and inspire people to tip me. ;) I'm a recent college grad who walked away from stable employment to coast on savings while I hack with Ethereum full-time so any tips will be extra appreciated.
 
-[twitter @bohendo](https://twitter.com/bohendo)
+Twitter [@bohendo](https://twitter.com/bohendo)
 
-[github @bohendo](https://github.com/bohendo)
+Github [@bohendo](https://github.com/bohendo)
