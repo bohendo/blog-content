@@ -1,0 +1,22 @@
+{
+  "title": "Bo's Personal Website",
+  "style": {
+    "background": "#fff"
+  },
+  "posts": [
+    {
+      "slug": "four-hour-workweek",
+      "path": "philosophy/four-hour-workweek.md",
+      "tags": ["philosophy", "reading"],
+      "tldr": "My biggest philosophical take-aways from reading The Four Hour Workweek by Tim Ferriss",
+      "title": "Philosophy of the Four Hour Workweek"
+    },
+    {
+      "slug": "getting-things-done",
+      "path": "productivity/getting-things-done.md",
+      "tags": ["productivity", "reading"],
+      "tldr": "An overview of the Getting Things Done system & examples of how I've used it",
+      "title": "Getting Things Done"
+    }
+  ]
+}
