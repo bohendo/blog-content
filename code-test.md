@@ -13,6 +13,8 @@ const fun = (needle: string): boolean => {
 }
 ```
 
+## <div id="linked-heading">This is a heading that is linkable</div>
+
 ```
 const haystack = "hello world"
 const fun = (needle: string): boolean => {
