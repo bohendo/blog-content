@@ -17,6 +17,13 @@
       "tags": ["productivity", "reading"],
       "tldr": "An overview of the Getting Things Done system & examples of how I've used it",
       "title": "Getting Things Done"
+    },
+    {
+      "slug": "code-test",
+      "path": "code-test.md",
+      "tags": ["tech"],
+      "tldr": "This post just tests how code rendering looks",
+      "title": "Code Rendering Test"
     }
   ]
 }
