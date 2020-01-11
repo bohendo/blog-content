@@ -24,6 +24,13 @@
       "tags": ["tech"],
       "tldr": "This post just tests how code rendering looks",
       "title": "Code Rendering Test"
+    },
+    {
+      "slug": "fermi-paradox",
+      "path": "philosophy/fermi-paradox.md",
+      "tags": ["spacetime"],
+      "tldr": "So lonely",
+      "title": "The Fermi Paradox"
     }
   ]
 }
