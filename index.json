@@ -5,6 +5,13 @@
   },
   "posts": [
     {
+      "slug": "meaning-of-life",
+      "path": "philosophy/meaning-of-life.md",
+      "tags": ["philosophy", "spirituality"],
+      "tldr": "Yea, that same age-old woowoo question again. Let's disintegrate it.",
+      "title": "What is the meaning of life?"
+    },
+    {
       "slug": "four-hour-workweek",
       "path": "philosophy/four-hour-workweek.md",
       "tags": ["philosophy", "reading"],
