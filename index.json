@@ -4,6 +4,12 @@
     "background": "#282c34"
   },
   "posts": {
+    "opsec": {
+      "path": "crypto/opsec.md",
+      "tags": ["crypto"],
+      "tldr": "Dirty details describing how I manage my passwords and crypto wallets",
+      "title": "Operations Security"
+    },
     "meaning-of-life": {
       "path": "philosophy/meaning-of-life.md",
       "tags": ["philosophy", "spirituality"],
