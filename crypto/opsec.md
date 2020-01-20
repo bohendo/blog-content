@@ -1,5 +1,7 @@
 # Operations Security
 
+:boom:
+
 I don't believe in security through obscurity. Knowing how my opsec works shouldn't make it meaningfully weaker. If that's the case, then I'd rather find out sooner rather than later so I can fix it.
 
 ## Passwords
@@ -8,7 +10,10 @@ The Keys to my Kingdom  32 randomly generated letters (`/dev/random`) split into
 
 The first Strong Password 💪 protects the Key 🔑 to my Vault 🏦 (KeePassX) which contains passwords for stuff like Google, Amazon, Netflix, etc and some Crypto Hot Wallets 🔥.
 
-The Password Vault 🏦 itself is saved Dropbox so I can easily sync new accounts between my devices. Eg, for a new device to sign into my Paypal account, it needs:
+The Password Vault 🏦 itself is saved Dropbox so I can easily sync new accounts between my devices.
+
+Eg, for a new device to sign into my Paypal account, it needs:
+
  1. The Password Vault 🏦 from Dropbox
  2. A Strong Password 💪 stored in my brain
  3. The vault Key 🔑 file, copied from old device -> new device via usb cable.
@@ -17,7 +22,7 @@ The second Strong Password 💪 protects my ssh Keys 🔑 & I'd use it to protec
 
 The first half of of this second Strong Password 💪 is the unlock code for my phone & computer. 
 
-# Brain wallet management
+## Brain wallet management
 
 First of all, if it's important, then write it down somewhere.
 
@@ -39,30 +44,12 @@ To memorize random strings of letters & numbers in the first place, muscle memor
 
 I cycle my brain wallet keys
 
-# Password length
+## Password Strength
 
+How strong is a 💪 Strong Password?
 
+A good alphabet to use while generating passwords is `[a-zA-Z0-9]` or all letters upper & lower case plus numbers. It's easier to type if needed and less ugly.
 
-----
-
-1 strong password to protect KeePassX
- - 1st half for unlocking metamask
-
-1 strong password to protect ssh keys
- - 1st half for logging into computer
- - 2nd half for logging onto phone
-
-1 strong password to protect critical online accounts
- - google
- - dropbox
- - authy backups
-
-1 random PIN for debit cards
-
-1 personal PIN for unlocking sensitive phone apps
-
-All other online account passwords are stored in KeePassX
-
-
+This 
 
 
