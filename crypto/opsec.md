@@ -134,16 +134,17 @@ Should I hide an encrypted copy of the :key key stash somewhere to make the Hang
 
 ### The Hangover Scenario :beers:
 
-I wake up in a strange looking city & have no clue how I got there. I don't have Ir phone or Ir wallet or Ir passport or anything more than Ir clothes (which I are very grateful for).
+I wake up on a park bench in a strange looking city & have no clue how I got there. I don't have my phone or my wallet or anything more than my clothes (which I are very grateful for).
 
 How do I get home?
 
 I go out & wander around looking for a public library. I find one & connect to the internet.
 
-Luckily, I have Ir google password memorized. I don't have any 2FA devices :passport_control: but I have a couple 2FA recovery tokens in Ir Brain Wallet :thinking: that I can use to log in.
+Luckily, I have my google password memorized. I don't have any 2FA devices :passport_control: but I have a couple 2FA recovery tokens in my Brain Wallet :thinking: that I can use to log in.
 
 :boom:
 
+Got access to my email & can
 
 ### The Evil Sysadmin Scenario :smiling_imp:
 
