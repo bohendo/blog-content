@@ -35,18 +35,4 @@ My life began the same way as every other human life: with the big bang.
 
 ## Where am I going?
 
-My life will end the same way as every other human life: with heat death aka the end of free energy.
-
-Heat death, demonstrated:
-
-I light a fire in a room & then *completely* seal it off forever. What happens?
-
-The fire will burn for a while, turning fuel & oxygen into carbon dioxide & water & heat. The rising hot air will create air currents scattering ash throughout the room. The fire lights up the room & this swirling ash casts shadows on the walls. This is phase 1: action/life/maximum-free-energy-flow.
-
-Eventually, either the fuel or oxygen will run low & the fire will die out. Hot glowing embers emit a deep red glow but, over time, this fades too until the room is completely dark. The cool air steadily saps heat from the embers until the air & embers & ask & everything in the room is the exact same temperature. Without a temperature gradient, airflow completely fades and even the lightest finest dust settles out of the air. Thermal equilibrium has been achieved: nothing in this room will ever move again.
-
-But it's only *mostly* heat-dead.
-
-Nothing will ever move
-
-Heat death can also be thought of as the depletion of free energy (aka how much energy is available to make stuff happen?)
+My life will end the same way as every other human life: with [heat death](./heat-death.md) aka the end of free energy.
