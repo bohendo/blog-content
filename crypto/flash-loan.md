@@ -15,7 +15,7 @@ A blockchain security firm released a detailed [step-by-step analysis](https://m
  1. **Flash Loan**: Ethereum account 0x148 took out a loan of 10k ETH (worth $2.6 million).
  2. **Collateralized Loan**: They locked up 5.5k ETH in [Compound](https://compound.finance) & used this as collateral to borrow 112 wBTC (worth $1 million)
  3. **The Pump**: They deposit 1.3k ETH collateral into the bZk lending pool to open a 5x leveraged long wBTC/short ETH position. Behind the scenes, 51 wBTC was purchased for 5.6k ETH was via a market with too little liquidity and the price of wBTC shoots up to 3x it's normal price.
- 4. **The Dump**: They sell all 112 borrows wBTC at the newly pumped price yielding 6.8k ETH.
+ 4. **The Dump**: They sell all 112 borrows wBTC at the newly pumped price yielding 6.8k ETH and the price of wBTC on this market crashes again.
  5. **Payback**: They buy back 112 wBTC at the newly deflated price for 4.3k ETH, repay their collateralized loan to unlock & withdraw their 5.5k Eth deposit, and then repay their 10k ETH flash loan with a healthy chunk of 1.2k ETH leftover as profit.
 
 **Still TL;DR: somebody borrowed $2.6 million dollars and used it to manipulate a few small markets, taking away $355,880 in profit.**
@@ -26,7 +26,7 @@ If you're familiar w how financial markets operate, then this isn't exactly unhe
 
 1. The amount of money required up-from to pull off this heist: $8.23. That's 8 dollars, the price of a sandwich. This was *not* a very wealthy person throwing their weight around & bullying small markets. This attacker might have been a very clever 14 year old kid who found a way to turn their weekly allowance into $355k dollars. No credentials, no reputation, no IDs, nothing other than $8 to pay the transaction fee was required.
 2. It happened instantly. From the initial loan to the setup to the execution, this entire heist happened in just one moment. This means there was no time at all for the exploited parties to notice & take action. There was no time for any other traders to take advantage of arbitrage opportunities before our attacker could.
-3. It was one atomic action, therefore completely risk-free. If something went haywire and the attacker was left unable to repay that initial $2.6M loan, then the entire transaction would have failed and not one step of it would have executed. **The flash loan enforced atomicity: either the entire heist succeeds or none of it ever happened.**
+3. It was one atomic action, therefore completely risk-free. If something went haywire and the attacker was left unable to repay that initial $2.6M loan, then the entire transaction would have failed and not one step of it would have executed. The flash loan enforced atomicity: either the entire heist succeeds or none of it ever happened.
 
 See the [Post-Mortem](https://bzx.network/blog/postmortem-ethdenver) by the bZk team (they got pwned) for more info.
 
@@ -36,13 +36,13 @@ Nothing like a flash loan exists in traditional markets, it's an entirely new to
 
 A flash loan is an *uncollateralized* loan that only exists during a single transaction. The loan is provided at the beginning of the transaction and must be re-paid in full (+ a fee) before finishing otherwise the entire transaction will fail.
 
-From the loaner's perspective, if Alice have $1M laying around, she can flashloan it to Bob for $1 according to the deal: Bob gets to take one action with this lump of $100 but, by the end of the action, $101 must be returned to Alice otherwise the action gets cancelled. As long as the smart contract was audited, it's a pretty safe deal for Alice. The money can't go anywhere, it just grows by $1 in an instant.
+From the loaner's perspective: if Alice has $1M laying around, she can flashloan it to Bob for $1 according to this agreement: Bob gets to take one action with this lump of $100 but, by the end of the action, $101 must be returned to Alice otherwise the action gets cancelled. As long as the smart contract agreement was audited, it's a pretty safe deal for Alice. The money can't go anywhere, it just grows by $1 in an instant.
 
 This is a useful tool in a lot of cases.
 
 For example, say an astute trader notices that some asset is trading for $100 on one exchange and $99.9 on another. There might be an opportunity to buy a bunch for $99.9 and sell them at the other place for $100 to yield a profit of $0.1 each.. But if they need to pay eg a $10 transaction fee then it's not profitable unless they can buy/sell more than 100 of them which would require an upfront investment of at least $9,990 just to break even. Traditionally, only very wealthy traders are able to capitalize on such a narrow margin.. But not with flash loans. Now *anybody* can take out a huge loan, buy low/sell high, and profit.
 
-But with great power comes great responsibility..
+In doing so, they equalize the price until it's $99.95 at both places and people like me who don't want to have to think about it can blindly use whichever exchange and safely assume that the price is the same everywhere. Thanks traders.
 
 ## What are the implications?
 
