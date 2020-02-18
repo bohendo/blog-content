@@ -4,17 +4,17 @@
     "background": "#282c34"
   },
   "posts": {
-    "opsec": {
-      "path": "crypto/opsec.md",
-      "tags": ["crypto"],
-      "tldr": "Dirty details describing how I manage my passwords and crypto wallets",
-      "title": "Operations Security"
+    "fermi-paradox": {
+      "path": "philosophy/fermi-paradox.md",
+      "tags": ["spacetime"],
+      "tldr": "So lonely",
+      "title": "The Fermi Paradox"
     },
-    "meaning-of-life": {
-      "path": "philosophy/meaning-of-life.md",
-      "tags": ["philosophy", "spirituality"],
-      "tldr": "Yea, that same age-old woowoo question again. Let's disintegrate it.",
-      "title": "What is the meaning of life?"
+    "flash-loan": {
+      "path": "crypto/flash-loan.md",
+      "tags": ["crypto"],
+      "tldr": "Now, everybody can be a big fish",
+      "title": "Flash Loans"
     },
     "four-hour-workweek": {
       "path": "philosophy/four-hour-workweek.md",
@@ -28,17 +28,17 @@
       "tldr": "An overview of the Getting Things Done system & examples of how I've used it",
       "title": "Getting Things Done"
     },
-    "code-test": {
-      "path": "code-test.md",
-      "tags": ["tech"],
-      "tldr": "This post just tests how code rendering looks",
-      "title": "Code Rendering Test"
+    "meaning-of-life": {
+      "path": "philosophy/meaning-of-life.md",
+      "tags": ["philosophy", "spirituality"],
+      "tldr": "Yea, that same age-old woowoo question again. Let's disintegrate it.",
+      "title": "What is the meaning of life?"
     },
-    "fermi-paradox": {
-      "path": "philosophy/fermi-paradox.md",
-      "tags": ["spacetime"],
-      "tldr": "So lonely",
-      "title": "The Fermi Paradox"
+    "opsec": {
+      "path": "crypto/opsec.md",
+      "tags": ["crypto"],
+      "tldr": "Dirty details describing how I manage my passwords and crypto wallets",
+      "title": "Operations Security"
     }
   }
 }
