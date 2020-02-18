@@ -13,8 +13,8 @@ Shots were fired on Feb 15th 2020 at exactly 01:38:57 UTC. Raw event logs are in
 A blockchain security firm released a detailed [step-by-step analysis](https://medium.com/@peckshield/bzx-hack-full-disclosure-with-detailed-profit-analysis-e6b1fa9b18fc) of the incident. TL;DR:
 
  1. **Flash Loan**: Ethereum account 0x148 took out a loan of 10k ETH (worth $2.6 million).
- 2. **Collateralized Loan**: They locked up 5.5k ETH in a lending pool & used this as collateral to borrow 112 wBTC (worth $1 million)
- 3. **The Pump**: They deposit 1.3k ETH as collateral to open a 5x leveraged long wBTC/short ETH position. Behind the scenes, 5.6k ETH was swapped for 51 wBTC via a market with too little liquidity and the price of wBTC shoots up to 3x it's normal price.
+ 2. **Collateralized Loan**: They locked up 5.5k ETH in [Compound](https://compound.finance) & used this as collateral to borrow 112 wBTC (worth $1 million)
+ 3. **The Pump**: They deposit 1.3k ETH collateral into the bZk lending pool to open a 5x leveraged long wBTC/short ETH position. Behind the scenes, 51 wBTC was purchased for 5.6k ETH was via a market with too little liquidity and the price of wBTC shoots up to 3x it's normal price.
  4. **The Dump**: They sell all 112 borrows wBTC at the newly pumped price yielding 6.8k ETH.
  5. **Payback**: They buy back 112 wBTC at the newly deflated price for 4.3k ETH, repay their collateralized loan to unlock & withdraw their 5.5k Eth deposit, and then repay their 10k ETH flash loan with a healthy chunk of 1.2k ETH leftover as profit.
 
@@ -56,7 +56,7 @@ But on Ethereum, you can't identify people & bully them physically so market man
 
 Does that mean Ethereum markets are too dangerous to interact with and destined to fail? Not so fast.
 
-There were a couple problems exploited during this attack, most notably: a bug in the bZk market's code. A sanity check in the bZk code should have prevented the 5x leveraged position from being opened amidst drastic price changes that caused the debt to grow way past how much collateral was present. This check was cleverly avoided by the attacker but new code will be deployed that won't be so easy to trick.
+There were a couple problems exploited during this attack, most notably: a bug in the bZk market's code. A sanity check in the bZk code should have prevented the 5x leveraged position from being opened amidst drastic price changes that caused the debt to grow way past how much collateral was present. This check was cleverly avoided by the attacker but new code will be deployed that won't be so easy to trick into entering unprofitable positions.
 
 In general, market makers like bZk will treat illiquid markets (eg the ETH:wBTC market) with much more caution & be extremely careful if/when they're enabled for trading. Additionally, it's known to be bad practice to derive mission-critical prices directly from markets which are vulnerable to manipulation but this event provides a sharp example of what might happen to those who get sloppy.
 
