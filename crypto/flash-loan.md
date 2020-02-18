@@ -1,10 +1,14 @@
 # Flash Loans
 
-## The first weaponized flash loan
+## The :shrimp: with a :whale: punch
 
-Something **crazy** happened on Ethereum on Feb 15th 2020 at 01:38:57 UTC... [Transaction receipt](https://etherscan.io/tx/0xb5c8bd9430b6cc87a0e2fe110ece6bf527fa4f170a4bc8cd032f768fc5219838) for reference.
+Market manipulation used to be crime reserved for only the wealthiest. Flash loans bring it within everyone's reach.
 
-A blockchain security firm released a detailed [step-by-step analysis](https://medium.com/@peckshield/bzx-hack-full-disclosure-with-detailed-profit-analysis-e6b1fa9b18fc) of what happened. TL;DR:
+## Flash Loan First Blood 
+
+Shots were fired on Feb 15th 2020 at exactly 01:38:57 UTC. [See attached receipt](https://etherscan.io/tx/0xb5c8bd9430b6cc87a0e2fe110ece6bf527fa4f170a4bc8cd032f768fc5219838).
+
+A blockchain security firm released a detailed [step-by-step analysis](https://medium.com/@peckshield/bzx-hack-full-disclosure-with-detailed-profit-analysis-e6b1fa9b18fc) of the incident. TL;DR:
 
  1. **Flash Loan**: Ethereum account 0x148 took out a loan of 10k ETH (worth $2.6 million).
  2. **Collateralized Loan**: They locked up 5.5k ETH in a lending pool & used this as collateral to borrow 112 wBTC (worth $1 million)
@@ -12,7 +16,7 @@ A blockchain security firm released a detailed [step-by-step analysis](https://m
  4. **The Dump**: They sell all 112 borrows wBTC at the newly pumped price yielding 6.8k ETH.
  5. **Payback**: They buy back 112 wBTC at the newly deflated price for 4.3k ETH, repay their collateralized loan to unlock & withdraw their 5.5k Eth deposit, and then repay their 10k ETH flash loan with a healthy chunk of 1.2k ETH leftover as profit.
 
-**Still TL;DR: somebody borrowed $2.6 million dollars and used it to manipulate a few small markets, generating $355,880 in profit.**
+**Still TL;DR: somebody borrowed $2.6 million dollars and used it to manipulate a few small markets,  $355,880 in profit.**
 
 If you're familiar w how financial markets operate, then this isn't exactly unheard of. Or even that unusual. Very wealthy people have been profiting off of market manipulation for as long as there have been markets. But a handful of things make *this* situation unique.
 
