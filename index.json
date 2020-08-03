@@ -4,6 +4,18 @@
     "background": "#282c34"
   },
   "posts": {
+    "elevator-investing": {
+      "path": "crypto/elevator-investing.md",
+      "tags": ["crypto"],
+      "tldr": "A story about a contrived investment game",
+      "title": "Elevator Investing"
+    },
+    "digital-vending-machines": {
+      "path": "crypto/dawn-of-the-digital-vending-machine.md",
+      "tags": ["crypto"],
+      "tldr": "The robstness & simplicity of vending machines, brought to the internet",
+      "title": "Dawn of the Digital Vending Machine"
+    },
     "fermi-paradox": {
       "path": "philosophy/fermi-paradox.md",
       "tags": ["spacetime"],
