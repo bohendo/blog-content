@@ -10,7 +10,7 @@ The fire will burn for a while, turning fuel + oxygen into carbon dioxide + wate
 
 This is the climax, the most exciting part. This is maximum free-energy flow.
 
-After an hour, either the fuel or oxygen runs low & the fire dies out. Hot glowing embers still emit a deep red glow but, over time, this fades too until the box is completely dark. Over the following days, cool air steadily saps heat from the embers until the air & embers & ash & everything in the box is the same temperature (a few degrees warmer than it started). Without a temperature gradient, airflow completely fades and even the lightest finest dust settles out of the air.
+After a while, either the fuel or oxygen runs low & the fire dies out. Hot glowing embers still emit a deep red glow but, over time, this fades too until the box is completely dark. Over the following days, cool air steadily saps heat from the embers until the air & embers & ash & everything in the box is the same temperature (a few degrees warmer than it started). Without a temperature gradient, airflow completely fades and even the finest dust settles out of the air.
 
 Thermal equilibrium has been achieved & free-energy is no longer flowing. Nothing in this box will ever move again. This box is heat-dead.
 

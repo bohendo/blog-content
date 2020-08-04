@@ -1,28 +1,3 @@
-
-# Black Lives Matter
-
-TL;DR: I do not support Black Lives Matter because I believe that black fathers matter.
-
-But black fathers.. are.. black lives..?
-
-Yea, the TL;DR doesn't make sense without more context.
-
-
-
-For saying so publicly, I will certainly be accused of saying that I don't think black lives matter (lower case, normal English sentence). I will be called a racist 
-
- Black Lives Matter movement
-
-Whoever decided on the phrase Black Lives Matter deserves an award. A beautiful truism, impossible to disagree with.
-
-
-
-There is more to #BlackLivesMatter than black lives mattering.
-
-Excerpts from the [#BlackLivesMatter Manifesto](https://blacklivesmatter.com/what-we-believe/):
-
-> 
-
 -----
 
 Real-life examples of #DefundThePolice supporters:

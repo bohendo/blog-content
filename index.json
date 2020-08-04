@@ -4,6 +4,12 @@
     "background": "#282c34"
   },
   "posts": {
+    "reddit-scaling-bake-off": {
+      "path": "crypto/reddit-scaling-bake-off.md",
+      "tags": ["crypto"],
+      "tldr": "A taste of what I spend my time doing all day",
+      "title": "The Great Reddit Scaling Bake-Off"
+    },
     "elevator-investing": {
       "path": "crypto/elevator-investing.md",
       "tags": ["crypto"],
