@@ -4,6 +4,12 @@
     "background": "#282c34"
   },
   "posts": {
+    "trail-blazing": {
+      "path": "philosophy/trail-blazing.md",
+      "tags": ["philosophy"],
+      "tldr": "A metaphor for building things that have never been built before",
+      "title": "Trail Blazing"
+    },
     "reddit-scaling-bake-off": {
       "path": "crypto/reddit-scaling-bake-off.md",
       "tags": ["crypto"],
