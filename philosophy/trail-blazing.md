@@ -2,7 +2,7 @@
 # Trail Blazing
 ### A metaphor for building things that have never been built before.
 
-See also: [Slow-motion lightning](http://gifb.in/mFsV)
+The two distinct phases of a [slow-motion lightning strike](http://gifb.in/mFsV) mirror the POC/path-finding and MVP/path-widening phases of this story.
 
 You're high in the mountains with a small team of adventurous friends. You're standing on a grassy hill above a village called Point A, behind you is the thick darkness of the haze of the unknown. You and your friends are swapping stories about a lush and beautiful place called Point B that's rumored to be out there somewhere. The haze of the unknown is too thick to see very far & know for certain, but you have good reason to believe that the rumors are true.
 
@@ -129,10 +129,10 @@ If you try to start upgrading your POC towards becoming an MVP before the concep
 
 Modifying the path's route can be a healthy part of phase 2, but only in the context of switching from an acceptable path to a better one. If no acceptable path exists yet, then phase 2 hasn't actually started.
 
-Bringing users in to test your POC before it's a real MVP can be a healthy part of phase 2, but only in the context of accumulating data that will be used to influence further development towards the MVP. Each user should get an unsustainable amount of attention & support, the goal w this users is not to make money or grow the community, but to collect data & optimize the user experience towards requiring as few resources from the core team as possible.
+Bringing users in to test your POC before it's a real MVP can be a healthy part of phase 2, but only in the context of accumulating data that will be used to influence further development towards the MVP. Each user should get an unsustainable amount of attention & support, the goal w these users is not to make money or grow the community, but to collect data & optimize the user experience towards requiring as few resources from the core team as possible.
 
 If you try to start recruiting users in bulk before your MVP is actually viable, then you risk wasting a bunch of resources assisting users who will eventually grow dissatisfied & leave. The more resources you spend managing a large community of users, the fewer resources you have to put towards making your minimal product truly viable.
 
-Continuing to harden the main happy path is a healthy part of phase 3, but only in the context of polishing off the rough spots. If users cannot travel the main happy path without someone holding their hand, then phase 3 hasn't actually started yet.
+Continuing to harden the main happy path is a healthy part of phase 3, but only in the context of polishing off the rough spots. If users cannot reliably travel the main happy path without someone holding their hand, then phase 3 hasn't actually started yet.
 
-Disagree? Plz let me know on Discord :)
+Disagree? Plz let me know in the #off-topic channel of the [Connext Discord](https://discord.gg/GbSyc4k) :)
