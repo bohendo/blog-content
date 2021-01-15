@@ -144,7 +144,9 @@ Luckily, I have my google password memorized. I don't have any 2FA devices :pass
 
 :boom:
 
-Got access to my email & can
+Got access to my email & can send an SOS message to fam.
+
+In the meantime, I also have a hot mnemonic in my brain wallet so I have some crypto available to spend. Now the challenging part: lure some local baker into this library so I can give her a payment in exchange for some lunch.
 
 ### The Evil Sysadmin Scenario :smiling_imp:
 
@@ -159,3 +161,5 @@ They can then access all non-2FA protected accounts & steal money from my :fire:
 When they're done, they encrypt everything they have access to & say "give me your cold crypto keys to decrypt your stuff"
 
 What do I do?
+
+Luckily, life savings are on a cold hardware wallet so those are safe. As for the rest, hmm this is hard to recover from. Idk what to do.
