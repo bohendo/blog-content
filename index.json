@@ -6,60 +6,70 @@
   "posts": {
     "trail-blazing": {
       "path": "philosophy/trail-blazing.md",
+      "category": "philosophy",
       "tags": ["philosophy"],
       "tldr": "A metaphor for building things that have never been built before",
       "title": "Trail Blazing"
     },
     "reddit-scaling-bake-off": {
       "path": "crypto/reddit-scaling-bake-off.md",
+      "category": "crypto",
       "tags": ["crypto"],
       "tldr": "A taste of what I spend my time doing all day",
       "title": "The Great Reddit Scaling Bake-Off"
     },
     "elevator-investing": {
       "path": "crypto/elevator-investing.md",
+      "category": "crypto",
       "tags": ["crypto"],
       "tldr": "A story about a contrived investment game",
       "title": "Elevator Investing"
     },
     "digital-vending-machines": {
       "path": "crypto/dawn-of-the-digital-vending-machine.md",
+      "category": "crypto",
       "tags": ["crypto"],
       "tldr": "The robstness & simplicity of vending machines, brought to the internet",
       "title": "Dawn of the Digital Vending Machine"
     },
     "fermi-paradox": {
       "path": "philosophy/fermi-paradox.md",
+      "category": "philosophy",
       "tags": ["spacetime"],
       "tldr": "So lonely",
       "title": "The Fermi Paradox"
     },
     "flash-loan": {
       "path": "crypto/flash-loan.md",
+      "category": "crypto",
       "tags": ["crypto"],
       "tldr": "The :shrimp: with a :whale: punch",
       "title": "Flash Loan"
     },
     "four-hour-workweek": {
       "path": "philosophy/four-hour-workweek.md",
+      "category": "philosophy",
       "tags": ["philosophy", "reading"],
       "tldr": "My biggest philosophical take-aways from reading The Four Hour Workweek by Tim Ferriss",
       "title": "Philosophy of the Four Hour Workweek"
     },
     "getting-things-done": {
       "path": "productivity/getting-things-done.md",
+      "category": "productivity",
       "tags": ["productivity", "reading"],
       "tldr": "An overview of the Getting Things Done system & examples of how I've used it",
       "title": "Getting Things Done"
     },
     "meaning-of-life": {
       "path": "philosophy/meaning-of-life.md",
+      "category": "philosophy",
       "tags": ["philosophy", "spirituality"],
       "tldr": "Yea, that same age-old woowoo question again. Let's disintegrate it.",
       "title": "What is the meaning of life?"
     },
     "opsec": {
       "path": "crypto/opsec.md",
+      "category": "crypto",
       "tags": ["crypto"],
       "tldr": "Dirty details describing how I manage my passwords and crypto wallets",
       "title": "Operations Security"
