@@ -68,12 +68,22 @@ As this is an emergent property of many people's individual subjective truths, i
 
 The only things I can be 100% sure of w regards to other people is my own subjective interpretations of the objective realities of the actions other people take. If I ask someone what color they think the sky is, I can make good guesses at their subjective reality based on the answer I receive.
 
-## Our Subjective Truth
+## The Truth
 
 When people talk about the truth, they're generally conflating the subjective truth and objective truth. Conflating these two things is, almost always, a great heuristic & a wise move.
 
 It's objectively true that the sky is blue and it's subjectively true that they sky is blue. We so rarely need to differentiate between different sources of truth that it's easy to forget there's more than one.
 
-But trouble can arise when subjective and objective truth do diverge.
+## Truth Distortions
 
-For example: Chernobyl: The subjective truth was that the Soviet Union is a highly-capable nuclear superpower and they build reactors that cannot possibly explode. The objective truth is that a Soviet RBMK reactor definitely exploded. Things got very bad at Chernobyl & they didn't get better until the subjective truth caved-in and accepted objective reality.
+Trouble can arise when subjective and objective truth diverge. For example: Chernobyl. The subjective truth was that the Soviet Union is a highly-capable nuclear superpower and they build reactors that cannot possibly explode. The objective truth is that a Soviet RBMK reactor exploded. Things got very bad at Chernobyl & they didn't get better until the subjective truth caved-in and accepted objective reality.
+
+If you stay zoomed out, it looks like there would be no benefit to subjective truth diverging from objective truth. There's massive risk no global benefit. One might think we'd all be happily working together to bring our collective subjective reality as closely in line with objective reality as possible.
+
+Unfortunately, when you zoom in & notice individual incentives, you'll find a multi-polar trap: each individual benefits at the group's expense if they treat the subjective reality of those in power as more important/relevant/correct than objective reality.
+
+This means subjective & objective truth will diverge most commonly & most severely close to power. Not watts, political power like what CEOs and Kings have.
+
+From another angle, it looks like power over people can be used to fend off objective reality. With enough power, you can live out your subjective truth as if it were the one & only truth there ever was. For a little while at least. Objective reality is that which is still true when it's subjectively false.
+
+In practice, most people are, most of the time, not powerful enough to cause noticeable truth distortions so most of us live our day-to-day lives in a world where subjective & objective reality are essentially one and the same.
