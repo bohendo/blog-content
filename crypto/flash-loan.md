@@ -14,7 +14,7 @@ A blockchain security firm released a detailed [step-by-step analysis](https://m
 
  1. **Flash Loan**: Ethereum account 0x148 took out a loan of 10k ETH (worth $2.6 million).
  2. **Collateralized Loan**: They locked up 5.5k ETH in [Compound](https://compound.finance) & used this as collateral to borrow 112 wBTC (worth $1 million)
- 3. **The Pump**: They deposit 1.3k ETH collateral into the bZx lending pool to open a 5x leveraged long wBTC/short ETH position. Behind the scenes, 51 wBTC was purchased for 5.6k ETH was via a market with too little liquidity and the price of wBTC shoots up to 3x it's normal price.
+ 3. **The Pump**: They deposit 1.3k ETH collateral into the bZx lending pool to open a 5x leveraged long wBTC/short ETH position. Behind the scenes, 51 wBTC was purchased for 5.6k ETH via a market with too little liquidity and the price of wBTC shoots up to 3x it's normal price.
  4. **The Dump**: They sell all 112 borrows wBTC at the newly pumped price yielding 6.8k ETH and the price of wBTC on this market crashes again.
  5. **Payback**: They buy back 112 wBTC at the newly deflated price for 4.3k ETH, repay their collateralized loan to unlock & withdraw their 5.5k Eth deposit, and then repay their 10k ETH flash loan with a healthy chunk of 1.2k ETH leftover as profit.
 

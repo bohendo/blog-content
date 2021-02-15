@@ -24,5 +24,7 @@ Is it useful to label this thing as Alive? Maybe, but probably not. For most pur
 
 # Meaning
 
-In the case of a bio-robot created to tend to a farm, the WitMoL question seems pretty straight forward. It's meaning in life is to farm. It was created with one purpose in mind
+In the case of a bio-robot created to tend to a farm, the WitMoL question seems pretty straight forward. It's meaning in life is to farm. It was created with one purpose in mind.
+
+...To be continued
 
