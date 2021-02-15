@@ -1,17 +1,20 @@
-# What is true?
+# What is True?
 
 - The sky is blue
 - I am
-- 2 + 2 = 4
+- 12 + 1 = 13
 - entropy always increases
 - the price of 1 ounce of gold was $1824.65 on Feb 14th, 2021 at 17:00 UTC
 - Joe Biden won the 2020 presidential election
 
 Which of the above statements are true?
 
-We could claim that all of them are true, but some seem more true than others. Or, at least, some are true in different ways than others
+We could claim that all of them are true, but some seem more true than others. Or, at least, some are true in different contexts than others.
 
-I propose we can divide The Truth into two distinct categories: subjective truth & objective truth.
+I propose we can divide The Truth into three distinct layers:
+ 1. My subjective reality
+ 2. Objective reality
+ 2. Our Subjective reality
 
 ## My subjective Truth
 
@@ -27,9 +30,9 @@ An individual's subjective truths are the lowest-level, most fundamental truths 
 
 There are some fun movies like The Matrix or Inception which play games with the fabric of reality, but subjective truths remain deeply true even if the fabric of reality were to shift from under our feet.
 
-If I feel hungry, it doesn't matter whether I'm plugged into the Matrix or not, I still feel hungry. Whether I'm lost in a dream or a brain in a vat, I can be utterly and unshakably certain in the truth that I really do in fact feel hungry.
+If I feel hungry, it doesn't matter whether I'm plugged into the Matrix or not, I still feel hungry. Whether I'm lost in a dream or a brain in a vat, I can be utterly and unshakably certain in the truth that I really do in fact feel hunger.
 
-Of the above examples, "I am" stands out as being indisputably subjectively true for everyone capable of comprehending the statement.
+"I am" stands out as being subjectively true for everyone capable of comprehending the statement, almost by definition.
 
 Within my consciousness, there exists concepts of "sky" and "blue" and these concepts fit together in a way that feels true to me. If you do not believe that the sky is blue, then that statement would be subjectively false for you.
 
@@ -65,7 +68,7 @@ As this is an emergent property of many people's individual subjective truths, i
 
 The only things I can be 100% sure of w regards to other people is my own subjective interpretations of the objective realities of the actions other people take. If I ask someone what color they think the sky is, I can make good guesses at their subjective reality based on the answer I receive.
 
-## The Truth
+## Our Subjective Truth
 
 When people talk about the truth, they're generally conflating the subjective truth and objective truth. Conflating these two things is, almost always, a great heuristic & a wise move.
 
