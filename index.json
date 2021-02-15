@@ -11,6 +11,13 @@
       "tldr": "A metaphor for building things that have never been built before",
       "title": "Trail Blazing"
     },
+    "trail-blazing": {
+      "path": "philosophy/what-is-true.md",
+      "category": "philosophy",
+      "tags": ["philosophy"],
+      "tldr": "It depends",
+      "title": "What is True?"
+    },
     "reddit-scaling-bake-off": {
       "path": "crypto/reddit-scaling-bake-off.md",
       "category": "crypto",
