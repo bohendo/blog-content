@@ -1,8 +1,5 @@
 {
   "title": "Bo's Blog",
-  "style": {
-    "background": "#282c34"
-  },
   "posts": {
     "trail-blazing": {
       "path": "philosophy/trail-blazing.md",
