@@ -2,7 +2,7 @@ The Investment Game
 
 This is a fiction story about the game of investing. 
 
-In this game, you start out on solid ground holding a wad of cash. You're surrounded by a sea of free-standing glass-elevators which are perpetually, and almost randomly, rising and falling.
+In this game, you start out in a large lobby holding a wad of cash. You're surrounded by a sea of free-standing glass-elevators which are perpetually, and almost randomly, rising and falling.
 
 Your goal is to raise your money up as high as possible without letting any crash through the floor.
 
