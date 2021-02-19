@@ -46,7 +46,7 @@ My personal in-tray is the "To-Do List Widget" that's on the home screen of my p
 ## *Step 2: Clarify*
 
 &nbsp;
-![](https://bohendo.com/wp-content/uploads/2018/01/gtd-flowchart.png)
+![GTD Flowchart](/ipfs/QmU6sAktJPCgVFYrxhrQURDaTRMxR8PjPRHddcwhTsEMY4)
 &nbsp;
 
 The paper stacks represent buckets (lists/folders/etc), ovals represent decisions, and rounded rectangles represent actions. This diagram is based on a similar flow-chart provided on page 36 of GTD.
