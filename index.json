@@ -4,65 +4,103 @@
     "truth": {
       "path": "philosophy/what-is-true.md",
       "category": "philosophy",
-      "tags": ["philosophy"],
+      "tags": [
+        "philosophy"
+      ],
       "tldr": "It depends on the context",
-      "title": "What is True?"
+      "title": "What is True?",
+      "content": "",
+      "slug": "truth"
     },
     "trail-blazing": {
       "path": "philosophy/trail-blazing.md",
       "category": "philosophy",
-      "tags": ["philosophy"],
+      "tags": [
+        "philosophy"
+      ],
       "tldr": "A metaphor for building things that have never been built before",
-      "title": "Trail Blazing"
+      "title": "Trail Blazing",
+      "content": "",
+      "slug": "trail-blazing"
     },
     "flash-loan": {
       "path": "crypto/flash-loan.md",
       "category": "crypto",
-      "tags": ["crypto"],
+      "tags": [
+        "crypto"
+      ],
       "tldr": "The :shrimp: with a :whale: punch",
-      "title": "Flash Loan"
+      "title": "Flash Loan",
+      "content": "",
+      "slug": "flash-loan"
     },
     "elevator-investing": {
       "path": "crypto/elevator-investing.md",
       "category": "crypto",
-      "tags": ["crypto"],
+      "tags": [
+        "crypto"
+      ],
       "tldr": "A story about a contrived investment game",
-      "title": "Elevator Investing"
+      "title": "Elevator Investing",
+      "content": "",
+      "slug": "elevator-investing"
     },
     "opsec": {
       "path": "crypto/opsec.md",
       "category": "crypto",
-      "tags": ["crypto"],
+      "tags": [
+        "crypto"
+      ],
       "tldr": "Dirty details describing how I manage my passwords and crypto wallets",
-      "title": "Operations Security"
+      "title": "Operations Security",
+      "content": "",
+      "slug": "opsec"
     },
     "kratom": {
       "path": "health/kratom.md",
       "category": "health",
-      "tags": ["health"],
+      "tags": [
+        "health"
+      ],
       "tldr": "Kratom: A great drug that I enjoy with one glaring problem",
-      "title": "Kratom"
+      "title": "Kratom",
+      "content": "",
+      "slug": "kratom"
     },
     "four-hour-workweek": {
       "path": "philosophy/four-hour-workweek.md",
       "category": "philosophy",
-      "tags": ["philosophy", "reading"],
+      "tags": [
+        "philosophy",
+        "reading"
+      ],
       "tldr": "My biggest philosophical take-aways from reading The Four Hour Workweek by Tim Ferriss",
-      "title": "Philosophy of the Four Hour Workweek"
+      "title": "Philosophy of the Four Hour Workweek",
+      "content": "",
+      "slug": "four-hour-workweek"
     },
     "getting-things-done": {
       "path": "productivity/getting-things-done.md",
       "category": "productivity",
-      "tags": ["productivity", "reading"],
+      "tags": [
+        "productivity",
+        "reading"
+      ],
       "tldr": "An overview of the Getting Things Done system & examples of how I've used it",
-      "title": "Getting Things Done"
+      "title": "Getting Things Done",
+      "content": "",
+      "slug": "getting-things-done"
     },
     "leg-day": {
-      "path": "health/squat-and-deadlift.md",
       "category": "health",
-      "tags": ["health"],
+      "lastEdit": "19/2/2021",
+      "path": "health/squat-and-deadlift.md",
       "tldr": "Step-by-step guide for barbell squats & deadlifts ",
-      "title": "How to Squat and Deadlift"
+      "title": "How to Squat and Deadlift",
+      "slug": "leg-day",
+      "tags": [
+        "health"
+      ]
     }
   }
 }
