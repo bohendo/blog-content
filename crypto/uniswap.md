@@ -1,6 +1,4 @@
 
-Crypto degenerate here, I know you all dgaf about crypto but if I've invested a third of my net worth into WBTC-ETH LP tokens then I should at least be able to describe why even if just for myself. I'm hella bullish & am planning to maintain this position for years.
-
 Uniswap 101:
  - LP = Liquidity Provider aka give the exchange funds that it can use to fulfil trades
  - Uniswap is a decentralized exchange that runs on Ethereum, Uniswap is a crypto-coinbase the same way that BTC is crypto-gold.

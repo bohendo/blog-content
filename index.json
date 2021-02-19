@@ -15,33 +15,12 @@
       "tldr": "A metaphor for building things that have never been built before",
       "title": "Trail Blazing"
     },
-    "reddit-scaling-bake-off": {
-      "path": "crypto/reddit-scaling-bake-off.md",
-      "category": "crypto",
-      "tags": ["crypto"],
-      "tldr": "A taste of what I spend my time doing all day",
-      "title": "The Great Reddit Scaling Bake-Off"
-    },
     "elevator-investing": {
       "path": "crypto/elevator-investing.md",
       "category": "crypto",
       "tags": ["crypto"],
       "tldr": "A story about a contrived investment game",
       "title": "Elevator Investing"
-    },
-    "digital-vending-machines": {
-      "path": "crypto/dawn-of-the-digital-vending-machine.md",
-      "category": "crypto",
-      "tags": ["crypto"],
-      "tldr": "The robstness & simplicity of vending machines, brought to the internet",
-      "title": "Dawn of the Digital Vending Machine"
-    },
-    "fermi-paradox": {
-      "path": "philosophy/fermi-paradox.md",
-      "category": "philosophy",
-      "tags": ["spacetime"],
-      "tldr": "So lonely",
-      "title": "The Fermi Paradox"
     },
     "flash-loan": {
       "path": "crypto/flash-loan.md",
@@ -64,19 +43,26 @@
       "tldr": "An overview of the Getting Things Done system & examples of how I've used it",
       "title": "Getting Things Done"
     },
-    "meaning-of-life": {
-      "path": "philosophy/meaning-of-life.md",
-      "category": "philosophy",
-      "tags": ["philosophy", "spirituality"],
-      "tldr": "Yea, that same age-old woowoo question again. Let's disintegrate it.",
-      "title": "What is the meaning of life?"
-    },
     "opsec": {
       "path": "crypto/opsec.md",
       "category": "crypto",
       "tags": ["crypto"],
       "tldr": "Dirty details describing how I manage my passwords and crypto wallets",
       "title": "Operations Security"
+    },
+    "leg-day": {
+      "path": "health/squat-and-deadlift.md",
+      "category": "health",
+      "tags": ["health"],
+      "tldr": "Step-by-step guide for barbell squats & deadlifts ",
+      "title": "How to Squat and Deadlift"
+    },
+    "kratom": {
+      "path": "health/kratom.md",
+      "category": "health",
+      "tags": ["health"],
+      "tldr": "Kratom: A great drug that I enjoy with one glaring problem",
+      "title": "How to Squat and Deadlift"
     }
   }
 }
