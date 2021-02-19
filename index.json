@@ -5,7 +5,7 @@
       "path": "philosophy/what-is-true.md",
       "category": "philosophy",
       "tags": ["philosophy"],
-      "tldr": "It depends",
+      "tldr": "It depends on the context",
       "title": "What is True?"
     },
     "trail-blazing": {
@@ -15,6 +15,13 @@
       "tldr": "A metaphor for building things that have never been built before",
       "title": "Trail Blazing"
     },
+    "flash-loan": {
+      "path": "crypto/flash-loan.md",
+      "category": "crypto",
+      "tags": ["crypto"],
+      "tldr": "The :shrimp: with a :whale: punch",
+      "title": "Flash Loan"
+    },
     "elevator-investing": {
       "path": "crypto/elevator-investing.md",
       "category": "crypto",
@@ -22,12 +29,19 @@
       "tldr": "A story about a contrived investment game",
       "title": "Elevator Investing"
     },
-    "flash-loan": {
-      "path": "crypto/flash-loan.md",
+    "opsec": {
+      "path": "crypto/opsec.md",
       "category": "crypto",
       "tags": ["crypto"],
-      "tldr": "The :shrimp: with a :whale: punch",
-      "title": "Flash Loan"
+      "tldr": "Dirty details describing how I manage my passwords and crypto wallets",
+      "title": "Operations Security"
+    },
+    "kratom": {
+      "path": "health/kratom.md",
+      "category": "health",
+      "tags": ["health"],
+      "tldr": "Kratom: A great drug that I enjoy with one glaring problem",
+      "title": "How to Squat and Deadlift"
     },
     "four-hour-workweek": {
       "path": "philosophy/four-hour-workweek.md",
@@ -43,25 +57,11 @@
       "tldr": "An overview of the Getting Things Done system & examples of how I've used it",
       "title": "Getting Things Done"
     },
-    "opsec": {
-      "path": "crypto/opsec.md",
-      "category": "crypto",
-      "tags": ["crypto"],
-      "tldr": "Dirty details describing how I manage my passwords and crypto wallets",
-      "title": "Operations Security"
-    },
     "leg-day": {
       "path": "health/squat-and-deadlift.md",
       "category": "health",
       "tags": ["health"],
       "tldr": "Step-by-step guide for barbell squats & deadlifts ",
-      "title": "How to Squat and Deadlift"
-    },
-    "kratom": {
-      "path": "health/kratom.md",
-      "category": "health",
-      "tags": ["health"],
-      "tldr": "Kratom: A great drug that I enjoy with one glaring problem",
       "title": "How to Squat and Deadlift"
     }
   }

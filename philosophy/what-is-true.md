@@ -11,10 +11,11 @@ Which of the above statements are true?
 
 We could claim that all of them are true, but some seem more true than others. Or, at least, some are true in different contexts than others.
 
-I propose we can divide The Truth into three distinct layers:
+I propose we can divide The Truth into a few distinct categories:
  1. My subjective reality
  2. Objective reality
- 2. Our Subjective reality
+ 3. My subjective simulation of objective reality
+ 4. Our Subjective reality
 
 ## My subjective Truth
 
