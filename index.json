@@ -1,5 +1,8 @@
 {
   "title": "Bo's Blog",
+  "about": "who-am-i.md",
+  "drafts": {
+  },
   "posts": {
     "truth": {
       "path": "philosophy/truth.md",
