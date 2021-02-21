@@ -11,13 +11,11 @@ Which of the above statements are true?
 
 We could claim that all of them are true, but some seem more true than others. Or, at least, some are true in different contexts than others.
 
-I propose we can divide The Truth into a few distinct categories:
- 1. My subjective reality
+I propose we can divide The Truth into two distinct categories:
+ 1. Subjective reality
  2. Objective reality
- 3. My subjective simulation of objective reality
- 4. Our Subjective reality
 
-## My subjective Truth
+### Subjective Truth
 
 My subjective truths are true within my subjective experience.
 
@@ -41,7 +39,7 @@ Subjective truths are set in stone and are not open to negotiation. If I say "I 
 
 That said, subjective truths can obviously change, somebody could say "why don't you try going outside and looking at the sky" and maybe my subjective truth will change.
 
-## The Objective Truth
+### Objective Truth
 
 Objective truths are true if we can verify them in objective reality.
 
@@ -59,7 +57,21 @@ Reality is that which, when subjectively false, is still objectively true.
 
 Abstract math is, counter-intuitively, not contained in the realm of objective reality. 2 + 2 = 4 is a purely subjective truth that depends entirely on your concept of what "2" in the abstract means. If I ask you "what comes after 12?", the answer would be different if our context is an abstract number line vs non-military-time hours of the day.
 
-## The Subjective Truth
+## Further Distinctions
+
+Like yin-yang: within each aspect of reality, there contains a simulation of the other.
+
+Within my subjective reality, there is a simulation of objective reality.
+Within objective reality, there exists a notion of our communal subjective reality.
+
+
+### The Objective Truth w/in Subjective Truth
+
+My subjective reality contains a simulation of objective reality.
+
+If I close my eyes and imagine holding a ball in my hand and simulate what will happen if I open my hand, I can reasonably predict that the ball will accelerate down towards the ground.
+
+### The Subjective Truth w/in Objective Truth
 
 Notice that I qualified the earlier discussion of subjective truth by specifying it as "my" subjective truth or "an individual's" subjective truth.
 
