@@ -2,7 +2,7 @@
   "title": "Bo's Blog",
   "posts": {
     "truth": {
-      "path": "philosophy/what-is-true.md",
+      "path": "philosophy/truth.md",
       "category": "philosophy",
       "tags": [
         "philosophy"
