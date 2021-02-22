@@ -1,8 +1,7 @@
 {
   "title": "Bo's Blog",
   "about": "who-am-i.md",
-  "drafts": {
-  },
+  "drafts": {},
   "posts": {
     "truth": {
       "path": "philosophy/truth.md",
@@ -60,15 +59,15 @@
       "slug": "opsec"
     },
     "kratom": {
-      "path": "health/kratom.md",
       "category": "health",
-      "tags": [
-        "health"
-      ],
+      "lastEdit": "22/2/2021",
+      "img": "/ipfs/Qmb7zopfxXAoxxvoFCTL1nV9M6jgrxceGUweD2g2peSBe4",
       "tldr": "Kratom: A great drug that I enjoy with one glaring problem",
       "title": "Kratom",
-      "content": "",
-      "slug": "kratom"
+      "slug": "kratom",
+      "tags": [
+        "health"
+      ]
     },
     "four-hour-workweek": {
       "path": "philosophy/four-hour-workweek.md",
