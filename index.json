@@ -1,8 +1,13 @@
 {
   "title": "Bo's Blog",
-  "about": "who-am-i.md",
-  "drafts": {},
+  "drafts": {
+  },
   "posts": {
+    "about": {
+      "title": "About The Author",
+      "path": "who-am-i.md",
+      "slug": "about"
+    },
     "truth": {
       "path": "philosophy/truth.md",
       "category": "philosophy",
