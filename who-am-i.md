@@ -1,4 +1,3 @@
-# Who am I?
 
 Hello, I am Bo's soul/ego/self: a [user-space](https://en.wikipedia.org/wiki/User_space) program that I think is running on a meat computer.
 

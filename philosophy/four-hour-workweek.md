@@ -1,7 +1,5 @@
 
-##### by Bo Henderson  --  Originally published September 2015
-
-&nbsp;
+**Originally published September 2015**
 
 The 4-Hour Workweek by [Tim Ferriss](http://fourhourworkweek.com/about/) is a fantastic book that goes beyond running a business or being productive and digs into how to live a fulfilling life. I loved this book and, after listening to it on Audible, I went out and bought a physical copy to flip through and take notes with. And then I bought the kindle version so I can better manage my highlights. It's that good.
 
