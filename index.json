@@ -1,7 +1,6 @@
 {
   "title": "Bo's Blog",
-  "drafts": {
-  },
+  "drafts": {},
   "posts": {
     "about": {
       "title": "About The Author",
@@ -17,7 +16,9 @@
       "tldr": "It depends on the context",
       "title": "What is True?",
       "content": "",
-      "slug": "truth"
+      "slug": "truth",
+      "draft": false,
+      "featured": false
     },
     "trail-blazing": {
       "path": "philosophy/trail-blazing.md",
@@ -39,7 +40,8 @@
       "tldr": "The :shrimp: with a :whale: punch",
       "title": "Flash Loan",
       "content": "",
-      "slug": "flash-loan"
+      "slug": "flash-loan",
+      "featured": true
     },
     "elevator-investing": {
       "path": "crypto/elevator-investing.md",
@@ -84,7 +86,8 @@
       "tldr": "My biggest philosophical take-aways from reading The Four Hour Workweek by Tim Ferriss",
       "title": "Philosophy of the Four Hour Workweek",
       "content": "",
-      "slug": "four-hour-workweek"
+      "slug": "four-hour-workweek",
+      "featured": true
     },
     "getting-things-done": {
       "path": "productivity/getting-things-done.md",
