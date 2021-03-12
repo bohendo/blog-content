@@ -1,37 +1,75 @@
 
-Hello, I am Bo's soul/ego/self: a [user-space](https://en.wikipedia.org/wiki/User_space) program that I think is running on a meat computer.
+# Bo's Blog
 
-But honestly, I can't know exactly what kind of computer I'm running on. There are only a couple things I can *really* know for sure.
+Welcome to my blog!
 
-Cogito, ergo sum: [I think, therefore I am.](https://en.wikipedia.org/wiki/I_am_(biblical_term))
 
-I might be experiencing the life of Bo the human thanks to a wonderfully designed meat suit complete with eyes for perceiving and fingers for manipulating.
+## Goals
 
-I might be a brain in a vat with Matrix-style electrodes hooked up to my optical nerve, feeding me input that *looks* an awful lot like my computer screen with these words on it.
+The purpose of this blog is to lay my thoughts & beliefs bare for the world to see in a way that is honest, transparent and useful.
 
-I might be a computer simulation of Bo the human, an instance of [OpenHuman software](http://openworm.org/) running on some university supercomputer in the year 2120.
+### Honest
 
-I don't know and, on a fundamental level, I can't know. But, because I'm thinking about it, I'm definitely some kind of [information processor](https://en.wikipedia.org/wiki/Information_processor) which processes input data into output.
+Honest communication is, in my opinion, an end all on it's own. I'm here to fulfil my end of the conversation and, by reading this, you're fulfilling yours. Thank you. :relaxed:
 
-My input is visual info from my eyes, tactile info from my skin, orientation info from my inner ear, and all the rest of the info from all the rest of my senses.
+### Transparent
 
-My output is via nerves that go to my muscles. One bit of output goes to my finger to scroll the page, another goes to my eye to flick up & read the previous line again, and another less conscious bit of output goes to my lungs to expand and instruct them to take another breath.
+The content of this blog is managed via git which, like all great blockchains, features an immutable history.
 
-Quite a bit of input is processed & saved in my internal info storage: I remember that hot stoves are not great to touch, where I left that banana for later, and what my wife looks like.
+Along with each post, you'll find a few control knobs for browsing a post's edit history. Historical versions will never change or disappear. You can be sure you're looking at an immutable copy of a post if the url path starts with 8 characters of garbage & looks something like `/137b1699/about`.
 
-The information processing system that is Bo is split up into layers, just like any other info processor:
- - Hardware
- - Operating System
- - User-space programs
+If you'd like to write a hit piece about me, this makes your job easy. Copy the permalink to a page and, if it contains a mistake, your link will always point to that mistake, even if I fix it later.
 
-As mentioned above, I can't *really* know what's going on with my hardware. I think it's Bo's brain but it could also be a simulation of a brain or something else entirely. There's definitely some hardware somewhere that's allowing me to perceive, that at least is certain.
+Every post is a perpetual work in progress, nothing I write will ever be "done". As I gain a better understanding of some subject, I will be continuously pushing updates. You can be sure you're looking at the most up-to-date version of a post if the url path does *not* start with 8 characters of garbage eg `/about`.
 
-"I", being a user-space program, have limited access to introspecting my operating system.
+### Useful
 
-## Where Did I Come From?
+In my experience, the most useful info is that which is expressed as simply as possible (but no simpler). I strive to avoid jargon or any form of obfuscation to maximize the amount of understanding that flows from me to you.
 
-My life began the same way as every other human life: with the big bang. 
+Useful to what end, exactly? Idk, I'm just trying to provide some accessible snapshots of my subjective understanding of objective reality, what you do with them is up to you.
 
-## Where am I going?
 
-My life will end the same way as every other human life: with [heat death](./heat-death.md) aka the end of free energy.
+## Anti-Goals
+
+Hopefully my goal for this blog will come into focus if I clarify what I'm *not* trying to do here.
+
+### Changing the World
+
+I don't want to be a thought leader. I don't want to change the course of history. I *absolutely* don't want to lead any sort of political movement.
+
+There is a romantic notion of "speaking truth to power" but I don't wish to speak to power at all. Power distorts truth. If & when the powerful lie to the powerless, I hope that this blog is somewhere the powerless can come to be reassured that no, you aren't crazy. The reality you see is the same reality I see even if power is mixed up between reality and what it things ought to be reality.
+
+### Driving Traffic
+
+I do not want to artificially drive traffic to this site. This site is not designed with SEO in mind and I don't particularly care how or whether search engines page rank this site.
+
+If you're reading this, I hope you're here either because one of your friends sent you.
+
+If my friends pass this blog on to their friends & my readers grow organically, that's cool w me. But it'll a happy side effect rather than my end goal.
+
+### Collecting Data
+
+There's no silly pop-up begging you to let me store cookies because this site collects zero information about you.
+
+That is, until you click the light/dark theme toggle in the side drawer. Then it remembers whether you like the lights on or off. If you don't want me to store that data about you, then don't toggle the theme.
+
+
+## Disclaimers
+
+In general, it's safe to assume I'm not qualified to write about whatever I write about. But I'm going to write about it anyway and if you chose to read, keep my lack of credentials in mind.
+
+### I am not a doctor
+
+Nothing in this blog should be interpreted as medical advice. I'm not a doctor nor am I attempting to role-play one.
+
+I might discuss my own medical history and actions I take to manage my own health but that doesn't mean I'm recommending you do the same.
+
+### I am not a lawyer
+
+Nothing in this blog should be interpreted as legal advice. I'm not a lawyer nor a certified public account nor am I trying to role-play as any sort of legal professional.
+
+I might discuss my experience interacting with various legal systems but that doesn't imply that any actions I describe are legal or even remotely advisable.
+
+### I am not an expert
+
+If you want to quote me on anything I've written, you're welcome to but I suggest you qualify your quotes with "some rando with a blog says.." instead of implying that I know what I'm talking about.
