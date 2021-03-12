@@ -5,7 +5,9 @@
 
 **A conspiracy theory re statins**
 
-This post aims to describe the basics of lipid biochemistry in a way that is simple & intuitive. Once we get a basic understanding of the building blocks, we will take a closer look at what LDL is exactly and why the rumors of it's villainy have been greatly exaggerated.
+Friendly reminder: [I am not a doctor](/about#i-am-not-a-doctor)
+
+This post aims to describe the basics of lipid biochemistry in a way that is simple & intuitive. Once we get a basic understanding of the building blocks, we will take a closer look at how lipids & heart disease interact and why the rumors of LDL-villainy might be exaggerated.
 
 ## Lipid Profiles 101
 
