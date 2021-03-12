@@ -8,11 +8,11 @@ Welcome to my blog!
 
 The purpose of this blog is to lay my thoughts & beliefs bare for the world to see in a way that is honest, transparent and useful.
 
-### Honest
+### Honesty
 
-Honest communication is, in my opinion, an end all on it's own. I'm here to fulfil my end of the conversation and, by reading this, you're fulfilling yours. Thank you. :relaxed:
+Honest communication is, in my opinion, an end-goal all on it's own. I'm here to fulfil my end of the conversation and, by reading this, you're fulfilling yours. Thank you. :grin:
 
-### Transparent
+### Transparency
 
 The content of this blog is managed via git which, like all great blockchains, features an immutable history.
 
@@ -35,7 +35,7 @@ Hopefully my goal for this blog will come into focus if I clarify what I'm *not*
 
 ### Changing the World
 
-I don't want to be a thought leader. I don't want to change the course of history. I *absolutely* don't want to lead any sort of political movement.
+I don't want to be a thought leader. I don't want to alter the course of history. I *absolutely* don't want to lead any sort of political movement.
 
 There is a romantic notion of "speaking truth to power" but I don't wish to speak to power at all. Power distorts truth. If & when the powerful lie to the powerless, I hope that this blog is somewhere the powerless can come to be reassured that no, you aren't crazy. The reality you see is the same reality I see even if power is mixed up between reality and what it things ought to be reality.
 
@@ -43,9 +43,7 @@ There is a romantic notion of "speaking truth to power" but I don't wish to spea
 
 I do not want to artificially drive traffic to this site. This site is not designed with SEO in mind and I don't particularly care how or whether search engines page rank this site.
 
-If you're reading this, I hope you're here either because one of your friends sent you.
-
-If my friends pass this blog on to their friends & my readers grow organically, that's cool w me. But it'll a happy side effect rather than my end goal.
+If you're reading this, I hope you're here because one of your friends sent you. If my friends do pass this blog on to their friends & my readership grows organically, that's cool w me, but it'd be a happy side effect rather than my end goal.
 
 ### Collecting Data
 
