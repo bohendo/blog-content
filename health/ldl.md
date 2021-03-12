@@ -1,12 +1,9 @@
 
-# LDL is Good, Actually
+# LDL is Good
 
 **"LDL considered harmful" considered harmful**
 
 **A conspiracy theory re statins**
-
-> It’s the mark of a charlatan to try and explain simple things in complex ways.
-- [Naval](https://twitter.com/naval/status/752796426208325632)
 
 This post aims to describe the basics of lipid biochemistry in a way that is simple & intuitive. Once we get a basic understanding of the building blocks, we will take a closer look at what LDL is exactly and why the rumors of it's villainy have been greatly exaggerated.
 
@@ -37,8 +34,6 @@ These 3 types of lipid transports make up the other 3 major components of a lipi
 
 ### Total Cholesterol
 
-<!-- Insert a pic of cholesterol here -->
-
 Cholesterol is the primary building block used to synthesize testosterone, vitamin D, bile, etc.
 
 Cell membranes contain quite a bit of cholesterol too, it keeps animal cells stable yet flexible; in contrast to plant cell membranes which are stabilized by a rigid cell wall.
@@ -47,9 +42,9 @@ You can eat cholesterol containing foods & that cholesterol will eventually make
 
 ### Triglycerides
 
-<!-- Insert a pic of a triglyceride molecule -->
+**aka Fat**
 
-Triglycerides are energy-dense fuel.
+Triglycerides are energy-dense fuel. They can be stored in fat call for later use or burned for energy.
 
 ### VLDL
 
@@ -76,7 +71,7 @@ Now that we have a basic understanding of the actors in this play, we can more c
 To start, let's get a better understanding of what causes heart disease & introduce statins: the leading medication for preventing/treating heart disease. Then, we'll review the medical community's current consensus and I'll introduce a conspiracy theory which proposes how & why this hypothesis has been corrupted.
 
 ### Atherosclerosis
-- **aka Fatty Artery Plaque**
+**aka Fatty Artery Plaque**
 
 Fatty artery plaques are the biggest & baddest cause of heart disease & the number 1 cause of death in the United States. 
 
@@ -99,8 +94,8 @@ Cholesterol is an important building material though and inhibiting it's product
 But in cases where atheroscleroses is well underway, the benefits can absolutely outweigh the downsides.
 
 ### The Statin Hypothesis
-- **aka [The Lipid Hypothesis](https://en.wikipedia.org/wiki/Lipid_hypothesis)**
-- **aka What is currently being taught in medical schools**
+**aka [The Lipid Hypothesis](https://en.wikipedia.org/wiki/Lipid_hypothesis)**
+**aka What is currently being taught in medical schools**
 
 > Too much LDL (called 'bad cholesterol') can lead to fatty deposits building up in the arteries which increases the risk of cardiovascular disease. Decreasing blood cholesterol significantly reduces coronary heart disease.
 
