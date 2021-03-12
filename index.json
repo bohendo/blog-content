@@ -8,17 +8,16 @@
       "slug": "about"
     },
     "truth": {
-      "path": "philosophy/truth.md",
-      "category": "philosophy",
-      "tags": [
-        "philosophy"
-      ],
-      "tldr": "It depends on the context",
-      "title": "What is True?",
-      "content": "",
       "slug": "truth",
+      "title": "What is True?",
+      "category": "philosophy",
       "draft": false,
-      "featured": false
+      "featured": false,
+      "img": "/ipfs/QmXmJCX5yq3ChefYu6hnmUDYCPYLRfdKKDF7xnLWBGwfak",
+      "lastEdit": "2021-03-12T03:39:32.230Z",
+      "path": "philosophy/truth.md",
+      "tldr": "It depends on the context",
+      "publishedOn": "2021-03-12T03:39:32.230Z"
     },
     "trail-blazing": {
       "path": "philosophy/trail-blazing.md",
