@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# If our kindle is plugged in, let's grap clippings from it
+# If our kindle is plugged in, let's grab clippings from it
 if [[ -f "/media/`whoami`/Kindle/documents/My Clippings.txt" ]]
 then
   input="/media/`whoami`/Kindle/documents/My Clippings.txt"
@@ -14,12 +14,13 @@ else
   input="My Clippings.txt"
 fi
 
-echo "Preparing to parse input: $input"
+output="my-clippings.txt"
+
+echo "Preparing to import clippings from $input and save them to $output"
 sleep 2
 
 # Move $output to a temporary read location so we can 
 #   write to this filename at the other end of our pipe
-output="my-clippings.txt"
 if [[ -f "$output" ]]; then mv "$output" ".$output.backup"
 fi
 
