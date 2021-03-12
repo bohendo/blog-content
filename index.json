@@ -3,64 +3,48 @@
   "posts": {
     "about": {
       "title": "About The Author",
-      "path": "who-am-i.md",
       "slug": "about"
     },
+    "ldl": {
+      "category": "health",
+      "publishedOn": "2021-03-12",
+      "slug": "ldl",
+      "title": "",
+      "tldr": "Rumors of LDL's villainy have been greatly exaggerated by those trying to sell you statins."
+    },
     "truth": {
-      "slug": "truth",
-      "title": "What is True?",
       "category": "philosophy",
       "draft": false,
       "featured": false,
-      "img": "/ipfs/QmXmJCX5yq3ChefYu6hnmUDYCPYLRfdKKDF7xnLWBGwfak",
       "lastEdit": "2021-03-12T03:39:32.230Z",
-      "path": "philosophy/truth.md",
-      "tldr": "It depends on the context",
-      "publishedOn": "2021-03-12T03:39:32.230Z"
+      "publishedOn": "2021-03-12T03:39:32.230Z",
+      "slug": "truth",
+      "title": "What is True?",
+      "tldr": "It depends on the context"
     },
     "trail-blazing": {
-      "path": "philosophy/trail-blazing.md",
       "category": "philosophy",
-      "tags": [
-        "philosophy"
-      ],
       "tldr": "A metaphor for building things that have never been built before",
       "title": "Trail Blazing",
-      "content": "",
       "slug": "trail-blazing"
     },
     "flash-loan": {
-      "path": "crypto/flash-loan.md",
       "category": "crypto",
-      "tags": [
-        "crypto"
-      ],
       "tldr": "The :shrimp: with a :whale: punch",
       "title": "Flash Loan",
-      "content": "",
       "slug": "flash-loan",
       "featured": true
     },
     "elevator-investing": {
-      "path": "crypto/elevator-investing.md",
       "category": "crypto",
-      "tags": [
-        "crypto"
-      ],
       "tldr": "A story about a contrived investment game",
       "title": "Elevator Investing",
-      "content": "",
       "slug": "elevator-investing"
     },
     "opsec": {
-      "path": "crypto/opsec.md",
       "category": "crypto",
-      "tags": [
-        "crypto"
-      ],
       "tldr": "Dirty details describing how I manage my passwords and crypto wallets",
       "title": "Operations Security",
-      "content": "",
       "slug": "opsec"
     },
     "kratom": {
@@ -69,46 +53,27 @@
       "img": "/ipfs/QmXcJKnhG3cHFxifKvKyxpM3R6H5kHrdWrJxcoYafAw1cj",
       "tldr": "Kratom: A great drug that I enjoy with one glaring problem",
       "title": "Kratom",
-      "slug": "kratom",
-      "tags": [
-        "health"
-      ]
+      "slug": "kratom"
     },
     "four-hour-workweek": {
-      "path": "philosophy/four-hour-workweek.md",
       "category": "philosophy",
-      "tags": [
-        "philosophy",
-        "reading"
-      ],
       "tldr": "My biggest philosophical take-aways from reading The Four Hour Workweek by Tim Ferriss",
       "title": "Philosophy of the Four Hour Workweek",
-      "content": "",
       "slug": "four-hour-workweek",
       "featured": true
     },
     "getting-things-done": {
-      "path": "productivity/getting-things-done.md",
       "category": "productivity",
-      "tags": [
-        "productivity",
-        "reading"
-      ],
       "tldr": "An overview of the Getting Things Done system & examples of how I've used it",
       "title": "Getting Things Done",
-      "content": "",
       "slug": "getting-things-done"
     },
     "leg-day": {
       "category": "health",
       "lastEdit": "19/2/2021",
-      "path": "health/squat-and-deadlift.md",
       "tldr": "Step-by-step guide for barbell squats & deadlifts ",
       "title": "How to Squat and Deadlift",
-      "slug": "leg-day",
-      "tags": [
-        "health"
-      ]
+      "slug": "leg-day"
     }
   }
 }
