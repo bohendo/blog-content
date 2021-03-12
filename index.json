@@ -2,14 +2,16 @@
   "title": "Bo's Blog",
   "posts": {
     "about": {
-      "title": "About The Author",
-      "slug": "about"
+      "slug": "about",
+      "title": "About The Author"
     },
     "ldl": {
       "category": "health",
+      "img": "/ipfs/QmXmJCX5yq3ChefYu6hnmUDYCPYLRfdKKDF7xnLWBGwfak",
+      "featured": true,
       "publishedOn": "2021-03-12",
       "slug": "ldl",
-      "title": "",
+      "title": "LDL is Good",
       "tldr": "Rumors of LDL's villainy have been greatly exaggerated by those trying to sell you statins."
     },
     "truth": {
@@ -24,56 +26,56 @@
     },
     "trail-blazing": {
       "category": "philosophy",
-      "tldr": "A metaphor for building things that have never been built before",
+      "slug": "trail-blazing",
       "title": "Trail Blazing",
-      "slug": "trail-blazing"
+      "tldr": "A metaphor for building things that have never been built before"
     },
     "flash-loan": {
       "category": "crypto",
-      "tldr": "The :shrimp: with a :whale: punch",
-      "title": "Flash Loan",
+      "featured": true,
       "slug": "flash-loan",
-      "featured": true
+      "title": "Flash Loan",
+      "tldr": "The :shrimp: with a :whale: punch"
     },
     "elevator-investing": {
       "category": "crypto",
-      "tldr": "A story about a contrived investment game",
+      "slug": "elevator-investing",
       "title": "Elevator Investing",
-      "slug": "elevator-investing"
+      "tldr": "A story about a contrived investment game"
     },
     "opsec": {
       "category": "crypto",
-      "tldr": "Dirty details describing how I manage my passwords and crypto wallets",
+      "slug": "opsec",
       "title": "Operations Security",
-      "slug": "opsec"
+      "tldr": "Dirty details describing how I manage my passwords and crypto wallets"
     },
     "kratom": {
       "category": "health",
-      "lastEdit": "22/2/2021",
       "img": "/ipfs/QmXcJKnhG3cHFxifKvKyxpM3R6H5kHrdWrJxcoYafAw1cj",
-      "tldr": "Kratom: A great drug that I enjoy with one glaring problem",
+      "lastEdit": "22/2/2021",
+      "slug": "kratom",
       "title": "Kratom",
-      "slug": "kratom"
+      "tldr": "Kratom: A great drug that I enjoy with one glaring problem"
     },
     "four-hour-workweek": {
       "category": "philosophy",
-      "tldr": "My biggest philosophical take-aways from reading The Four Hour Workweek by Tim Ferriss",
-      "title": "Philosophy of the Four Hour Workweek",
+      "featured": true,
       "slug": "four-hour-workweek",
-      "featured": true
+      "title": "Philosophy of the Four Hour Workweek",
+      "tldr": "My biggest philosophical take-aways from reading The Four Hour Workweek by Tim Ferriss"
     },
     "getting-things-done": {
       "category": "productivity",
-      "tldr": "An overview of the Getting Things Done system & examples of how I've used it",
+      "slug": "getting-things-done",
       "title": "Getting Things Done",
-      "slug": "getting-things-done"
+      "tldr": "An overview of the Getting Things Done system & examples of how I've used it"
     },
     "leg-day": {
       "category": "health",
       "lastEdit": "19/2/2021",
-      "tldr": "Step-by-step guide for barbell squats & deadlifts ",
+      "slug": "leg-day",
       "title": "How to Squat and Deadlift",
-      "slug": "leg-day"
+      "tldr": "Step-by-step guide for barbell squats & deadlifts "
     }
   }
 }
