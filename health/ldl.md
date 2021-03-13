@@ -7,7 +7,7 @@
 
 Friendly reminder: [I am not a doctor](/about#i-am-not-a-doctor)
 
-This post aims to describe the basics of lipid biochemistry in a way that is simple & intuitive. Once we get a basic understanding of the building blocks, we will take a closer look at how lipids & heart disease interact and why the rumors of LDL-villainy might be exaggerated.
+This post aims to describe the basics of lipid biochemistry in a way that is simple & intuitive. Once we get a basic understanding of the building blocks, we will take a closer look at how lipids & heart disease interact and then I'll propose new villains for us to fear instead of LDL.
 
 ## Lipid Profiles 101
 
@@ -17,13 +17,15 @@ To start, let's take a peek at my lipid profile from March 12th, 2021.
 
 (Notice my LDL level is well above the reference interval, you should be suspicious that this entire post is just a way for me to rationalize & cope w my own high LDL levels.)
 
+If you'd like to read more about causes for high LDL levels, check out [my wife's post about her own lipid profile](https://shivhendo.com/high-ldl).
+
 Lipids are hydrophobic (aka non-polar aka greasy) molecules that don't mix well with water.
 
 Two lipids stand out as being particularly ubiquitous in your body, and are therefore two of the measurements included in a lipid profile:
 - Cholesterol
 - Triglycerides
 
-There are other important lipids in your body eg phospholipids that are used to build cell membranes and fat soluble vitamins such as vitamin D but cholesterol and triglycerides are the two most common and most relevant when it comes to getting a high-level overview of your health.
+There are other important lipids in your body eg phospholipids that are used to build cell membranes and fat soluble vitamins such as vitamin D but cholesterol and triglycerides are the two most relevant when it comes to getting a high-level overview of your health.
 
 Hydrophobic molecules don't mix well with water and your blood is mostly water. In order to transport lipids throughout your body without having them condense into sticky fat globules, they are packaged into ships made of lipoproteins, etc. Both water and lipoproteins are more dense than lipids so the bigger the lipid payload is, the less dense a lipoprotein ship is. It's reasonable to think of high-density lipoproteins (HDL) as lipid transporters that are mostly empty and low density lipoproteins (LDL) as transporters that are packed full of lipids.
 
@@ -32,9 +34,9 @@ Although they're mostly built of the same building blocks, empty and full lipid 
 - LDL: low density aka mostly full
 - HDL: high density aka mostly empty
 
-These 3 types of lipid transports make up the other 3 major components of a lipid profile.
+Now let's review the roles played by these 2 lipids and the 3 categories of transporters.
 
-### Total Cholesterol
+### Cholesterol
 
 Cholesterol is the primary building block used to synthesize testosterone, vitamin D, bile, etc.
 
@@ -46,7 +48,7 @@ You can eat cholesterol containing foods & that cholesterol will eventually make
 
 **aka Fat**
 
-Triglycerides are energy-dense fuel. They can be stored in fat call for later use or burned for energy.
+Triglycerides are energy-dense fuel. They can be stored in fat cells for later use or burned for energy.
 
 ### VLDL
 
@@ -56,7 +58,7 @@ Very low density lipoproteins are lipid transporters that are extremely full. Th
 
 Low density lipoproteins are created in the blood stream from VLDL particles which have already dropped off a significant chunk of their fuel cargo. LDL transporters generally carry more cholesterol than triglycerides.
 
-Because LDL contains more cholesterol than triglycerides, it's common to refer to it as "LDL Cholesterol" ie cholesterol that is being transported by LDL particles. The Statin Hypothesis claims that LDL is "bad cholesterol" & you generally want low levels of it in your blood.
+Because LDL contains more cholesterol than triglycerides, it's common to refer to it's payload as "LDL Cholesterol" ie cholesterol that is being transported by LDL particles. The Statin Hypothesis claims that cholesterol in LDL is "bad cholesterol" & you generally want low levels of it in your blood.
 
 ### HDL
 
@@ -64,7 +66,7 @@ High density lipoproteins are lipid transporters that are mostly empty. Their pr
 
 HDL acts as a spare-parts transporter as well: when VLDL gets restructured to LDL, some new lipoproteins are required & these are provided by HDL.
 
-Like LDL, HDL contains more cholesterol than triglycerides so it's similarly common to refer to it as "HDL Cholesterol" ie cholesterol that's being transported in HDL particles. The Statin Hypothesis claims that HDL represents "good cholesterol" & you generally want high levels of it in your blood.
+Like LDL, HDL contains more cholesterol than triglycerides so it's similarly common to refer to it's payload as "HDL Cholesterol" ie cholesterol that's being transported in HDL particles. The Statin Hypothesis claims that cholesterol in HDL represents "good cholesterol" & you generally want high levels of it in your blood.
 
 ## Lipids and Heart Disease
 
@@ -96,7 +98,9 @@ Cholesterol is an important building material though and inhibiting it's product
 But in cases where atheroscleroses is well underway, the benefits can absolutely outweigh the downsides.
 
 ### The Statin Hypothesis
+
 **aka [The Lipid Hypothesis](https://en.wikipedia.org/wiki/Lipid_hypothesis)**
+
 **aka What is currently being taught in medical schools**
 
 > Too much LDL (called 'bad cholesterol') can lead to fatty deposits building up in the arteries which increases the risk of cardiovascular disease. Decreasing blood cholesterol significantly reduces coronary heart disease.
@@ -109,7 +113,7 @@ This theory is more commonly called the Lipid Hypothesis but I'm cheeky and like
 
 The problem with the Statin Hypothesis is that it lumps all LDL together & labels it as "bad" but not all LDL is equally dangerous.
 
-Healthy LDL does not stick to your artery walls and does not cause atheroscleroses. In order for it to contribute to fatty deposits in the arteries, the LDL must first be oxidized eg by a [reactive oxygen species](https://en.wikipedia.org/wiki/Reactive_oxygen_species) aka ROS. ROS forms as a natural byproduct of oxygen-dependent metabolism & our bodies have antioxidant enzymes such as superoxide dismutase (SOD) that disarms destructive ROS. But artificially high ROS levels can be caused by smoking, eating processed foods, and inflammation.
+Healthy LDL does not stick to your artery walls and does not cause atheroscleroses. In order for it to contribute to fatty deposits in the arteries, the LDL must first be oxidized eg by a [reactive oxygen species](https://en.wikipedia.org/wiki/Reactive_oxygen_species) aka ROS. ROS forms as a natural byproduct of oxygen-dependent metabolism & our bodies have antioxidant enzymes such as superoxide dismutase (SOD) that disarms destructive ROS. But dangerously high ROS levels can be caused by smoking, eating processed foods, and chronic inflammation.
 
 So, given that oxidative stress is required before LDL will contribute to fatty plaques, I propose that we vilify ROS instead of LDL and update our hypothesis to be:
 
@@ -135,14 +139,14 @@ The x-axis splits the study sample into two groups: those with LDL >170 mg/dL an
 
 Each group along the x-axis is further divided based on their triglyceride & HDL levels with low-triglyceride & high-HDL to the left and high-triglyceride & low-HDL to the right.
 
-What this figure shows is that whether a subject was in the high LDL or low LDL group has a much smaller difference to their heart disease risk than their triglyceride/HDL levels. For example, >12% of the low-LDL/high-triglyceride/low-HDL group experience heart disease while <5% of the high-LDL/low-triglyceride/high-HDL group experienced heart disease.
+What this figure shows is that whether a subject was in the high LDL or low LDL group makes a much smaller difference to their heart disease risk than their triglyceride/HDL levels. For example, >12% of the low-LDL/high-triglyceride/low-HDL group experience heart disease while <5% of the high-LDL/low-triglyceride/high-HDL group experienced heart disease.
 
 What I take away from this graph is that triglyceride & HDL levels are *very* important and strongly predictive of heart disease while LDL is only mildly predictive. If we revisit my lipid panel, we see that my triglyceride levels are well below the recommendation while my HDL is well above. This is a very good sign for my heart health & suggests that I'm *not* at a particularly elevated risk of heart disease despite my LDL being slightly above the recommendation.
 
 Now, if I went to an average American doctor, it's completely feasible that they'd say
 
-> oh no your bad cholesterol is above the recommended level, you should try changing your diet and, if that doesn't lower your LDL, we can start you on statins
+> Oh no! Your bad cholesterol is above the recommended level, you should try eating less cholesterol and, if that doesn't lower your LDL, we can start you on statins
 
-You might recall that your liver very effectively maintains blood cholesterol levels no matter dietary cholesterol intake so changing my diet is likely to have no effect. That means the next step would be to spend money on statins. Well played, pharmaceutical-industrial complex. :moneybag:
+You might recall that your liver very effectively maintains blood cholesterol levels no matter dietary cholesterol intake so eating less cholesterol-containing food is unlikely to lower my LDL. That means the next step would be to spend money on statins. Well played, pharmaceutical-industrial complex. :moneybag:
 
 That said, I'll continue getting lipid panels taken every once in a while and if I ever notice my triglycerides rise and HDL fall, I would consider statins. But I stand by the conspiracy theory outlined here & will not be a slave to my "bad" cholesterol levels.
