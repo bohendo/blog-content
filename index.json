@@ -17,7 +17,7 @@
     "truth": {
       "category": "philosophy",
       "draft": false,
-      "featured": false,
+      "featured": true,
       "lastEdit": "2021-03-12T03:39:32.230Z",
       "publishedOn": "2021-03-12T03:39:32.230Z",
       "slug": "truth",
@@ -59,7 +59,7 @@
     },
     "four-hour-workweek": {
       "category": "philosophy",
-      "featured": true,
+      "featured": false,
       "slug": "four-hour-workweek",
       "title": "Philosophy of the Four Hour Workweek",
       "tldr": "My biggest philosophical take-aways from reading The Four Hour Workweek by Tim Ferriss"
