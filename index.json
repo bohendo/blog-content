@@ -6,13 +6,15 @@
       "title": "About"
     },
     "ldl": {
-      "category": "health",
-      "img": "/ipfs/QmXmJCX5yq3ChefYu6hnmUDYCPYLRfdKKDF7xnLWBGwfak",
-      "featured": true,
-      "publishedOn": "2021-03-12",
       "slug": "ldl",
       "title": "LDL is Good",
-      "tldr": "Rumors of LDL's villainy have been greatly exaggerated by those trying to sell you statins."
+      "category": "health",
+      "draft": false,
+      "featured": true,
+      "img": "/ipfs/QmXmJCX5yq3ChefYu6hnmUDYCPYLRfdKKDF7xnLWBGwfak",
+      "lastEdit": "2021-03-13T03:36:32.790Z",
+      "tldr": "Rumors of LDL's villainy have been greatly exaggerated by those trying to sell you statins.",
+      "publishedOn": "2021-03-13T03:36:32.790Z"
     },
     "truth": {
       "category": "philosophy",
