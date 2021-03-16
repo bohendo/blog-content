@@ -35,7 +35,7 @@
     },
     "flash-loan": {
       "category": "crypto",
-      "featured": true,
+      "featured": false,
       "slug": "flash-loan",
       "title": "Flash Loan",
       "tldr": "The :shrimp: with a :whale: punch"
