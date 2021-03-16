@@ -52,11 +52,14 @@
       "tldr": "Dirty details describing how I manage my passwords and crypto wallets"
     },
     "kratom": {
-      "category": "health",
-      "img": "/ipfs/QmXcJKnhG3cHFxifKvKyxpM3R6H5kHrdWrJxcoYafAw1cj",
-      "lastEdit": "22/2/2021",
       "slug": "kratom",
       "title": "Kratom",
+      "category": "health",
+      "draft": false,
+      "featured": false,
+      "img": "/ipfs/QmUPdTHntjxffVH8ipFfScQmG6CNsMJWJxkNcJRMBmUiTG",
+      "lastEdit": "2021-03-16T12:20:01.852Z",
+      "publishedOn": "2021-03-16T12:20:01.852Z",
       "tldr": "Kratom: A great drug that I enjoy with one glaring problem"
     },
     "four-hour-workweek": {
