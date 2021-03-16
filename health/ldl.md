@@ -52,15 +52,21 @@ Triglycerides are energy-dense fuel. They can be stored in fat cells for later u
 
 ### VLDL
 
+~50nm in diameter. Compare to chylomicrons w diameter starting up to around 1000nm but they shrink to about 50nm too once their triglyceride stores are depleted.
+
 Very low density lipoproteins are lipid transporters that are extremely full. They are produced by your liver & released into your blood stream where they wander your body & drop off shipments of mostly fuel (triglycerides) but also some building materials (cholesterol) to cells that need them.
 
 ### LDL
+
+~25nm in diameter.
 
 Low density lipoproteins are created in the blood stream from VLDL particles which have already dropped off a significant chunk of their fuel cargo. LDL transporters generally carry more cholesterol than triglycerides.
 
 Because LDL contains more cholesterol than triglycerides, it's common to refer to it's payload as "LDL Cholesterol" ie cholesterol that is being transported by LDL particles. The Statin Hypothesis claims that cholesterol in LDL is "bad cholesterol" & you generally want low levels of it in your blood.
 
 ### HDL
+
+~10nm in diameter.
 
 High density lipoproteins are lipid transporters that are mostly empty. Their primary job is to wander through the blood stream looking for loose or surplus lipids. As they wander, they fill up their empty lipid cargo bay until eventually returning to the liver where the scavenged lipids can be repurposed into something useful eg bile.
 
