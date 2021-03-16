@@ -17,13 +17,14 @@
       "tldr": "Rumors of LDL's villainy have been greatly exaggerated by those trying to sell you statins."
     },
     "truth": {
+      "slug": "truth",
+      "title": "What is True?",
       "category": "philosophy",
       "draft": false,
       "featured": true,
-      "lastEdit": "2021-03-12T03:39:32.230Z",
+      "img": "/ipfs/QmathKnEwN2mMGvj2FSKgt6Hc4stiJ2b8awzmGTrBJwqEX",
+      "lastEdit": "2021-03-16T17:09:00.897Z",
       "publishedOn": "2021-03-12T03:39:32.230Z",
-      "slug": "truth",
-      "title": "What is True?",
       "tldr": "It depends on the context"
     },
     "trail-blazing": {
