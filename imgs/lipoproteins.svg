@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400mm"
+   height="200mm"
+   viewBox="0 0 400 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="lipoproteins.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.90274529"
+     inkscape:cx="763.58066"
+     inkscape:cy="361.10025"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <circle
+       id="path18"
+       cx="297.96902"
+       cy="186.16779"
+       style="fill:#ffcc00;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="17" />
+    <circle
+       id="path18-3"
+       cx="225.92882"
+       cy="186.16779"
+       style="fill:#ffcc00;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="27" />
+    <circle
+       id="path18-3-6"
+       style="fill:#ffcc00;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       cy="186.16779"
+       cx="83.850525"
+       r="80" />
+    <g
+       id="g4594"
+       transform="matrix(0.9957113,0,0,0.9732643,330.91388,1087.4277)"
+       style="stroke:#000000;stroke-width:0.50791132;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         id="path4591"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:0.50791132;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc"
+         sodipodi:cx="-131.47913"
+         sodipodi:cy="184.35162"
+         sodipodi:rx="1004.3036"
+         sodipodi:ry="1027.4701"
+         sodipodi:start="4.5110303"
+         sodipodi:end="4.9137476"
+         d="m -332.34059,-822.3592 a 1004.3036,1027.4701 0 0 1 401.722869,-10e-6"
+         sodipodi:open="true" />
+    </g>
+    <rect
+       style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.35355338;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4600"
+       width="400"
+       height="10"
+       x="0"
+       y="287" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.75555556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00a0f0;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       x="281.61145"
+       y="138.42548"
+       id="text4608"><tspan
+         sodipodi:role="line"
+         x="281.61145"
+         y="138.42548"
+         style="font-size:19.75555556px;fill:#00a0f0;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         id="tspan4610">HDL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.75555556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00a0f0;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       x="61.986046"
+       y="138.42548"
+       id="text4608-3"><tspan
+         sodipodi:role="line"
+         x="61.986046"
+         y="138.42548"
+         style="font-size:19.75555556px;fill:#00a0f0;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         id="tspan4632">VLDL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.75555556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00a0f0;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       x="209.18979"
+       y="138.42548"
+       id="text4608-3-7"><tspan
+         sodipodi:role="line"
+         x="209.18979"
+         y="138.42548"
+         style="font-size:19.75555556px;fill:#00a0f0;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         id="tspan4632-5">LDL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.75555611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00a0f0;fill-opacity:1;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="267.73303"
+       y="260.73035"
+       id="text4608-3-3"><tspan
+         sodipodi:role="line"
+         x="267.73303"
+         y="260.73035"
+         style="font-size:19.75555611px;fill:#00a0f0;fill-opacity:1;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan4632-56">Chylomicron</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.49997792;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4676"
+       width="4.5000219"
+       height="1.0024915"
+       x="338.61789"
+       y="176.56752" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.69999981px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="344.35965"
+       y="190.94269"
+       id="text4695"><tspan
+         sodipodi:role="line"
+         x="344.35965"
+         y="190.94269"
+         style="font-size:12.69999981px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan4697">20 nm</tspan></text>
+    <circle
+       id="path18-3-6-9"
+       style="fill:#ffcc00;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       cy="186.16779"
+       cx="83.850525"
+       r="30" />
+    <circle
+       id="path18-3-1"
+       cx="225.92882"
+       cy="186.16779"
+       style="fill:#ffcc00;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="22" />
+    <circle
+       id="path18-2"
+       cx="297.96902"
+       cy="186.16779"
+       style="fill:#ffcc00;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="5" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.49997795;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4676-0"
+       width="4.5000219"
+       height="1.0024915"
+       x="338.62421"
+       y="195.06752" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.49995852;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4672"
+       width="1.4149318"
+       height="19.500042"
+       x="340.16675"
+       y="176.56969" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4793"
+       width="3.7709394"
+       height="0.5"
+       x="338.95493"
+       y="176.81877" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4793-9"
+       width="3.7709394"
+       height="0.5"
+       x="338.98874"
+       y="195.31877" />
+  </g>
+</svg>
