@@ -148,11 +148,3 @@ Each group along the x-axis is further divided based on their triglyceride & HDL
 What this figure shows is that whether a subject was in the high LDL or low LDL group makes a much smaller difference to their heart disease risk than their triglyceride/HDL levels. For example, >12% of the low-LDL/high-triglyceride/low-HDL group experience heart disease while <5% of the high-LDL/low-triglyceride/high-HDL group experienced heart disease.
 
 What I take away from this graph is that triglyceride & HDL levels are *very* important and strongly predictive of heart disease while LDL is only mildly predictive. If we revisit my lipid panel, we see that my triglyceride levels are well below the recommendation while my HDL is well above. This is a very good sign for my heart health & suggests that I'm *not* at a particularly elevated risk of heart disease despite my LDL being slightly above the recommendation.
-
-Now, if I went to an average American doctor, it's completely feasible that they'd say
-
-> Oh no! Your bad cholesterol is above the recommended level, you should try eating less cholesterol and, if that doesn't lower your LDL, we can start you on statins
-
-You might recall that your liver very effectively maintains blood cholesterol levels no matter dietary cholesterol intake so eating less cholesterol-containing food is unlikely to lower my LDL. That means the next step would be to spend money on statins. Well played, pharmaceutical-industrial complex. :moneybag:
-
-That said, I'll continue getting lipid panels taken every once in a while and if I ever notice my triglycerides rise and HDL fall, I would consider statins. But I stand by the conspiracy theory outlined here & will not be a slave to my "bad" cholesterol levels.
