@@ -5,6 +5,16 @@
       "slug": "about",
       "title": "About"
     },
+    "dal-makhani": {
+      "slug": "dal-makhani",
+      "title": "How to cook Dal Makhani",
+      "category": "recipes",
+      "draft": false,
+      "featured": false,
+      "lastEdit": "2021-03-22",
+      "publishedOn": "2021-03-22",
+      "tldr": "Very tasty & surprisingly simple Indian dish"
+    },
     "ldl": {
       "slug": "ldl",
       "title": "LDL is Good",
