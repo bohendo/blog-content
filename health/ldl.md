@@ -13,6 +13,7 @@ This post aims to describe the basics of lipid biochemistry in a way that is sim
 ## Resources
 - [My wife's discussion of her lipid profile](https://shivhendo.com/high-ldl)
 - [Regarding the structure of LDL](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3090388/)
+- [To Statin or Not to Statin](/ipfs/QmRrCmoeBfLRxhTZYCKnGV1Dw82qB9A1kTLdyouVaho5iv), a very well written review of a [previous version of this post](/85ae10fb/ldl).
 
 
 ## Lipid Profiles 101
