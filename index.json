@@ -7,21 +7,20 @@
     },
     "dal-makhani": {
       "slug": "dal-makhani",
-      "title": "How to cook Dal Makhani",
+      "title": "How To Cook Dal Makhani",
       "category": "recipes",
       "draft": false,
       "featured": false,
-      "lastEdit": "2021-03-22",
       "publishedOn": "2021-03-22",
       "tldr": "Very tasty & surprisingly simple Indian dish"
     },
     "ldl": {
       "slug": "ldl",
-      "title": "LDL is Good",
+      "title": "LDL Can Be Good",
       "category": "health",
       "draft": false,
       "featured": true,
-      "img": "/ipfs/QmZd7dYERkNMkSiX5siC4zYJ3w5Z76e38AZH3ST2WFES6k",
+      "img": "/ipfs/QmNXFXkguFZLASvYRnNaThzuqQ83nKtpqg4HnmeBYQp21n",
       "lastEdit": "2021-03-16T15:34:30.988Z",
       "publishedOn": "2021-03-12",
       "tldr": "Rumors of LDL's villainy have been greatly exaggerated by those trying to sell you statins."

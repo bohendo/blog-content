@@ -1,5 +1,5 @@
 
-# How to Cook Dal Makhani
+# How To Cook Dal Makhani
 
 ## Resources
 - [Dal Makhani by Ranveer Brar](https://www.youtube.com/watch?v=dOiwccflDkY)
