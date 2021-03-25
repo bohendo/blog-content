@@ -11,7 +11,11 @@ I don't believe in security through obscurity, knowing how my opsec works should
 
 **At the heart of every crypto wallet rests the master secret: the mnemonic.** Also known as an extended private key, the mnemonic is the one secret that grants total control over some crypto wallet. Each mnemonic can control millions of different crypto accounts and, if the mnemonic is compromised, all associated accounts are compromised.
 
-For example, a random mnemonic I just generated using [ethers](https://docs.ethers.io/v5/api/signer/#Wallet-createRandom) is: `suggest friend vibrant broom garbage nice vehicle enhance viable suggest stem panel`
+For example, a random mnemonic I just generated using [ethers](https://docs.ethers.io/v5/api/signer/#Wallet-createRandom) is:
+
+```
+suggest friend vibrant broom garbage nice vehicle enhance viable suggest stem panel
+```
 
 24-word mnemonics also exist, sometimes used by hardware wallets to backup their extended private key, but most mnemonics are 12 words long.
 
@@ -60,13 +64,13 @@ Hot wallets should be the first wallet you setup & get familiar with when experi
 
 Examples: [Metamask](https://metamask.io/), [Argent](https://www.argent.xyz/) & other crypto wallet apps that you download & use directly on an internet-connected device.
 
-My main hot wallet mnemonic is loaded into several apps (eg the metamask browser plug-in on desktop & the mobile app on my phone) and it's mnemonic is backed up in my :bank: vault.
+My main hot wallet mnemonic is loaded into several apps (eg the metamask browser plug-in on desktop & the mobile app on my phone) and it's mnemonic is backed up in my vault.
 
 I rarely store more than 1% of my funds in it & mostly use it for day-to-day crypto tinkering & experimenting. It's fairly low-stakes so I don't worry about backing up this mnemonic on a paper wallet.
 
 ### :thinking: Brain Wallet
 
-The #1 most important thing to remember about brain wallets: if it's important, then always write it down too :scroll:.
+The #1 most important thing to remember about brain wallets: if it's important, then write it down :scroll:.
 
 *But wait, doesn't this make your brain wallet less secure?*
 
@@ -76,14 +80,14 @@ I'm not immortal either & I don't want any of my important secrets to be burned 
 
 My brain wallet is for convenience, not for anything mission-critical.
 
-I write down everything in my brain wallet at least once per week. As far as I'm concerned, anything that I don't need access to at least once/week doesn't belong in my brain. That can go onto :scroll: paper or into the :bank: vault instead.
+I write down everything in my brain wallet at least once per week. As far as I'm concerned, anything that I don't need access to at least once/week doesn't belong in my brain. That can go onto paper or into the :bank: vault instead.
 
-One exception is the 2FA keys needed to pass The Hangover Scenario :beers:. I actually don't have a good strategy for remembering these.
+One exception is the 2FA keys needed to pass The Hangover Scenario. I actually don't have a good strategy for remembering these.
 
 In my brain wallet I store:
- - 2 Strong Passwords
- - Location of the secret stash in the :bank: vault
- - 2 Important 2FA Codes :passport_control: (todo)
+ - :muscle: 2 Strong Passwords
+ - :bank: Location of the secret stash in the vault
+ - :passport_control: 2 Important 2FA Codes (TODO)
 
 I have a hardware wallet for running secure crypto, the pin for this hardware wallet is stored in my brain too.
 
@@ -127,7 +131,7 @@ eg Phone w [Authy](https://authy.com/) installed
 
 Several important accounts are protected with a 2FA Device.
 
-Important 2FA backup codes are written down in :scroll: paper wallets.
+Important 2FA backup codes are written down in paper wallets.
 
 A couple *very* important ones (see [The Hangover Scenario](#the-hangover-scenario)) are also in my brain wallet.
 
@@ -161,9 +165,9 @@ In the meantime, I also have a hot mnemonic in my brain wallet so I have some cr
 
 A hacker stole some of the NSA's cyber-weapons & deploys a browser zero-day exploit. I visit an evil website & get pwned.
 
-Having complete access to my computer & phone means the evil sysadmin has my key stash and my encrypted :bank: vault but no passwords.. Yet.
+Having complete access to my computer & phone means the evil sysadmin has my key stash and my encrypted vault but no passwords.. Yet.
 
-With root access, the hacker can install a keylogger to record my passwords & gain access to my :bank: vault.
+With root access, the hacker can install a keylogger to record my passwords & gain access to my vault.
 
 They can then access all non-2FA protected accounts & steal money from my hot crypto wallets.
 
