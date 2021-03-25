@@ -20,6 +20,12 @@ In the header image, subjective reality is represented by blood-red: the color o
 
 ### Subjective Reality
 
+**aka My Mind**
+
+**aka My Consciousness**
+
+**aka My Soul**
+
 My subjective truths are true within my subjective experience my conscious reality.
 
 It is subjectively true that I believe the sky is blue.
@@ -39,6 +45,10 @@ Within my consciousness, there exists concepts of "sky" and "blue" and these con
 Subjective truths are set in stone and are not open to negotiation. If I say "I do not believe the sky is blue", nobody can argue with this and say "well actually you do believe so and so". You are the one and only master of your subjective reality.
 
 ### Objective Reality
+
+**aka The Universe**
+
+**aka The Mind of God**
 
 Objective truths are true if we can verify them in objective reality.
 
@@ -60,8 +70,8 @@ Abstract math is, counter-intuitively, not contained in the realm of objective r
 
 Like yin-yang: within each aspect of reality, there contains a simulation of the other.
 
-Within my subjective reality, there is a simulation of objective reality.
-Within objective reality, there exists some notion of our communal subjective reality.
+Within my subjective reality, there is a simulation of objective reality: my worldview.
+Within objective reality, there exists some notion of our communal subjective reality: the consensus.
 
 
 ### Worldview
