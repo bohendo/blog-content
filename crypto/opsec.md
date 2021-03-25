@@ -37,7 +37,7 @@ To make them more water/fire resistant, paper wallets can be laminated or made o
 
 Off-site backups are a particularly good idea for the most important secrets eg cold wallet mnemonics.
 
-In my paper wallets I store (not necessarily all in the same one):
+Across my paper wallets I store:
  - :thinking: Full backup of my brain wallet
  - :passport_control: 2FA backup codes
  - :snowflake: Backup seed phrases for cold crypto
@@ -52,7 +52,7 @@ The best strategy is to only create digital signatures via a hardware wallet: de
 
 I bought a hardware wallet & recommend you do the same if you are holding (or plan to hold) crypto worth more than ~$2000 (aka more than 10x the price of a hardware wallet).
 
-Alternatively, if you have an old laptop or smart phone, you can use these as cold wallets by keeping them on airplane mode or, even better, by opening them up & physically destroying any wireless antenas. [Air-gap that shit.](https://medium.com/blockchannel/mind-the-crypto-air-gap-89dd8650cba7). This way, you can use a USB drive to transfer a transaction to the air gapped computer, sign it, and use the USB drive to transfer it back to an internet-connected computer. As long as the USB isn't hacked, this is another (although, more complicated & error prone) way to manage a cold wallet.
+Alternatively, if you have an old laptop or smart phone, you can use these as cold wallets by keeping them on airplane mode or, even better, by opening them up & physically destroying any wireless antenas. [Air-gap that shit.](https://medium.com/blockchannel/mind-the-crypto-air-gap-89dd8650cba7) This way, you can use a USB drive to transfer a transaction to the air gapped computer, sign it, and use the USB drive to transfer it back to an internet-connected computer. As long as the USB isn't hacked, this is another (although, more complicated & error prone) way to manage a cold wallet.
 
 ### :fire: Hot Wallet
 
@@ -60,7 +60,7 @@ Hot wallets should be the first wallet you setup & get familiar with when experi
 
 Examples: [Metamask](https://metamask.io/), [Argent](https://www.argent.xyz/) & other crypto wallet apps that you download & use directly on an internet-connected device.
 
-My main :fire: hot wallet mnemonic is loaded into several apps (eg the metamask browser plug-in on desktop & the mobile app on my phone) and it's mnemonic is backed up in my :bank: vault.
+My main hot wallet mnemonic is loaded into several apps (eg the metamask browser plug-in on desktop & the mobile app on my phone) and it's mnemonic is backed up in my :bank: vault.
 
 I rarely store more than 1% of my funds in it & mostly use it for day-to-day crypto tinkering & experimenting. It's fairly low-stakes so I don't worry about backing up this mnemonic on a paper wallet.
 
@@ -68,28 +68,28 @@ I rarely store more than 1% of my funds in it & mostly use it for day-to-day cry
 
 The #1 most important thing to remember about brain wallets: if it's important, then always write it down too :scroll:.
 
-> Doesn't this make your brain wallet less secure?
+*But wait, doesn't this make your brain wallet less secure?*
 
-Less secure from what? Remember that there are two ways to lose access to these funds: someone steals them or I accidentally lose them. A :thinking: brain wallet without a backup is vulnerable to being destroyed via concussion or, more often, forgetfulness.
+Less secure from what threat? Remember that there are two ways to lose access to these funds: someone steals them or I accidentally lose them. A brain wallet without a backup is extremely vulnerable to being destroyed via concussion or, more often, forgetfulness.
 
 I'm not immortal either & I don't want any of my important secrets to be burned along with me at the crematory (except for *those* secrets of course :wink:).
 
-My :thinking: brain wallet is for convenience, not for anything mission-critical.
+My brain wallet is for convenience, not for anything mission-critical.
 
 I write down everything in my brain wallet at least once per week. As far as I'm concerned, anything that I don't need access to at least once/week doesn't belong in my brain. That can go onto :scroll: paper or into the :bank: vault instead.
 
 One exception is the 2FA keys needed to pass The Hangover Scenario :beers:. I actually don't have a good strategy for remembering these.
 
-In my :thinking: brain wallet I store:
- - 2 :muscle: Strong Passwords
+In my brain wallet I store:
+ - 2 Strong Passwords
  - Location of the secret stash in the :bank: vault
  - 2 Important 2FA Codes :passport_control: (todo)
 
-I have a hardware wallet for running secure crypto 
+I have a hardware wallet for running secure crypto, the pin for this hardware wallet is stored in my brain too.
 
 ## :muscle: Strong Passwords
 
-How strong is a :muscle: Strong Password?
+How strong is a Strong Password?
 
 My favorite alphabet to use while generating passwords is `[a-zA-Z0-9]` aka all letters upper & lower case plus numbers. It's easier to type if needed and less ugly.
 
@@ -99,11 +99,10 @@ How many tries per second?
 
 letters long | possibilities | time to crack
 2 | 3844 | 1s
-2 | 3844 | 1s
 
-The first Strong Password :muscle: protects :key: key to my :bank: Vault which 
+The first Strong Password protects key to my :bank: Vault which 
 
-The second Strong Password :muscle: protects my various other :key: files eg ssh keys (and pgp encryption keys if I ever actually used those :wink:).
+The second Strong Password protects my various other files eg ssh & gpg keys.
 
 To memorize random strings of letters & numbers in the first place, muscle memory's where you want to store it. Open a temp note & just write it over and over 25 or 50 times. Then, leave it as the unlock code for your computer for week or so to really let it sink it before re-assigning it to it's final resting place.
 
@@ -111,32 +110,30 @@ I don't cycle my passwords very frequently, once every couple years maybe. If I 
 
 ## :bank: Vault
 
-aka a Password Manager (eg KeePassX)
+Aka a Password Manager eg I use [KeePassXC](https://keepassxc.org/).
 
-Contains passwords for stuff like Google, Amazon, Netflix, etc and some Crypto Hot Wallets :fire:.
+Contains passwords for stuff like Google, Amazon, Netflix, etc and some crypto hot wallet mnemonics.
 
-My vault :bank: itself is saved to a :cloud: cloud storage service (eg Dropbox) so I can easily sync new accounts between my devices.
+My vault itself is saved to a cloud storage service (eg Dropbox) so I can easily sync new accounts between my devices.
 
-To access
-
- 1. :bank: :cloud: The Password Vault from cloud storage
- 2. The vault Key :key: file, contained in the secret stash that was copied from old device -> new device via usb cable.
- 3. A Strong Password :muscle: stored in my brain
-
+To access my vault, all of the following are required:
+- :bank: The password vault file itself, stored on my computer and in cloud storage.
+- :key: The vault Key file, contained in the secret stash that was copied from old device -> new device via usb cable.
+- :muscle: A Strong Password stored in my brain
 
 ## :passport_control: 2FA Devices
 
-eg Phone w Google Auth
+eg Phone w [Authy](https://authy.com/) installed
 
-Several important accounts are protected with a :passport_control: 2FA Device.
+Several important accounts are protected with a 2FA Device.
 
 Important 2FA backup codes are written down in :scroll: paper wallets.
 
-A couple *very* important ones (see [The Hangover Scenario](#the-hangover-scenario)) are also in my :thinking: brain wallet.
+A couple *very* important ones (see [The Hangover Scenario](#the-hangover-scenario)) are also in my brain wallet.
 
 ## :key: Key Stash
 
-Folder of :key: key file & other secrets.
+Folder of key file & other secrets.
 
 Stored on 2-3 devices, never uploaded to the cloud, only ever transferred between devices via usb cable.
 
@@ -144,7 +141,7 @@ Should I hide an encrypted copy of the :key key stash somewhere to make the Hang
 
 ## Scenarios
 
-### The Hangover Scenario :beers:
+### :beers: The Hangover Scenario
 
 I wake up on a park bench in a strange looking city & have no clue how I got there. I don't have my phone or my wallet or anything more than my clothes (which I are very grateful for).
 
@@ -152,7 +149,7 @@ How do I get home?
 
 I go out & wander around looking for a public library. I find one & connect to the internet.
 
-Luckily, I have my email password memorized. I don't have any 2FA devices but I have a couple 2FA recovery tokens in my Brain Wallet :thinking: that I can use to log in.
+Luckily, I have my email password memorized. I don't have any 2FA devices but I have a couple 2FA recovery tokens in my Brain Wallet that I can use to log in.
 
 :boom:
 
@@ -160,15 +157,15 @@ Got access to my email & can send an SOS message to fam.
 
 In the meantime, I also have a hot mnemonic in my brain wallet so I have some crypto available to spend. Now the challenging part: lure some local baker into this library so I can give her a payment in exchange for some lunch.
 
-### The Evil Sysadmin Scenario :smiling_imp:
+### :smiling_imp: The Evil Sysadmin Scenario
 
 A hacker stole some of the NSA's cyber-weapons & deploys a browser zero-day exploit. I visit an evil website & get pwned.
 
-Having complete access to my computer & phone means the evil sysadmin has my :key: key stash and my encrypted :bank: vault but no :muscle: passwords.. Yet.
+Having complete access to my computer & phone means the evil sysadmin has my key stash and my encrypted :bank: vault but no passwords.. Yet.
 
 With root access, the hacker can install a keylogger to record my passwords & gain access to my :bank: vault.
 
-They can then access all non-2FA protected accounts & steal money from my :fire: hot crypto wallets.
+They can then access all non-2FA protected accounts & steal money from my hot crypto wallets.
 
 When they're done, they encrypt everything they have access to & say "give me your cold crypto keys to decrypt your stuff"
 
