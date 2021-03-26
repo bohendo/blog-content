@@ -5,6 +5,16 @@
       "slug": "about",
       "title": "About"
     },
+    "dutch-babies": {
+      "category": "recipes",
+      "draft": false,
+      "featured": false,
+      "img": "/ipfs/QmY9jvR9CLHfY7zW2P7VQgSBJxN92B4uiYFpaTMhKY1BJF",
+      "publishedOn": "2021-03-26",
+      "slug": "dutch-babies",
+      "title": "How To Cook Dutch Baby Pancakes",
+      "tldr": "A family recipe, courtesy of Great Grandma Clyda Blanc."
+    },
     "dal-makhani": {
       "slug": "dal-makhani",
       "title": "How To Cook Dal Makhani",
