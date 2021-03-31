@@ -11,7 +11,7 @@ Our family enjoys this recipe on Christmas & other special mornings.
 - 2 eggs
 - 1/2 teaspoon lemon rind
 - 1/2 teaspoon cardamom
-- 1/2 cup butter
+- 1/4 cup butter
 
 ## Preparation
 
@@ -24,6 +24,6 @@ Our family enjoys this recipe on Christmas & other special mornings.
 - Mix milk, sugar, salt, eggs, lemon rind, and cardamom in a blender. Blend for 1-3 minutes to ensure the batter is smooth & lightly foamy. Add flour to the blender and blend very briefly, just enough to mix it well.
 - Take the pan with melted butter out of the oven & swirl it to ensure the sides all have a nice coating of butter.
 - Pour the batter into the butter-filled pan.
-- Bake for 12-15 minutes or until the top is golden brown and the sides are puffing up slightly.
+- Bake for 12-15 minutes (20-25 mins if recipe is doubled) or until the middle is firm, the top is golden brown and the sides are puffing up slightly.
 - Remove from oven & serve slices immediately. Top each slice with a dusting of powdered sugar & a drizzle of lemon juice.
 - Enjoy!
