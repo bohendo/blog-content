@@ -5,6 +5,15 @@
       "slug": "about",
       "title": "About"
     },
+    "kareri-lake": {
+      "category": "diary",
+      "draft": true,
+      "featured": false,
+      "img": "/ipfs/QmUvkahLmqeiRi7YZUQeMPH1VNkQpiAb1ytj9DR7YFnff4",
+      "slug": "kareri-lake",
+      "title": "Kareri Lake Trek",
+      "tldr": "Journal entries for my first trek to Kareri Lake."
+    },
     "dutch-babies": {
       "category": "recipes",
       "draft": false,
