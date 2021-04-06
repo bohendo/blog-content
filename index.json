@@ -7,7 +7,7 @@
     },
     "kareri-lake": {
       "category": "diary",
-      "draft": true,
+      "draft": false,
       "featured": false,
       "img": "/ipfs/QmUvkahLmqeiRi7YZUQeMPH1VNkQpiAb1ytj9DR7YFnff4",
       "slug": "kareri-lake",

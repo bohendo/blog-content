@@ -9,22 +9,22 @@ Footage & stories from my 4 day trek deep into a Himalayan valley commonly known
 ![Packing](/ipfs/QmaZJJAaDz9M3z1Byh3qJgMwk9uoYCt7p8sRAMq6cKXErS)
 *We woke up bright & early so that we'd have time to pack (I can never bring myself to pack any earlier than absolutely necessary). Shiv stayed behind to relax at home while my friend Shantanu & I set off for adventure.*
 
-When we arrived at the mountaineering center & met Chumun Bhai, our guide, my first impression was "wow, I packed too much" because all he was carrying was a tiny little day bag with barely enough room for a warmer jacket.
+When we arrived at the mountaineering center & met Chumun, our guide, my first impression was "wow, I packed too much" because all he was carrying was a tiny little day bag with barely enough room for a warm jacket.
 
 The first part of the trek took us though villages & small valleys. A couple black dogs joined us & tagged along. We decided to take a taxi & skip ahead to the more interesting part of the trek & get to the lake more quickly. As soon as we got out of the taxi, some new brown dogs joined us. Our guide said that these dogs are Himalayan Shepherds and that they could fight a leopard & sometimes win but *only* if they have a spiked collar on to block a leopard's signature attack: the neck-bite kill-shot.
 
-We skipped past the guest house where we were planning to stay & started the real trek.
+We skipped past the guest house where we were planning to stay tonight & started the real trek.
 
 ![Drinking Water](/ipfs/QmRGG6z9woA9gDFz89a77nUNpcbjrBi8FvvrzBPSr8msow)
 *This is the first place I filled my water bottle during the trek.*
 
-One reason our guide was able to pack so light is that he didn't carry a single water bottle. When I asked him where to fill my water bottle he gestured around "There's water everywhere". I started out a little bit nervous about drinking water straight from the river without filtering or boiling it first but I never had any stomach problems so it must have been pretty clean.
+One reason our guide was able to pack so light is that he didn't carry a single water bottle. When I asked him where to fill my water bottle he gestured around "there's water everywhere". I started out a little bit nervous about drinking water straight from the river without filtering or boiling it first but I never had any stomach problems so it must have been pretty clean.
 
 ![First Campsite](/ipfs/QmcPMBMsLjMpgpFWX9eaWYhaL49rq2nML93RhdNAzauwmT)
-*We camped in the green tent last night, surrounded by red rhododendrons. Our guide told us that they're deep red at low altitude, become pink further up, and are pure white even higher up. Our guides harvested & prepped some amazingly delicious rhododendron chutney that we ate with dinner.*
+*We camped in the green tent last night, surrounded by red rhododendrons. Our guide told us that they're deep red at low altitude, become pink further up, and are pure white even higher up. Our guides harvested & prepped some amazingly delicious rhododendron chutney that we ate with dinner this evening.*
 
 ![Dhaba](/ipfs/QmZjrGptBfocVygvHFPNQVj294eHXGZeZ7GJjWhSWnDUo2)
-*Side view of the dhaba near our first night's stay. Dhaba is a Hindi word that roughly means "rest stop" or "road-side restaurant". Modern use generally refers to restaurants along the highway, especially while heading North out of Delhi but, more traditionally, dhabas are modest little handmade huts like in this picture. The owner of this dhaba provided us with tents & cookware: another reason why our guide was able to pack so light.*
+*Side view of the dhaba near our first night's stay. Dhaba is a Hindi word that roughly means "road-side restaurant" or "rest stop". Modern use refers to restaurants along the highway, especially the grand, castle-looking restaurants you fund while heading North out of Delhi. But further away from civilization, dhabas refer to handmade, trail-side huts like in this picture. The owner of this dhaba provided us with tents & cookware: another reason why our guide was able to pack so light.*
 
 When reached our camp site, we pitched the tent and sat around a camp fire. I got a peek inside our guide's tiny little backpack and was amazed to see that it was full of nothing but candy!
 
@@ -38,7 +38,7 @@ I read a little Meditations by Marcus Aurelius this morning before leaving. One 
 ![Stone Breaker](/ipfs/QmRBCGSJyx5Y8dkfgRu6BYDsMGifS58TjZUPPbxXMkdYVr)
 *Chumun Bhai pointed out some flowers & medicinal plants during today's hike. The root of this white flower is well known by locals as being a cure for kidney stones. I don't remember the Hindi name but I remember that it roughly translates to "stone breaker" in English.*
 
-The trek from this morning's campsite to Kareri Lake went quickly. I was going through a little caffeine withdrawal so the climb felt particularly grueling to me but it only lasted a couple hours before we arrived. Along the way, we saw several little pools in the river that Chumun mentioned are nice spots for a cold bath.
+The trek from this morning's campsite to Kareri Lake went quickly. I was going through a little caffeine withdrawal so the climb felt particularly grueling to me but it only lasted a couple hours before we arrived. Along the way, we saw several little pools in the river that Chumun mentioned are nice spots to take an icy cold bath.
 
 ![Hello Kareri Lake](/ipfs/QmPkC2eexCNmSgPqVxmmV8Mq9skDM1LAGfQpRxiVKVx1fe)
 *To the right on a hill above the lake you can see the dhaba that provided our tent & food during the stay. Just above/past that, you can see the blue tent we slept in these next two nights. This evening, we hiked over to the ridge at the blue arrow to get a better view of the lake & mountain.*
@@ -56,7 +56,7 @@ We set off for a short hike to get a better view of the mountain we wanted to cl
 *Shantanu gazing up at the mountains we wanted to approach tomorrow. Our guide told us that there are two good routes up the mountain. The snow path begins at the blue arrow and takes a steep zig-zag up towards the blue X. This one would be hard to climb without proper ice-climbing gear like crampons & an ice axe. If we slip & fall, we'd slide all the way down the steep snow slide back to the blue arrow. The boulder path begins near the red arrow and passes by a rock-slide zone around the red exclamation point & continues up towards the red X. Chumun said this one would be easier as long we don't trigger a rock slide.*
 
 ![Ridge above Kareri Lake](/ipfs/QmNaVhLEkkcS24oc9diWvxfXt8cGu84LpbRkvCHZjzeoHj)
-*We sat behind a fallen tree & enjoyed a beautiful sunset shining through some misty clouds. Chumun lit a small campfire for us with some pieces of golden oak laying around: very heavy & hard wood that burns hot for a long time. He told us stories of all the animals he's hunted in the mountains: almost everything besides a leopard. We caught a glimpse of a jungly desi murgha: a wild Indian chicken & saw it's tracks on our way back down to camp.*
+*We sat behind a fallen tree & enjoyed a beautiful sunset shining through some misty clouds. Chumun lit a small campfire for us with some pieces of golden oak laying around: very heavy & hard wood that burns hot for a long time. He told us stories of all the animals he's hunted in the mountains: almost everything besides a leopard. We caught a glimpse of a jungly desi murgha: a wild Indian chicken & saw it's tracks in the snow on our way back down to camp.*
 
 Camp was crowded this evening, not much room around the campfire. Shantanu & Chumun tried to dry their socks by the fire but they both burnt holes in them, oops. I'm glad I was too lazy to try to dry my own socks.
 
@@ -90,19 +90,19 @@ We climbed up along the edge of the rock-slide zone & were able to look down on 
 *On our way back down, we found a little man-made cave decorated with a small metal Shivji decoration. Notice how there's some dirty-looking snow flowing down from top of the glacier. There was an avalanche recently! This was a different glacier than the one we could have climbed if we had better gear/training but it's still a bit of a wake up call. We sat here for a bit, declared victory with a J, and enjoyed some delicious spicy peanut namkeen (salty snack).*
 
 ![Bath](/ipfs/QmZUZxCDJpQLnzdNNJNRvfbTQ1bT1Zp2cMRsWTW5sAfT5V)
-*When we got back to camp, Chumun asked me to film him bathing in Kareri lake. I accidentally filmed my hand for the first half but I captured the second half at least. When I told Chumun that I messed up he accepted it with grace & no sign of anger or annoyance.*
+*When we got back to camp, Chumun asked me to film him bathing in Kareri lake. I accidentally filmed my hand for the first half but I captured the second half at least. When I told Chumun that I messed up, I was relieved that he accepted the bad news with grace and, amazingly, no sign of annoyance.*
 
 ![Landslide](/ipfs/QmVkzmw4UCgppp37pxbWQ17ZE8GuBhJS5dy2NNBpNcyCmx)
-*It started sprinkling so Shantanu & I were going to seek shelter near the temple but then the rain stopped so we wandered up a little further. We ended up in what looked like a landslide zone & the rain started to pick up again so we decided it's time to head back & seek shelter in our tent.*
+*It started sprinkling so Shantanu & I were going to seek shelter near the temple with a red-roof but then the rain stopped so we wandered up a little further. We ended up in what looked like a landslide zone & the rain started to pick up again so we decided it's time to head back & seek shelter in our tent.*
 
-I borrowed Shantanu's copy of Osho's Orange Book & read the first quarter while we were laying in the tent waiting for the rain to pass. At a high level, his meditation practice mirrors what I've learned elsewhere from Headspace, Sam Harris, etc: that meditation isn't just another process that runs in your brain. Rather, it's learning to observe the processes that are running without getting sucked into & consumed by them. A lot like the `top` command line tool. Osho seems to place a big emphasis on catharsis eg breathing chaotically & expressing anger/sadness/whatever you're repressing. I don't really get the catharsis thing, maybe because I'm not repressing anything. Maybe because I'm repressing it very effectively. Idk, I took a nap & Shantanu woke me up when the sun was setting.
+I borrowed Shantanu's copy of Osho's Orange Book & read the first quarter while we were laying in the tent waiting for the rain to pass. At a high level, his meditation practice mirrors what I've learned elsewhere from Headspace, Sam Harris, etc: that meditation isn't just another process that runs in your brain. Rather, it's learning to observe the processes that are running without getting sucked into & consumed by them. A lot like Linux's `top` command line tool. Osho seems to place a big emphasis on catharsis eg breathing chaotically & expressing anger/sadness/whatever you're repressing. I don't really get the catharsis thing, maybe because I'm not repressing anything. Maybe because I'm repressing it too effectively. Idk, I took a nap & Shantanu woke me up when the sun was setting.
 
-We sat around the much less crowded fire & enjoyed a dinner of dal chawal. Chumun Bhai sat with me & showed off a bunch of cool pictures on his phone:
+We sat around the not-so-crowded fire & enjoyed a dinner of dal chawal. Chumun Bhai sat with me & showed off a bunch of cool pictures on his phone:
 - A pic of him with a sheep's head after he slaughtered it, this wasn't his first time beheading a sheep though.
 - A portrait of a guy who got kicked in the face by a horse & had one of the horse shoe nails cut into his forehead. Another pic of Chumun giving him stitches & cleaning his wound high up in the mountains & far away from civilization. Chumun might have saved this guy's life, I felt safer to be travelling with him after seeing proof of his medical training.
 - A video of him breaking into a frozen pond with an ice axe & taking 11 dips underwater because he promised a girl he would. This video was what we were hoping to recreate earlier today when I accidentally filmed my hand. Oops.
 
-There was a beautiful full-moonrise this evening a couple hours after sunset.
+There was a beautiful full-moon-rise this evening a couple hours after sunset.
 
 ### Day 4
 **Monday, March 30, 2021**
@@ -115,18 +115,20 @@ We set off and ended up finding a lovely little pool in the river complete with 
 *Got a nice clip of Chumun Bhai diving into the river this time, no footage of my hand included! Poetically, the GoPro froze & was unable to capture me jumping in & swimming around but I can assure you: this river water, freshly melted from the nearby glaciers, was cold! We felt very refreshed after getting out & changing into warm, dry clothes.*
 
 ![Hike back down](/ipfs/QmTqpHUw12J3Cqrrqq3hKD6ST2wDpgYPk778Jddr9tm8Ev)
-*As we hiked down, Chumun & I talked about Chemistry. Turns out, he enjoyed studied chemistry too & now works as a pharmacist when he's not guiding treks. He told me that he once cut the biographies of famous scientists out of his textbook & kept them to reread. Rebel!*
+*As we hiked down, Chumun & I talked about Chemistry. Turns out, he enjoyed studied chemistry too & now works as a pharmacist when he's not guiding treks. He told me that he once cut the biographies of famous scientists out of his textbook & kept them to reread. Rebellious yet studious, he & I have a lot in common.*
+
+Chumun also told the story of the first time he slaughtered a sheep: he was 13 & doing a long, multi-day trek with his friends. They didn't bring any food, apparently they thought they could hunt jungli desi murgha or something but apparently that didn't work out so well. After not finding any food for a while, they encountered a shepherd and bought one of his sheep for 5000 rupees. None of his friends had the courage to kill it so Chumun bhai stepped up and, after quite a few swings of his blade (he was only 13 after all), the deed was finally done. He & his friends ate the entire sheep in about 4 days.
 
 ![Rhododendrons](/ipfs/QmSLZzsijS1ZBa7mDAvaQb2aWn44mKcipYrkn4VhtMgnGi)
 *Chumun stopped a few times to harvest some rhododendron flowers. He climbed up into a tree at one point & tossed them to me as I caught them. If you hold a rhododendron upside-down & shake it, you can get a few drops of sweet nectar. After catching just a few, my hands were covered in sticky sugary rhododendron juice.*
 
 Before much longer, we made it back to civilization. We *could* have continued hiking all the way back to our apt but we were tired & the most interesting part of the trek was over. We took a taxi to a nearby village, took a bus back to Dharamsala, then taxied up to our village where Shantanu & I said bye to Chumun Bhai & reunited with Shiv.
 
-## Notes re Rhododendron Chutney
+## Rhododendron Chutney Recipe
 
-The first night where we stayed near the rhododendrons, our dinner was served with fresh & delicious rhododendron chutney. We brought some rhododendron flowers home too so that we could make some more ourselves.
+The first night where we camped near the rhododendrons, our dinner was served with fresh & delicious rhododendron chutney. We brought some rhododendron flowers home so that we could make some more ourselves.
 
-#### Ingredients
+### Ingredients
 - 3 rhododendron flowers
 - pinch of salt to taste
 - 1-2 green chilies 
@@ -134,7 +136,7 @@ The first night where we stayed near the rhododendrons, our dinner was served wi
 - 1 small tomato
 - tbsp of lemon juice (optional, rhododendron itself is already a bit sour)
 
-#### Preparation
+### Preparation
 
 ![Rhododendron Start](/ipfs/QmUvZySDoRFvyjfLsfeFGGZcN9t8EUcDTT9sEkfQYxY9BE)
 *Start out with one bunch of rhododendron flowers.*
@@ -145,7 +147,7 @@ The first night where we stayed near the rhododendrons, our dinner was served wi
 ![Rhododendron Cleaned](/ipfs/QmdnCZyRd58JS9UBu9kFLuNmJ7t9ZyRSc5rGZGaUU32jt5)
 *Tear open each ring of pedals & wash them well. Keep an eye out for any light colored smears of pollen and/or bird droppings.*
 
-#### Procedure
+### Procedure
 - Throw all ingredients into a blender & blend. Alternatively, and more traditionally, you can use a mortar pestle to grind the ingredients together into a paste by hand.
 - Serve along with your favorite Indian dish, I recommend moong dal chawal.
 
