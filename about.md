@@ -33,7 +33,7 @@ Hopefully my goal for this blog will come into focus if I clarify what I'm *not*
 
 I don't want to be a thought leader. I don't want to alter the course of history. I *absolutely* don't want to lead any sort of political movement.
 
-There is a romantic notion of "speaking truth to power" but I don't wish to speak to power at all. Power distorts truth. If & when the powerful lie to the powerless, I hope that this blog is somewhere the powerless can come to be reassured that no, you aren't crazy. The reality you see is the same reality I see even if power is mixed up between reality and what it things ought to be reality.
+There is a romantic notion of "speaking truth to power" but I don't wish to speak to power at all. Power distorts truth. If & when the powerful lie to the powerless, I hope that this blog is somewhere the powerless can come to be reassured that no, you aren't crazy. The reality you see is the same reality I see even if power is mixed up between reality and what it thinks reality ought to be.
 
 ### Change Your Mind
 
