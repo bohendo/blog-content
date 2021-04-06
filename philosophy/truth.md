@@ -18,31 +18,30 @@ Philosophical trouble arises when we try to boil Truth down to just one thing in
 
 In the header image, subjective reality is represented by blood-red: the color of life, the color of that which fuels & nourishes all of humankind including my brain and, therefore, my subjective reality (assuming my worldview is correct). Meanwhile, objective reality is represented by a metallic gray, the color of stone & metal & machines & all those things which are cold & unyielding.
 
+
 ### Subjective Reality
 
-**aka My Mind**
+**aka The Mind of Man**
 
-**aka My Consciousness**
+**aka Soul**
 
-**aka My Soul**
+An individual's subjective truths are some of the lowest-level, most fundamental truths that can possibly exist. If I say "I do not believe the sky is blue", nobody can argue with this and say "well you actually believe this other thing". You are the one and only master of your subjective reality.
 
-My subjective truths are true within my subjective experience my conscious reality.
+There are some fun movies like The Matrix or Inception which play games with the fabric of objective reality, but subjective truths remain deeply true even if objective reality were to shift from under our feet. If I feel hungry, it doesn't matter whether I'm plugged into the Matrix or not, I still feel hungry. Whether I'm lost in a dream or a brain in a vat, I can be utterly and unshakably certain in the truth that I really truely do feel hungry.
 
-It is subjectively true that I believe the sky is blue.
-It is subjectively true that I am a little bit hungry.
-It is subjectively true that I can hear Get Free by Lana Del Rey playing in the background.
+Aspects of subjective reality:
+- Morality: It is subjectively true that I believe murder is bad & helping needy people is good.
+- Worldview: It is subjectively true that I believe the sky is blue.
+- Sensations & sensory input: It is subjectively true that I can hear Get Free by Lana Del Rey playing in the background.
+- Actions & mechanical output: It is subjectively true that I'm wiggling my pinky finger.
+
+Much like a web browser running on my laptop's operating system, my consciousness is a [user space program](https://en.wikipedia.org/wiki/User_space) with very limited power over my subconscious. This is a good thing! It's for my own protection. For example, my subconscious is responsible for regulating my body temperature and my consciousness is unable to affect it directly, otherwise I might be able to meditate my way to hypothermia even while wearing a heavy coat.
 
 "I am" stands out as being subjectively true for everyone capable of comprehending the statement, almost by definition.
 
-An individual's subjective truths are the lowest-level, most fundamental truths that can possibly exist.
+Jed says:
+> I'm like Socrates; all I know is that I know nothing. That's like the subtext of the cogito, together they form the alpha and omega of all knowledge: I know that I Am, and I know that I know nothing else. That's an easy thing to say, but it's a helluva thing to know.
 
-There are some fun movies like The Matrix or Inception which play games with the fabric of reality, but subjective truths remain deeply true even if the fabric of reality were to shift from under our feet.
-
-If I feel hungry, it doesn't matter whether I'm plugged into the Matrix or not, I still feel hungry. Whether I'm lost in a dream or a brain in a vat, I can be utterly and unshakably certain in the truth that I really do in fact feel the sensation of hunger.
-
-Within my consciousness, there exists concepts of "sky" and "blue" and these concepts fit together in a way that feels true to me. If you do not believe that the sky is blue, then that statement would be subjectively false for you.
-
-Subjective truths are set in stone and are not open to negotiation. If I say "I do not believe the sky is blue", nobody can argue with this and say "well actually you do believe so and so". You are the one and only master of your subjective reality.
 
 ### Objective Reality
 
@@ -66,6 +65,7 @@ Reality is that which, when subjectively false, is still objectively true.
 
 Abstract math is, counter-intuitively, not contained in the realm of objective reality. 2 + 2 = 4 is a purely subjective truth that depends entirely on your concept of what "2" in the abstract means. If I ask you "what comes after 12?", the answer would be different if our context is an abstract number line vs non-military-time hours of the day.
 
+
 ## Truth Within Truth
 
 Like yin-yang: within each aspect of reality, there contains a simulation of the other.
@@ -88,11 +88,13 @@ Having an accurate worldview is generally a valuable thing with no downsides, bu
 
 There are no hard & fast rules dictating your worldview, anything goes. If I want to imagine a bright purple sky with lime green clouds, I can.
 
-### Consensus
+### Society
 
 **The Subjective Truth w/in Objective Truth**
 
-**Aka the Human Hivemind's Subjective Truth**
+**Aka The Human Hivemind's Subjective Truth**
+
+**Aka The Consensus**
 
 Notice that I qualified the earlier discussion of subjective truth by specifying it as "my" subjective truth or "an individual's" subjective truth.
 
