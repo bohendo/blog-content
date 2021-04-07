@@ -33,7 +33,7 @@ When reached our camp site, we pitched the tent and sat around a camp fire. I go
 
 I read a little Meditations by Marcus Aurelius this morning before leaving. One passage stuck in my head & I pondered it through the day:
 
-> The longest-lived and those who will die soonest lose the same thing. The present is all that they can give up, since that is all that you have, and what you do not have, you cannot lost.
+> The longest-lived and those who will die soonest lose the same thing. The present is all that they can give up, since that is all that you have, and what you do not have, you cannot lose.
 
 ![Stone Breaker](/ipfs/QmRBCGSJyx5Y8dkfgRu6BYDsMGifS58TjZUPPbxXMkdYVr)
 *Chaman Bhai pointed out some flowers & medicinal plants during today's hike. The root of this white flower is well known by locals as being a cure for kidney stones. I don't remember the Hindi name but I remember that it roughly translates to "stone breaker" in English.*
