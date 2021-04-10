@@ -10,6 +10,7 @@
       "draft": false,
       "featured": false,
       "img": "/ipfs/QmUvkahLmqeiRi7YZUQeMPH1VNkQpiAb1ytj9DR7YFnff4",
+      "publishedOn": "2021-04-06",
       "slug": "kareri-lake",
       "title": "Kareri Lake Trek",
       "tldr": "Journal entries for my first trek to Kareri Lake."
@@ -40,7 +41,6 @@
       "draft": false,
       "featured": true,
       "img": "/ipfs/QmNXFXkguFZLASvYRnNaThzuqQ83nKtpqg4HnmeBYQp21n",
-      "lastEdit": "2021-03-25T12:47:36.077Z",
       "publishedOn": "2021-03-12",
       "tldr": "Rumors of LDL's villainy have been greatly exaggerated by those trying to sell you statins."
     },
@@ -51,7 +51,6 @@
       "draft": false,
       "featured": true,
       "img": "/ipfs/QmaMDsvUCRkoEqQR1GfvpwzopCMHZDCLqqtUiQ3k6ErREd",
-      "lastEdit": "2021-03-25T12:46:36.430Z",
       "publishedOn": "2021-02-15",
       "tldr": "It depends on the context"
     },
@@ -62,7 +61,6 @@
       "draft": false,
       "featured": false,
       "img": "/ipfs/QmUPdTHntjxffVH8ipFfScQmG6CNsMJWJxkNcJRMBmUiTG",
-      "lastEdit": "2021-03-16T12:20:01.852Z",
       "publishedOn": "2021-02-19",
       "tldr": "Kratom: A great drug that I enjoy with one glaring problem"
     },
