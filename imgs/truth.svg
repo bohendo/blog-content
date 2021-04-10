@@ -51,8 +51,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.87841667"
-     inkscape:cx="524.23869"
-     inkscape:cy="373.39911"
+     inkscape:cx="755.90551"
+     inkscape:cy="377.95275"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -544,19 +544,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       x="8.4460917"
+       x="14.471046"
        y="193.26331"
        id="text9703-1"><tspan
          sodipodi:role="line"
          id="tspan9701-1"
-         x="8.4460917"
+         x="14.471046"
          y="193.26331"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.8166666px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Percieved</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.8166666px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Perceived</tspan><tspan
          sodipodi:role="line"
-         x="8.4460917"
+         x="14.471046"
          y="211.78413"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.8166666px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan9723">Consensus</tspan></text>
+         id="tspan9723">Society</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -599,7 +599,7 @@
          id="tspan9701-0-9"
          x="294.04724"
          y="273.88846"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Consensus</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Society</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -610,7 +610,7 @@
          x="303.68076"
          y="193.26331"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.8166666px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan9723-6">Hivemind's</tspan><tspan
+         id="tspan9723-6">Society's</tspan><tspan
          sodipodi:role="line"
          x="303.68076"
          y="211.78413"
