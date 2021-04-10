@@ -1,43 +1,42 @@
 # What is True?
 
-- The sky is blue
 - I am
 - 12 + 1 = 13
-- entropy always increases
-- the price of 1 ounce of gold was $1824.65 on Feb 14th, 2021 at 17:00 UTC
+- The sky is blue
+- A nugget of gold is more valuable than a bottle of water
 - Joe Biden won the 2020 presidential election
 
 Which of the above statements are true?
 
-We could claim that all of them are true, but some seem more true than others. Or, at least, some are true in different contexts than others.
+We could claim that all of them are true, but some seem more true than others. Or, at least, some are true in different contexts. In fact, determining the context is the single most important part of deciding whether any of the above are true. Once the context is determined, the answer is often either obvious or nonsensical.
 
-Philosophical trouble arises when we try to boil Truth down to just one thing in one context, any progress in that direction generally requires gesturing vaguely at a higher power or levels of abstraction far removed from anything useful. Instead, I'm ditching the quest for a unified theory of truth and am perfectly content describing the truth as applying to one of two distinct contexts:
-
+I think the quest for a unified theory of truth is Quixotic, I'm perfectly content cleaving the truth into two different contexts:
 - Subjective reality
 - Objective reality
 
-In the header image, subjective reality is represented by blood-red: the color of life, the color of that which fuels & nourishes all of humankind including my brain and, therefore, my subjective reality (assuming my worldview is correct). Meanwhile, objective reality is represented by a metallic gray, the color of stone & metal & machines & all those things which are cold & unyielding.
-
-
 ### Subjective Reality
+
+**aka The Realm of Chaos**
+
+**aka Consciousness**
 
 **aka The Mind of Man**
 
-**aka Soul**
-
-An individual's subjective truths are some of the lowest-level, most fundamental truths that can possibly exist. If I say "I do not believe the sky is blue", nobody can argue with this and say "well you actually believe this other thing". You are the one and only master of your subjective reality.
-
-There are some fun movies like The Matrix or Inception which play games with the fabric of objective reality, but subjective truths remain deeply true even if objective reality were to shift from under our feet. If I feel hungry, it doesn't matter whether I'm plugged into the Matrix or not, I still feel hungry. Whether I'm lost in a dream or a brain in a vat, I can be utterly and unshakably certain in the truth that I really truely do feel hungry.
-
-Aspects of subjective reality:
-- Morality: It is subjectively true that I believe murder is bad & helping needy people is good.
-- Worldview: It is subjectively true that I believe the sky is blue.
-- Sensations & sensory input: It is subjectively true that I can hear Get Free by Lana Del Rey playing in the background.
-- Actions & mechanical output: It is subjectively true that I'm wiggling my pinky finger.
-
-Much like a web browser running on my laptop's operating system, my consciousness is a [user space program](https://en.wikipedia.org/wiki/User_space) with very limited power over my subconscious. This is a good thing! It's for my own protection. For example, my subconscious is responsible for regulating my body temperature and my consciousness is unable to affect it directly, otherwise I might be able to meditate my way to hypothermia even while wearing a heavy coat.
-
 "I am" stands out as being subjectively true for everyone capable of comprehending the statement, almost by definition.
+
+There are no rules in subjective reality. I can think "the sky is blue" one second and "the sky is lime green" the next, I can vividly imagine a bright green sky peaking out behind a fluffy pink cloud & bring this scene to life in my mind. I can take acid or magic mushrooms, look out the window, and *see with my own eyes* a bright green sky with fluffy pink clouds. Within my subjective reality, the sky can truly be green, even if it's blue and always has been/will be blue in objective reality.
+
+The subjective color of the sky is, more specifically, as aspect of my worldview. My worldview is a reflection of objective reality so we could say that the color of the sky is more deeply true in objective reality than in subjective reality. But there are many things that are more deeply true in subjective reality than objective reality:
+
+- Value Judgements: It is subjectively true that gold is more valuable than water.. Unless I'm dying of thirst in the desert, in which case water is more valuable. Maybe my gold nugget is worth all the money in New York City and the water bottle costs $0.50. If I'm dying of thirst, I don't care. My subjective value judgement is what's important, so I trade my gold for water.
+- Sensations & sensory input: It is subjectively true that I can hear Get Free by Lana Del Rey playing in the background. Maybe I'm plugged into the matrix and my bluetooth speaker is actually an intricately rendered 3D model, this doesn't change the fact that I can hear the music & perceive it streaming into my subjective reality.
+- Actions & muscle output: It is subjectively true that I'm wiggling my finger right now. Maybe I'm lost in a dream and sleeping peacefully. I can still be completely certain that I'm sending the signal even if the signal is getting intercepted before it reaches my finger.
+- Morality: It is subjectively true that murdering innocent children is evil. Maybe I'll find myself in some twisted real-life trolley problem where killing one child saves 100 doctors but that doesn't change the fact that I believe very deeply in the evilness of murdering kids.
+- Ends: Means towards an end are often dependent on objective reality, but deciding which ends to pursue in the first place is something that is rooted most deeply in subjective reality. Maybe I'm trying to support a non-profit that saves children from being murdered but I've been hoodwinked and I'm *actually* donating money to a company that sells kid burgers. Even if my actions are counter productive in objective reality, the ends I'm working towards exist in my subjective reality.
+
+Remember, there are no rules in subjective reality. This is the realm of chaos. I can value sand over water for no good reason. I can perceive nonsense & fly in my dreams. I can rationalize why murdering kids is actually a noble thing to do and then still choose to commit self-perceived atrocities by saving the lives of a school bus full of children. **Subjective reality can be inconsistent.**
+
+One source of inconsistency is that many aspects of subjective reality are hidden in a haze, out of sight of my conscious awareness. Much like a web browser running on my laptop's operating system, my consciousness is a [user space program](https://en.wikipedia.org/wiki/User_space) with very few permissions granted to control the underlying hardware. This is a good thing, it's for my own protection. For example, my subconscious is responsible for regulating my stress levels and my consciousness is, luckily, unable to affect this directly. Otherwise, I might accidentally give myself a heart attack by meditating the wrong way.
 
 Jed says:
 > I'm like Socrates; all I know is that I know nothing. That's like the subtext of the cogito, together they form the alpha and omega of all knowledge: I know that I Am, and I know that I know nothing else. That's an easy thing to say, but it's a helluva thing to know.
@@ -45,19 +44,19 @@ Jed says:
 
 ### Objective Reality
 
+**aka The Realm of Order**
+
 **aka The Universe**
 
 **aka The Mind of God**
 
-Objective truths are true if we can verify them in objective reality.
+Objective reality plays out in a perfect, beautiful dance. **Objective reality is perfectly consistent.** Well, as far as We've been able to tell. The inside of black holes is still an open question.
 
 We could also refer to objective truths as "empirical truths" because they depend on going out into the real world and seeing for ourselves how things really are.
 
-We could walk out of our house right now, look up at the sky and be somewhat certain in the objective truth of "the sky is blue" (or in the objective falsity of this statement if it happens to be stormy).
+I could walk out of my house right now, look up at the sky and be somewhat certain in the objective truth of "the sky is blue" (or maybe in the objective falsity of this statement if it's stormy).
 
-(I say "somewhat certain" because there are fundamental limits to what we can know about objective reality. We could be plugged into a simulation in which every possible experiment points to the conclusion that the sky is blue but maybe in a higher level reality the sky is on fire or something. But, for the rest of this essay we'll set aside the possibility that reality is fundamentally different than it appears.)
-
-Entropy is a bit non-obvious but, if you manage to wrap your head around it & run experiments, you'll find that it's among the deepest objective truths that we know. And, objectively, the global increase in entropy will remain true no matter what I subjectively believe to be true.
+I say "somewhat certain" because there are fundamental limits to what we can know about objective reality. We could be plugged into a simulation in which every possible experiment points to the conclusion that the sky is blue but maybe in some higher level reality the sky is on fire. Objective reality is the highest level of non-subjective reality.
 
 Reality is that which, when subjectively false, is still objectively true.
 
@@ -102,7 +101,7 @@ There is another sense in which we can talk about subjective truth, that is: a g
 
 As this is an emergent property of many people's individual subjective truths, it is necessarily a subset of objective truth. Other people are not part of my subjective experience, they're a part of objective reality. And, just like other aspects of objective reality, there are fundamental limits to what I can possibly know about other people. At the lowest level, I might believe that another person is human just like me, but I could be plugged into the matrix & she is only a simulation of a person. Or maybe I'm on social media and she's simply a sock puppet controlled by a click farm in some other country.
 
-The only things I can be 100% sure of w regards to other people is my own worldview of them and the actions they take. If I ask someone what color they think the sky is, I can make good guesses at their subjective reality but make no mistake: our subjective realities are on two different planes of reality. Each consciousness exists only in the other person's objective reality and, collectively, we comprise a higher-order subjective reality that is a part of everyone's objective reality.
+The only things I can be sure of w regards to other people is my own worldview of them and the actions they take. If I ask someone what color they think the sky is, I can make good guesses at their subjective reality but make no mistake: our subjective realities are on two different planes of reality. Each consciousness exists only in the other person's objective reality and, collectively, we comprise a higher-order subjective reality that is a part of everyone's objective reality.
 
 ## Truth Distortions
 
