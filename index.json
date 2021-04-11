@@ -5,6 +5,14 @@
       "slug": "about",
       "title": "About"
     },
+    "backgammon": {
+      "category": "games",
+      "draft": true,
+      "img": "/ipfs/QmS8DLSJBj5BKB1zSLavcXqAm7LFSMk3xyDshRmfwGKiHU",
+      "slug": "backgammon",
+      "title": "How to Win Backgammon",
+      "tldr": "Step 1: Learn the Langauge"
+    },
     "kareri-lake": {
       "category": "diary",
       "draft": false,
