@@ -4,11 +4,11 @@
 
 - 80g garlic
 - 240g tomatos
-- 700g onions
+- 640g onions
 - 50g almonds
 - 65g cashews
 - 30g spice masala
-- butter
+- 120g butter
 - ghee
 - 60g lemon juice
 - 2L milk
