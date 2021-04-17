@@ -122,6 +122,14 @@
       "slug": "getting-things-done",
       "title": "Getting Things Done",
       "tldr": "An overview of the Getting Things Done system & examples of how I've used it"
+    },
+    "paneer-butter-masala": {
+      "slug": "paneer-butter-masala",
+      "title": "Paneer Butter Masala",
+      "category": "recipes",
+      "draft": true,
+      "featured": false,
+      "tldr": "How to cook my favorite Indian dish"
     }
   }
 }
