@@ -4,11 +4,13 @@
 
 - tomatos
 - onions
-- almonds
-- cashews
+- 50g almonds
+- 65g cashews
 - spice masala
 - butter
 - ghee
+- 30g lemon juice
+- 2L milk
 
 ## Preparation
 
