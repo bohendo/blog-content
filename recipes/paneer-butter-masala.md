@@ -2,7 +2,9 @@
 
 ## Ingredients
 
-- 80g garlic
+- 45g garlic
+- 7g ginger
+- 5g green chillies
 - 240g tomatos
 - 640g onions
 - 50g almonds
