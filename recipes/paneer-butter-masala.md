@@ -2,14 +2,15 @@
 
 ## Ingredients
 
-- tomatos
-- onions
+- 80g garlic
+- 240g tomatos
+- 700g onions
 - 50g almonds
 - 65g cashews
-- spice masala
+- 30g spice masala
 - butter
 - ghee
-- 30g lemon juice
+- 60g lemon juice
 - 2L milk
 
 ## Preparation
