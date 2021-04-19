@@ -191,5 +191,7 @@ Each group along the x-axis is further divided based on their triglyceride & HDL
 
 What this figure shows is that whether a subject was in the high LDL or low LDL group makes a much smaller difference to their heart disease risk than their triglyceride/HDL levels. For example, >12% of the low-LDL/high-triglyceride/low-HDL group experience heart disease while <5% of the high-LDL/low-triglyceride/high-HDL group experienced heart disease.
 
-What I take away from this graph is that triglyceride & HDL levels are *very* important and strongly predictive of heart disease while LDL is only mildly predictive. If we revisit my lipid panel, we see that my triglyceride levels are well below the recommendation while my HDL is well above. This is a very good sign for my heart health & suggests that I'm *not* at a particularly elevated risk of heart disease despite my LDL being slightly above the recommendation.
+Additionally, a recent study from March 2021 provides evidence that [low HDL and high triglycerides predict COVID-19 severity](https://www.nature.com/articles/s41598-021-86747-5).
+
+What I take away from this research is that triglyceride & HDL levels are *very* important and strongly predictive of heart disease while LDL is only mildly predictive. If we revisit my lipid panel, we see that my triglyceride levels are well below the recommendation while my HDL is well above. This is a very good sign for my heart health & suggests that I'm *not* at a particularly elevated risk of heart disease despite my LDL being slightly above the recommendation.
 
