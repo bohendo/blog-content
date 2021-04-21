@@ -1,4 +1,4 @@
-# How to Cook Paneer Butter Masala
+# How to Cook Shahi Paneer
 
 ## Ingredients
 

@@ -130,6 +130,14 @@
       "draft": true,
       "featured": false,
       "tldr": "How to cook my favorite Indian dish"
+    },
+    "shahi-paneer": {
+      "slug": "shahi-paneer",
+      "title": "Shahi Paneer",
+      "category": "recipes",
+      "draft": true,
+      "featured": false,
+      "tldr": "How to cook my favorite Indian dish: Royal Paneer"
     }
   }
 }
