@@ -1,20 +1,30 @@
+
 # What is True?
 
 - I am
 - 12 + 1 = 13
-- The sky is blue
 - A nugget of gold is more valuable than a bottle of water
+- Energy cannot be created or destroyed
+- Murdering children is wrong
+- The sky is blue
 - Joe Biden won the 2020 presidential election
+
+
+## [Contexts](https://en.wikipedia.org/wiki/Contextualism)
 
 Which of the above statements are true?
 
-We could claim that all of them are true, but some seem more true than others. Or, at least, some are true in different contexts. In fact, determining the context is the single most important part of deciding whether any of the above are true. Once the context is determined, the answer is often either obvious or nonsensical.
+We could claim that all of the above statements are true, but some seem more true than others. Or, at least, some are true in different contexts. In fact, determining the context is the single most important part of deciding whether any of the above are true. Once the context is determined, the answer is often either obvious or nonsensical.
 
-I think the quest for a unified theory of truth is Quixotic, I'm perfectly content cleaving the truth into two different contexts:
+I think the quest for a unified, universal theory of truth is Quixotic, I think it's much more practical to cleave the truth into two different contexts:
 - Subjective reality
 - Objective reality
 
+
+
 ### Subjective Reality
+
+![Subjective Reality](/ipfs/QmXfHPERH2dDGox2eRHwcAJnAkdH2mhySU2hPvqeedKha1)
 
 **aka The Realm of Chaos**
 
@@ -22,27 +32,50 @@ I think the quest for a unified theory of truth is Quixotic, I'm perfectly conte
 
 **aka The Mind of Man**
 
-"I am" stands out as being subjectively true for everyone capable of comprehending the statement, almost by definition.
+An individual's subjective reality is where the deepest, most rock solid truth resides: "I think, therefore I am" aka the cogito. This stands out as being subjectively true for everyone capable of comprehending the statement, almost by definition. In fact, on the deepest level, this is the only truth that we can be completely & absolutely 100% certain of. Everything else has a nonzero amount of unavoidable uncertainty.
 
-There are no rules in subjective reality. I can think "the sky is blue" one second and "the sky is lime green" the next, I can vividly imagine a bright green sky peaking out behind a fluffy pink cloud & bring this scene to life in my mind. I can take acid or magic mushrooms, look out the window, and *see with my own eyes* a bright green sky with fluffy pink clouds. Within my subjective reality, the sky can truly be green, even if it's blue and always has been/will be blue in objective reality.
+Besides the truth of the cogito, there are no hard & fast rules that constrain subjective reality. I can believe that the sky is blue one second & believe that it's electric green the next. I can even take acid, look out the window, and *see for myself* that the sky is green. This subjective experience is true for me no matter what objective reality actually looks lie.
 
-The subjective color of the sky is, more specifically, as aspect of my worldview. My worldview is a reflection of objective reality so we could say that the color of the sky is more deeply true in objective reality than in subjective reality. But there are many things that are more deeply true in subjective reality than objective reality:
+My belief regarding the color of the sky is, more specifically, as aspect of my worldview. My worldview is a reflection of objective reality so we could say that the color of the sky is more deeply true in objective reality than in subjective reality. We'll look more closely at what a worldview is later, for now let's focus on the aspects of reality that are more deeply true in subjective reality than in objective reality.
 
-- Value Judgements: It is subjectively true that gold is more valuable than water.. Unless I'm dying of thirst in the desert, in which case water is more valuable. Maybe my gold nugget is worth all the money in New York City and the water bottle costs $0.50. If I'm dying of thirst, I don't care. My subjective value judgement is what's important, so I trade my gold for water.
-- Sensations & sensory input: It is subjectively true that I can hear Get Free by Lana Del Rey playing in the background. Maybe I'm plugged into the matrix and my bluetooth speaker is actually an intricately rendered 3D model, this doesn't change the fact that I can hear the music & perceive it streaming into my subjective reality.
-- Actions & muscle output: It is subjectively true that I'm wiggling my finger right now. Maybe I'm lost in a dream and sleeping peacefully. I can still be completely certain that I'm sending the signal even if the signal is getting intercepted before it reaches my finger.
-- Morality: It is subjectively true that murdering innocent children is evil. Maybe I'll find myself in some twisted real-life trolley problem where killing one child saves 100 doctors but that doesn't change the fact that I believe very deeply in the evilness of murdering kids.
-- Ends: Means towards an end are often dependent on objective reality, but deciding which ends to pursue in the first place is something that is rooted most deeply in subjective reality. Maybe I'm trying to support a non-profit that saves children from being murdered but I've been hoodwinked and I'm *actually* donating money to a company that sells kid burgers. Even if my actions are counter productive in objective reality, the ends I'm working towards exist in my subjective reality.
+#### Value
 
-Remember, there are no rules in subjective reality. This is the realm of chaos. I can value sand over water for no good reason. I can perceive nonsense & fly in my dreams. I can rationalize why murdering kids is actually a noble thing to do and then still choose to commit self-perceived atrocities by saving the lives of a school bus full of children. **Subjective reality can be inconsistent.**
+It is subjectively true that gold is more valuable than water.. Unless I'm dying of thirst in the desert, in which case water is more valuable. Maybe my gold nugget is worth all the money in New York City and the water bottle costs $0.50. If I'm dying of thirst, I don't care. My subjective value judgement is what's important, so I trade my gold for water.
 
-One source of inconsistency is that many aspects of subjective reality are hidden in a haze, out of sight of my conscious awareness. Much like a web browser running on my laptop's operating system, my consciousness is a [user space program](https://en.wikipedia.org/wiki/User_space) with very few permissions granted to control the underlying hardware. This is a good thing, it's for my own protection. For example, my subconscious is responsible for regulating my stress levels and my consciousness is, luckily, unable to affect this directly. Otherwise, I might accidentally give myself a heart attack by meditating the wrong way.
+#### Morality
+
+It is subjectively true that murdering innocent children is evil. Maybe I'll find myself in some twisted real-life trolley problem where killing one child saves 100 doctors but that doesn't change the fact that I believe very deeply in the evilness of murdering kids.
+
+#### Definitions
+
+It is subjectively true that this is a dog. This fuzzy four legged creature might exist in objective reality, but assigning it to the category of "dog" requires a subjective understanding of what the word dog even means.
+
+Ultimately, words are handles that we use to grab and manipulate concepts. Objective reality produces a variety of phenomena and there are some patterns to them, some events & objects that re-appear again and again in similar & predictable ways. To communicate & think clearly, we attach a handle (eg the word "dog") to a bundle of phenomena (eg each member in a pack of friendly mammals) that are related in some specific way. [Plato's theory of forms](https://en.wikipedia.org/wiki/Theory_of_forms) is just a focus on this handle as being more fundamental than the bundle of phenomena it's attached to.
+
+#### Sensory Input
+
+It is subjectively true that I can hear Get Free by Lana Del Rey playing in the background. Maybe I'm plugged into the matrix and my bluetooth speaker is actually an intricately rendered 3D model, this doesn't change the fact that I can hear the music & perceive it streaming into my subjective reality.
+
+#### Muscle Output
+
+It is subjectively true that I'm wiggling my finger right now. Maybe I'm lost in a dream and sleeping peacefully. I can still be completely certain that I'm sending the signal to move even if that signal is getting intercepted before it reaches my finger.
+
+-----
+
+Remember, there are no hard & fast rules in subjective reality. This is the realm of chaos. I can value sand over water for no good reason. I can perceive garbled nonsense & fly in my dreams. I can rationalize why murdering kids is actually a noble thing to do and then incoherently choose to commit what I perceive as an atrocity by saving a school bus from disaster. **Subjective reality can be inconsistent.**
+
+One major source of subjective inconsistency is that many aspects of subjective reality are hidden in a haze, out of sight of my conscious awareness. Much like a web browser running on my laptop's operating system, my consciousness is a [userland program](https://en.wikipedia.org/wiki/User_space) with very limited permissions granted to control the underlying hardware. This is a good thing! It's for my own protection. For example, the kernel of my subconscious is responsible for regulating stress levels and my consciousness is, luckily, unable to affect this directly. If my conscious mind were granted root access to everything my brain controls, I might accidentally give myself a heart attack by meditating the wrong way.
+
+But this safety comes at the cost of a nearly ubiquitous uncertainty applied to every in subjective reality minus the cogito. My subconscious can lie to my consciousness & pre-process my sensory inputs in misleading ways, this is why optical illusions are a thing. Discrepancies between conscious & subconscious motivations are the focus of the book [The Elephant in the Brain](https://en.wikipedia.org/wiki/The_Elephant_in_the_Brain).
 
 Jed says:
 > I'm like Socrates; all I know is that I know nothing. That's like the subtext of the cogito, together they form the alpha and omega of all knowledge: I know that I Am, and I know that I know nothing else. That's an easy thing to say, but it's a helluva thing to know.
 
 
+
 ### Objective Reality
+
+![Objective Reality](/ipfs/QmYZBVVs5DS5eNFFsr2SvX1NRZAzVnxtveioG18fYJD7kS)
 
 **aka The Realm of Order**
 
@@ -50,73 +83,82 @@ Jed says:
 
 **aka The Mind of God**
 
-Objective reality plays out in a perfect, beautiful dance. **Objective reality is perfectly consistent.** Well, as far as We've been able to tell. The inside of black holes is still an open question.
+Objective reality plays out in the most perfect, flawless, and beautiful dance. **Objective reality is perfectly consistent.** Well, as far as we've been able to tell. The center of a black hole is still up for debate but nature at least makes an admirable effort to hide any inconsistencies that might exist.
 
-We could also refer to objective truths as "empirical truths" because they depend on going out into the real world and seeing for ourselves how things really are.
+As we get further & further from the cogito, our uncertainty only increases. Perceiving objective reality from the vantage point of subjective reality is like looking at a room through a keyhole. It looks like a perfectly ordinary room, but you can never open the door & enter it yourself so there's no way for you to know for certain that it's a real room & not just a TV positioned directly in front of the keyhole with a picture of a room on it.
 
-I could walk out of my house right now, look up at the sky and be somewhat certain in the objective truth of "the sky is blue" (or maybe in the objective falsity of this statement if it's stormy).
+Movies like The Matrix and Inception are fun stories in which the objective reality that people see is actually a fabrication. They're stories where the other room you see through the keyhole is a projection on a screen rather than a real space.
 
-I say "somewhat certain" because there are fundamental limits to what we can know about objective reality. We could be plugged into a simulation in which every possible experiment points to the conclusion that the sky is blue but maybe in some higher level reality the sky is on fire. Objective reality is the highest level of non-subjective reality.
+But, even if we do have a TV sitting in front of the keyhole, that TV must be in some other, bigger, more fundamental space. We could be looking at a screen with a picture of a screen with a picture of a room (like dreams within a dream from Inception), but there must be some fundamental reality at the bottom of the stack. It can't be turtles all the way down.. right?
 
-Reality is that which, when subjectively false, is still objectively true.
+This uncertainty can only be resolved through faith. Science (ie the investigation & discovery of rules that guide objective reality) requires faith in an objective reality that is real, consistent, and coherent.
 
-2 + 2 = 4 *feels* like an objective truth, it's math after all and math is a subject adjacent to science which is entirely focused on understanding objective reality. But, if we wanted to go out into the world and verify this statement, what would we look for? We'd try to add up 2..? Of what, exactly?
+Objective reality is the realm of hard sciences, immutable laws of physics, and order.
 
-Abstract math is, counter-intuitively, not contained in the realm of objective reality. 2 + 2 = 4 is a purely subjective truth that depends entirely on your concept of what "2" in the abstract means. If I ask you "what comes after 12?", the answer would be different if our context is an abstract number line vs non-military-time hours of the day.
-
-
-## Truth Within Truth
-
-Like yin-yang: within each aspect of reality, there contains a simulation of the other.
-
-Within my subjective reality, there is a simulation of objective reality: my worldview.
-Within objective reality, there exists some notion of our communal subjective reality: the consensus.
 
 
 ### Worldview
 
-**The Objective Truth w/in Subjective Truth**
+![Worldview](/ipfs/QmUSVzzpgjx6dyuz9H1B28rGHBZWWK71veMUGk6Uz3jcLg)
 
-My subjective reality contains a simulation of objective reality. If I close my eyes and imagine holding a ball in my hand and simulate what will happen if I open my hand, I can predict that the ball will accelerate down towards the ground.
+**aka My subjective Perception of Objective Reality**
 
-Your subjective reality is on an entirely different plane of existence than objective reality. If you open your hand and watch a ball start to fall, your perception of the world ie your worldview gets updated to include a ball that's speeding up towards the ground. You might perceive & process this information while deciding to take action, you might consider catching the ball or letting it fall. This consideration can only take into account info within your worldview, no information from objective reality can be considered until it's first imported into your worldview.
+Marcus Aurelius says:
+
+> The longest-lived and those who will die soonest lose the same thing. The present is all that they can give up, since that is all that you have, and what you do not have, you cannot lose.
+
+But in a way, the present moment of objective reality is forever out of reach. Imagine you're at a music festival and, just as the beat drops, a fantastic array of laser lights shine up from the stage. You can perceive the moment that this laser light shines & illuminates it's path through the mist, but only after laser is diffracted by particles in the air, travels to your eyeball, triggers an action potential in your photoreceptors which travels up your optic nerve & is processed by low-level neurons in your occipital lobe before finally being perceived by your higher-level consciousness. The light you finally perceive is part of your worldview and it *always* lags behind the present objective moment by at least a few tens of milliseconds.
+
+But your worldview is much more than laggy sensory input from objective reality, it's a full-on simulation of objective reality. You can mentally construct a 3D representation of the music stage from your 2D visual input & simulate how much better your view might be if you could move closer.
+
+Your worldview is a sub-component of your subjective reality and, remember, subjective reality is the realm of chaos. There are no guard rails that prevent your worldview from getting out of sync with objective reality. If you're on drugs or dreaming or just plain confused, your worldview might diverge wildly from objective reality.
 
 It is, in my opinion, a noble goal to cultivate a worldview that is as rich and accurate a portrayal of objective reality as possible. It's, obviously, a futile exercise to try to make it a perfect fit. There is no destination in the journey to sync up your worldview with objective reality, only a direction that you can travel in.
 
-Having an accurate worldview is generally a valuable thing with no downsides, but there are edge cases where letting your worldview diverge from objective reality has utility.. For some definitions of utility, at least.
+Having an accurate worldview is generally a valuable tool with few downsides, but there are edge cases where letting your worldview diverge from objective reality has utility.. For some definitions of utility, at least.
 
-There are no hard & fast rules dictating your worldview, anything goes. If I want to imagine a bright purple sky with lime green clouds, I can.
+
 
 ### Society
 
-**The Subjective Truth w/in Objective Truth**
+![Society](/ipfs/QmdhFbAtmsqrXqjspcMkWYj9QKhwDsMcYedHvHYwDvKEKK)
 
-**Aka The Human Hivemind's Subjective Truth**
+**aka The Hivemind's Subjective Truth**
 
-**Aka The Consensus**
+**aka The Consensus**
 
-Notice that I qualified the earlier discussion of subjective truth by specifying it as "my" subjective truth or "an individual's" subjective truth.
+**aka The Minds of Men**
 
-There is another sense in which we can talk about subjective truth, that is: a group's subjective truth. Or, more broadly, humanity's subjective truth. I'll call it THE subjective truth.
+**aka [The Human Colossus](https://waitbutwhy.com/2017/04/neuralink.html#part1)**
 
-As this is an emergent property of many people's individual subjective truths, it is necessarily a subset of objective truth. Other people are not part of my subjective experience, they're a part of objective reality. And, just like other aspects of objective reality, there are fundamental limits to what I can possibly know about other people. At the lowest level, I might believe that another person is human just like me, but I could be plugged into the matrix & she is only a simulation of a person. Or maybe I'm on social media and she's simply a sock puppet controlled by a click farm in some other country.
+Much like how your subjective experience emerges out of the interactions of many neurons, a society-wide subjective experience emerges out of the interactions of many people. Society's subjective reality is, roughly, the weighted average of all it's constituent subjective realities where the "weight" is proportional to political power.
 
-The only things I can be sure of w regards to other people is my own worldview of them and the actions they take. If I ask someone what color they think the sky is, I can make good guesses at their subjective reality but make no mistake: our subjective realities are on two different planes of reality. Each consciousness exists only in the other person's objective reality and, collectively, we comprise a higher-order subjective reality that is a part of everyone's objective reality.
+Society is a sub-component of objective reality which, with a little faith, proceeds according to the immutable laws of physics. Physical aspects of society such as food supply and defense proceed according to strict & unyielding natural laws; these rules cannot be broken no matter how strongly society believes them to be false or immoral.
 
-## Truth Distortions
+There are higher-level aspects of society such as it's moral framework & value systems which have the freedom to become whatever the people want.. In the short term, at least. In the long term, society's governance structure is still at the mercy of game theory & natural selection & other higher-level laws of nature.
 
-When people talk about "the truth", they're generally conflating our consensus and the objective truth within their worldview. Conflating these two things is, almost always, a great heuristic & a wise move.
+Society, like all human subjective experiences, has a worldview of it's own which may or may not be in alignment with objective reality. Academia & schooling in general is tasked with downloading society's worldview into their student's subjective realities. Especially in research-colleges, there is also instruction on how a student can directly interact with objective reality via experiments to develop their own worldview without the help of a teacher or broader society.
 
-It's objectively true (w/in my worldview) that the sky is generally blue and we humans have a consensus that they sky is generally blue. Mixing up these two contexts of truth rarely comes with any downsides. Rarely, not never.
+Leadership which strives to bring society's worldview in line with objective reality is granted a tailwind in their journey to prosperity. **Leaders who strive to bring the minds of men in alignment with the mind of God are granted the mandate of heaven.**
 
-Trouble can arise when subjective and objective truth diverge. For example: Chernobyl. The consensus was that the Soviet Union is a highly-capable nuclear superpower and they build reactors that cannot possibly explode. The objective truth is that a Soviet RBMK reactor exploded. Things got very bad at Chernobyl & they didn't get better until the consensus caved-in and accepted the cold, hard, unyielding objective reality.
+On the other hand, those leaders who distort society's worldview for their own benefit are putting themselves and their followers at great risk of the wrath of objective reality. Distorting society's worldview might bring short-term pleasure but, by sacrificing the mandate of heaven, they are making revolt and the loss of their power all but inevitable in the long-term. 
+
+
+
+## Truth Divergences
+
+Say you're interacting with objective reality and develop a worldview that diverges from society's, how might one resolve this mismatch?
+
+The agreeable man would probably update their own worldview so it's in sync w society's, the disagreeable man might work to update society's. Whether or not agreeableness is the right strategy or not depends on who's right, objective reality is the final judge.
 
 If you stay zoomed out, it looks like there would be no benefit to consensus diverging from objective truth. There's massive risk and no systemic benefit. One might think we'd all be happily working together to bring our collective consensus as closely in line with objective reality as possible.
 
-Unfortunately, when you zoom in & notice individual incentives, you'll find a multi-polar trap: each individual benefits at the group's expense if they treat the subjective reality of those in power as more important/relevant/correct than objective reality.
+Unfortunately, when you zoom in & notice individual incentives, you'll find a multi-polar trap: each individual benefits at the group's expense if they treat the subjective reality of those in power as more important than objective reality. This means subjective & objective truth will diverge most commonly & most severely close to political power.
 
-This means subjective & objective truth will diverge most commonly & most severely close to power. Not watts, political power like what CEOs and Kings have.
-
-From another angle, it looks like power over people can be used to fend off objective reality. With enough power, you can live out your subjective truth as if it were the one & only truth there ever was. For a little while at least. Objective reality is that which is still true when it's subjectively false though, be careful not to trip over it.
+From another angle, it looks like power over people can be used to fend off objective reality. With enough power, you can live out your worldview as if it were the one & only truth there ever was. For a little while at least. Objective reality doesn't go away when you stop believing in it.
 
 In practice, most people are, most of the time, not powerful enough to cause noticeable truth distortions so most of us live our day-to-day lives in a world where subjective & objective reality are essentially one and the same.
+
+### Case Study: Chernobyl
+
+The consensus was that the Soviet Union is a highly-capable nuclear superpower and they build reactors that cannot possibly explode. The objective truth is that a Soviet RBMK reactor exploded. Things got very bad at Chernobyl & they didn't get better until the consensus caved-in and accepted the cold, hard, unyielding objective reality.
