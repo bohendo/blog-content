@@ -139,13 +139,13 @@
       "featured": false,
       "tldr": "How to cook my favorite Indian dish: Royal Paneer"
     },
-    "nutty-casserole": {
-      "slug": "nutty-casserole",
-      "title": "How to Make Nutty Casserole",
+    "royal-casserole": {
+      "slug": "royal-casserole",
+      "title": "How to Make Royal Casserole",
       "category": "recipes",
       "draft": true,
       "featured": false,
-      "tldr": "The perfect food"
+      "tldr": "The perfect food, fit for a king/queen"
     }
   }
 }
