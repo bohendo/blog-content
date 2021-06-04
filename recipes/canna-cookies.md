@@ -12,7 +12,7 @@
 - 1g hash
 - 115g butter
 - 150g milk
-- 750g sugar
+- 75g sugar
 - 30g coco powder
 - 300g oats
 - 100g peanut butter
