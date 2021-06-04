@@ -146,6 +146,14 @@
       "draft": true,
       "featured": false,
       "tldr": "The perfect food, fit for a king/queen"
+    },
+    "canna-cookies": {
+      "slug": "canna-cookies",
+      "title": "Canna Cookies",
+      "category": "recipes",
+      "draft": true,
+      "featured": false,
+      "tldr": "Or skip the first step for normal no-bake cookies"
     }
   }
 }
