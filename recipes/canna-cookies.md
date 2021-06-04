@@ -12,10 +12,10 @@
 - 1g hash
 - 115g butter
 - 150g milk
-- 150g sugar
+- 750g sugar
 - 30g coco powder
-- 450g oats
-- 120g peanut butter
+- 300g oats
+- 100g peanut butter
 - vanilla to taste
 
 ## Preparation
