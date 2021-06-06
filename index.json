@@ -162,6 +162,15 @@
       "draft": true,
       "featured": false,
       "tldr": "Or skip the first step for normal no-bake cookies"
+    },
+    "almond-crust-pizza": {
+      "slug": "almond-crust-pizza",
+      "title": "Almond Crust Pizza",
+      "category": "recipes",
+      "draft": false,
+      "featured": false,
+      "publishedOn": "2021-06-06T06:20:19.475Z",
+      "tldr": "This heavy pizza will fill you up & keep you full all night long"
     }
   }
 }
