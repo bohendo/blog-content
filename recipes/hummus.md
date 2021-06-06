@@ -1,4 +1,3 @@
-
 # Hummus
 
 ## Equipment
@@ -6,14 +5,14 @@
 - pressure cooker
 
 ## Ingredients
-- 3 cups of dry chickpeas
+- 420g (~3 cups) of dried chickpeas
 - tahini
 - 1 full bulb of garlic
 - 6 small lemons
 - salt
 
 ## Preparation
-- soak chickpeas overnight or pressure cook for 30 mins. Then, pressure cook chick peas for 45 (more) minutes and let them cool to room temperature or, even better, cool them in the fridge until they're cold
+- soak chickpeas overnight or pressure cook for 30 mins. Drain the water & rinse them well. Then, pressure cook chick peas for 45 (more) minutes, drain the water, and cool them in the fridge until cold
 - peel garlic
 - juice lemons
 
