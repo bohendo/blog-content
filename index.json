@@ -27,7 +27,7 @@
       "slug": "hummus",
       "title": "How To Prepare Hummus",
       "category": "recipes",
-      "draft": true,
+      "draft": false,
       "featured": false,
       "tldr": "Tasty & clean"
     },
@@ -46,7 +46,7 @@
       "title": "How To Cook Dal Makhani",
       "category": "recipes",
       "draft": false,
-      "featured": false,
+      "featured": true,
       "publishedOn": "2021-03-22",
       "tldr": "Very tasty & surprisingly simple Indian dish"
     },
@@ -55,7 +55,7 @@
       "title": "LDL Can Be Good",
       "category": "health",
       "draft": false,
-      "featured": true,
+      "featured": false,
       "img": "/ipfs/QmNXFXkguFZLASvYRnNaThzuqQ83nKtpqg4HnmeBYQp21n",
       "publishedOn": "2021-03-12",
       "tldr": "Rumors of LDL's villainy have been greatly exaggerated by those trying to sell you statins."
@@ -96,7 +96,7 @@
     },
     "flash-loan": {
       "category": "crypto",
-      "featured": false,
+      "featured": true,
       "publishedOn": "2020-02-18",
       "slug": "flash-loan",
       "title": "Flash Loan",
@@ -151,7 +151,7 @@
       "slug": "royal-casserole",
       "title": "How to Make Royal Casserole",
       "category": "recipes",
-      "draft": true,
+      "draft": false,
       "featured": false,
       "tldr": "The perfect food, fit for a king/queen"
     },
