@@ -149,7 +149,7 @@ On the other hand, those leaders who distort society's worldview for their own b
 
 Say you're interacting with objective reality and develop a worldview that diverges from society's, how might one resolve this mismatch?
 
-The agreeable man would probably update their own worldview so it's in sync w society's, the disagreeable man might work to update society's. Whether or not agreeableness is the right strategy or not depends on who's right, objective reality is the final judge.
+The agreeable man would probably update their own worldview so it's in sync w society's, the disagreeable man might work to update society's. Whether or not agreeableness is the right strategy or not depends on who's right, objective reality is the final judge here.
 
 If you stay zoomed out, it looks like there would be no benefit to consensus diverging from objective truth. There's massive risk and no systemic benefit. One might think we'd all be happily working together to bring our collective consensus as closely in line with objective reality as possible.
 

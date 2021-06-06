@@ -23,6 +23,14 @@
       "title": "Kareri Lake Trek",
       "tldr": "Journal entries for my first trek to Kareri Lake."
     },
+    "hummus": {
+      "category": "recipes",
+      "draft": true,
+      "featured": false,
+      "slug": "hummus",
+      "title": "How To Prepare Hummus",
+      "tldr": "Tasty & clean"
+    },
     "dutch-babies": {
       "category": "recipes",
       "draft": false,
