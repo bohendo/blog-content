@@ -6,10 +6,10 @@
 
 ## Ingredients
 - 420g (~3 cups) of dried chickpeas
-- tahini
-- 1 full bulb of garlic
-- 6 small lemons
-- salt
+- 100g tahini
+- 50g garlic (~1 full bulb)
+- 50g lemon juice (~6 small lemons)
+- salt to taste
 
 ## Preparation
 - soak chickpeas overnight or pressure cook for 30 mins. Drain the water & rinse them well. Then, pressure cook chick peas for 45 (more) minutes, drain the water, and cool them in the fridge until cold
