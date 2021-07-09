@@ -43,6 +43,7 @@ How much longer will this illusion hold up?
 
 Idk, but not forever.
 
-## Related Reading:
+## Related Reading
+
 - [Unqualified Reservations](https://www.unqualified-reservations.org/2009/02/gentle-introduction-to-unqualified_19/)
 - [Some Principles & Observations About Social Justice Politics by Freddie deBoer](https://freddiedeboer.substack.com/p/some-principles-and-observations)
