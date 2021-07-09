@@ -1,7 +1,7 @@
 
-# Decentralized Machiavelianism
+# Decentralized Machiavellianism
 
-The policy of the US Gov, in general, is Decentralized Machiavelianism.
+The policy of the US Gov, in general, is Decentralized Machiavellianism.
 
 The intention is always to do good.
 
@@ -9,7 +9,7 @@ The actual effect of any given policy is to make the problem worse, ensuring tha
  
 ## Examples
 
-It looks to me like most policies pushed by the US Gov exhibit a non-zero amount of Decentralized Machiavelianism. But a few concrete examples help to paint the picture:
+It looks to me like most policies pushed by the US Gov exhibit a non-zero amount of Decentralized Machiavellianism. But a few concrete examples help to paint the picture:
 
 ### Climate Change
 
@@ -31,7 +31,7 @@ In reality, a weakly militarized central gov means rebels have a fighting chance
 
 ## Strengths
 
-A remarkable feature of Decentralized Machiavelianism Machiavelianism is it's robustness. There is no central coordinator, no single point of failure, nobody at the wheel.
+A remarkable feature of Decentralized Machiavellianism Machiavellianism is it's robustness. There is no central coordinator, no single point of failure, nobody at the wheel.
 
 Everyone involved simply does what's in their own self-interest, no secret conspiracy required. The game theory's sound.
 
@@ -42,3 +42,7 @@ The only flaw is that it's existentially dependent on the US Gov's propaganda or
 How much longer will this illusion hold up?
 
 Idk, but not forever.
+
+## Related Reading:
+- [Unqualified Reservations](https://www.unqualified-reservations.org/2009/02/gentle-introduction-to-unqualified_19/)
+- [Some Principles & Observations About Social Justice Politics by Freddie deBoer](https://freddiedeboer.substack.com/p/some-principles-and-observations)
