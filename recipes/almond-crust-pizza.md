@@ -7,9 +7,9 @@
 - blender or crusher
 
 ## Ingredients
-- 20g butter
+- 10g butter
 - 60g almonds
-- 80g cashews
+- 60g cashews
 - 80g milk
 - 1 egg (optional)
 - ~20g tomato sauce
