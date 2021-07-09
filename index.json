@@ -5,6 +5,12 @@
       "slug": "about",
       "title": "About"
     },
+    "decentralized-machiavellianism": {
+      "category": "social",
+      "slug": "decentralized-machiavellianism",
+      "title": "Decentralized Machiavellianism",
+      "tldr": "The bread & butter of the US Gov"
+    },
     "backgammon": {
       "category": "games",
       "draft": true,
