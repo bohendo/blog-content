@@ -7,11 +7,11 @@ Beyond the anecdotal evidence of over 1200 glowing reviews on Amazon, [David All
 
 Allen presents the ideas of horizons from which you can view your life. These horizons fall roughly into 5 different levels:
 
- - Actions you are doing moment to moment
- - Projects you are working on
- - Goals you are working towards
- - Areas of focus
- - Life purpose
+1. Actions you are doing moment to moment
+2. Projects you are working on
+3. Goals you are working towards
+4. Areas of focus
+5. Life purpose
 
 Someone's life purpose (5) might be to live an unforgettable life. An area of focus (4) could be rock climbing and a goal (3) could be to ascend El Capitan's Great Roof route in Yosemite. To work up to this goal, a current project (2) might be to increase arm endurance so today they are going to do (1) a pull-up workout.
 
@@ -21,11 +21,11 @@ Open loops are anything that tugs on your attention due to it's incompleteness. 
 
 The GTD system is composed of 5 steps:
 
- - Capture
- - Clarify
- - Organize
- - Reflect
- - Engage
+1. Capture
+2. Clarify
+3. Organize
+4. Reflect
+5. Engage
 
 There are four habits that stand out to me as being particularly powerful. If this whole system seems like too much to incorporate into your life, I recommend you at least make skim & make note of the 4 keystone habits as they alone can overwhelm any feelings you have of being overwhelmed.
 
@@ -39,11 +39,11 @@ Keep this notepad at hand at all times and capture everything that you need to r
 
 I can say from personal experience that it is incredibly relaxing to have 100% of your open loops stored outside of your head in a trustworthy system. The mosquitoes ("I can't forget to call Dr. Bob today!" "Is that essay due tomorrow or the next day?!" "Oh I really need to prepare for that meeting tomorrow") will stop buzzing in your ear and you will be able to start thinking *about* your obligations rather than just reminding yourself *of* them.
 
-### Putting it into practice
+There is a world of difference between capturing most of what you have to do and knowing that you have captured absolutely everything. If you're used to *mentally* storing all of your open loops, you'll want to set some time aside to perform a complete mind dump. Sit down in front of a notepad and record everything that has your attention. Browsing a  [list of triggers](http://lifehacker.com/5611657/use-a-weekly-review-list-to-stay-a-step-ahead-this-semester) is helpful in making sure you've got it all. Gather everything from your room and workspace that is not exactly as it should be, where it should be and add it to your in-tray. Trash can be thrown away immediately but wait to process anything else until you're confident you've gathered everything.
 
-There is a world of difference between capturing most of what you have to do and knowing that you have captured absolutely everything. If you're used to *mentally* storing all of your open loops, you'll want to set some time aside to perform a complete mind dump. Sit down in front of a notepad and record everything that has your attention. Browsing a  [list of trigger](http://lifehacker.com/5611657/use-a-weekly-review-list-to-stay-a-step-ahead-this-semester) is helpful in making sure you've got it all. Gather everything from your room and workspace that is not exactly as it should be, where it should be and add it to your in-tray. Trash can be thrown away immediately but wait to process anything else until you're confident you've gathered everything.
+### Personal Experience
 
-My personal in-tray is the "To-Do List Widget" that's on the home screen of my phone. I empty it first thing every morning.
+My personal in-tray is the "To-Do List Widget" that's on the home screen of my phone. It's quick & easy to add items to it throughout the day.
 
 ## Step 2: Clarify
 
@@ -63,35 +63,49 @@ Any ill-defined items that have landed in your in-tray need to be clarified. Whe
 
 Once you have decided on the next action, you will be adding it to a list of actions. If an action will take less than a couple minutes to complete, the time spent storing it in your actions list could be better spent by just finishing the task and being done with it.
 
-### Putting it into practice:
+### Personal Experience
 
-Go through your in-tray starting with the first item and deal with each one at a time. Do not even look at the next item until the one that has your attention has been processed. Make sure to update your projects list (see next section) as you go, any item that requires more than one action is a project.
+Almost every morning, I clear my in-tray one item at a time, I don't even look at the next item until the one that has my attention has been processed.
 
 ## Step 3: Organize
 
 Your external storage system has, at it's core, seven buckets (shown in the above flow-chart as stacks of weirdly shaped paper). These seven buckets are:
 
- - Actions list (actionable list)
- - Calendar (actionable list)
- - Projects list (non-actionable list)
- - Someday/maybe list (non-actionable list)
- - Waiting-for list (non-actionable list)
- - Project Files/Folder (folder)
- - General Reference (folder)
+- Actions list (actionable list)
+- Calendar (actionable list)
+- Projects list (non-actionable list)
+- Someday/maybe list (non-actionable list)
+- Waiting-for list (non-actionable list)
+- Project Files/Folder (folder)
+- General Reference (folder)
 
-*Actions List:* A list of actions that you need to take. The list should be separated into contexts but the number of contexts you need to stay organized depends on the number of actions you have on your list. Common contexts: at the office, at home, online, errands, calls, agendas, read/review. Agendas are an important context, use them to keep track of things that need to be discussed with specific people (i.e. "ask for gym recommendations" might be added to the agenda for Jack).
+### Actions List
 
-*Calendar:* Contains the hard, unchangeable landscape for each day. Both time-dependent actions (i.e. meetings) and time-dependent information (i.e. directions to a party) should be included. Nothing time-independent should be included. Do not put anything on Monday that you would *like* to get done on Monday (i.e. get groceries). Only include things that *must* happen on Monday (i.e. doctor appointment).
+A list of actions that you need to take. The list should be separated into contexts but the number of contexts you need to stay organized depends on the number of actions you have on your list. Common contexts: at the office, at home, online, errands, calls, agendas, read/review. Agendas are an important context, use them to keep track of things that need to be discussed with specific people (i.e. "ask for gym recommendations" might be added to the agenda for Jack).
 
-*Projects List:* Any task that will require more than one action is a project. List all of your current projects in one place but don't include any details about a specific project (that's what the projects folder is for). This list provides a valuable overview of your commitments that comes in handy during your weekly reviews.
+### Calendar
 
-*Someday/Maybe List:* This is an eclectic list that is best described by listing a bunch of examples: things to make, hobbies to take up, skills to learn, creative media to explore, clothes or toys to buy, trips to take, organizations to join, service projects to contribute to, things to see, things to do, books to read, music to explore, movies to see, gift ideas, website to explore, miscellaneous ideas, etc.
+Contains the hard, unchangeable landscape for each day. Both time-dependent actions (i.e. meetings) and time-dependent information (i.e. directions to a party) should be included. Nothing time-independent should be included. Do not put anything on Monday that you would *like* to get done on Monday (i.e. get groceries). Only include things that *must* happen on Monday (i.e. doctor appointment).
 
-*Waiting-For List:* When you give a task to someone else to do, record it and include the date. For example, after sending a couple emails on June 12th, you might add the following to this list: "Wanda re: lawn mowing (6/12)" and "Jack re: gym recommendation (6/12)." If you review this list in a week and notice that Wanda still hasn't gotten back to you, that will be your reminder to either contact her again or ask to mow someone else's lawn.
+### Projects List
 
-*Project Files/Folder:* A place to store details, ideas, and information regarding specific projects. Good for planning which actions a project might require in the future but do not rely on files in this folder to remind you of next actions. All next actions should be in your actions list or calendar.
+Any task that will require more than one action is a project. List all of your current projects in one place but don't include any details about a specific project (that's what the projects folder is for). This list provides a valuable overview of your commitments that comes in handy during your weekly reviews.
 
-*General Reference:* Make sure all reference materials can be filed away and retrieved quickly. There should be a single, alphabetically ordered list of material with sub-folders only added for large projects/areas of interest. Purge this folder once per year.
+### Someday/Maybe List
+
+This is an eclectic list that is best described by listing a bunch of examples: things to make, hobbies to take up, skills to learn, creative media to explore, clothes or toys to buy, trips to take, organizations to join, service projects to contribute to, things to see, things to do, books to read, music to explore, movies to see, gift ideas, website to explore, miscellaneous ideas, etc.
+
+### Waiting-For List
+
+When you give a task to someone else to do, record it and include the date. For example, after sending a couple emails on June 12th, you might add the following to this list: "Wanda re: lawn mowing (6/12)" and "Jack re: gym recommendation (6/12)." If you review this list in a week and notice that Wanda still hasn't gotten back to you, that will be your reminder to either contact her again or ask to mow someone else's lawn.
+
+### Project Files/Folder
+
+A place to store details, ideas, and information regarding specific projects. Good for planning which actions a project might require in the future but do not rely on files in this folder to remind you of next actions. All next actions should be in your actions list or calendar.
+
+### General Reference
+
+Make sure all reference materials can be filed away and retrieved quickly. There should be a single, alphabetically ordered list of material with sub-folders only added for large projects/areas of interest. Purge this folder once per year.
 
 ### Managing the Buckets
 
@@ -99,46 +113,50 @@ It is important that each of these buckets has hard edges and there is no overla
 
 It's often a poor use of time to maintain an item-by-item internal organization for a list (i.e. ordering by priority or size). Categories can be useful for large lists (especially the context categories in the actions list) but anything more involved than that should be avoided.
 
-Some items (magazines to read, emails to respond to) can act as their own reminder and therefore do not need to be recorded on you action list. No need to list the emails you need to respond to when you can just look at your inbox.
+Some items (magazines to read, emails to respond to) can act as their own reminder and therefore do not need to be recorded on you actions list. No need to list the emails you need to respond to when you can just look at your inbox.
 
-### Putting it into practice:
+### Personal Experience
 
-For several years now, I've use a simple text editor to manage someday & action lists stored as markdown files. I sort my actions as lists under project headings instead of contexts bc so many of my projects happen in the context of me sitting in front of my computer. By using project names as the headings, I also have an easily scannable list of projects I'm working on in the same place as their related actions. My computer's `Documents` folder contains subfolders with details/resources/code for all the projects I'm working on.
+For several years now, I've use a simple text editor to manage someday & actions lists stored as markdown files. I sort my actions as lists under project headings instead of contexts bc so many of my projects happen in the context of me sitting in front of my computer. By using project names as the headings, I also have an easily scannable list of projects I'm working on in the same place as their related actions. My computer's `Documents` folder contains subfolders with details/resources/code for all the projects I'm working on.
 
 I don't maintain a calendar or waiting-for list because I rarely have requests or time-sensitive obligations to keep track of. When I do, I'll sometimes add "Due Friday" or "Waiting For" projects to my actions list & track them there. This works out nicely for me because this way my actions list becomes the one & only thing I need to review every day to feel like I have a handle on everything.
 
 ## Step 4: Reflect
 
-### Daily Review:
+### Daily Review
 
- - Process in-tray
- - Review calendar and actions list
+- Process in-tray
+- Review calendar and actions list
 
 ### Keystone Habit 4: Weekly Review
 
- - Capture, clarify, and organize everything that escaped your in-tray during the past week
- - Review and update your calendar, actions list, projects list, someday/maybe list, and your waiting for list.
- - Your projects list should be at the heart of your weekly review. Review it and remove any that are complete. Review your someday/maybe list and horizon 3/4/5 materials to see if there are any new projects you want to embark upon.
- - It is recommended that you set aside the last hour of your Friday workday for this. The workweek will still be fresh in your memory and it will allow you to enter the weekend feeling in control.
+- Capture, clarify, and organize everything that escaped your in-tray during the past week
+- Review and update your calendar, actions list, projects list, someday/maybe list, and your waiting for list.
+- Your projects list should be at the heart of your weekly review. Review it and remove any that are complete. Review your someday/maybe list and horizon 3/4/5 materials to see if there are any new projects you want to embark upon.
+- It is recommended that you set aside the last hour of your Friday workday for this. The workweek will still be fresh in your memory and it will allow you to enter the weekend feeling in control.
 
 "When you make plans ahead of time and decide what actions will be carried out in which contexts, the proper behavior is nearly automatically enacted instead of being drawn from your limited reserve of willpower." - David Allen
 
+### Personal Experience
+
+I don't always do weekly reviews, but when I do, I just skim my someday & actions lists and move items between them where my actions list is roughly what I want to get done in the upcoming week. My someday list is sorted the same way as my actions list so it's easy to skim the headers & see the list of projects I might work on someday. Some projects exist in both actions & someday lists if it has some actions that I'll do soon & some I might not.
+
 ## Step 5: Engage
 
-This is where the context categories of your action list shine. When you're in your office with an hour to spare before your next meeting, it is easy to browse your "in office" context for an action that you can complete during that hour. When you're leaving to get groceries, it's easy to browse your errands for any other stops you can make on the way. When Jack stops in to say hi, it's easy to glance at your agenda for Jack and see that you wanted to ask him for a gym recommendation.
+This is where the context categories of your actions list shine. When you're in your office with an hour to spare before your next meeting, it is easy to browse your "in office" context for an action that you can complete during that hour. When you're leaving to get groceries, it's easy to browse your errands for any other stops you can make on the way. When Jack stops in to say hi, it's easy to glance at your agenda for Jack and see that you wanted to ask him for a gym recommendation.
 
-This part of the GTD system is purposefully left unstructured. Setting an elaborate plan ahead of time is useless when a crisis at the beginning of your day completely changes your priorities. Keeping the hard landscape of your calendar in mind while you fill in the gaps from your action list ensures that you will always have something valuable to spend your time on.
+This part of the GTD system is purposefully left unstructured. Setting an elaborate plan ahead of time is useless when a crisis at the beginning of your day completely changes your priorities. Keeping the hard landscape of your calendar in mind while you fill in the gaps from your actions list ensures that you will always have something valuable to spend your time on.
 
 ## Summary
 
- - *Capture absolutely everything that's on your mind*
- - *For everything that you capture, find and record a specific answer to the question: "What is the next action?"*
- - *If the next action will take less than two minutes to complete, do it immediately.*
- - Store all time dependent actions in a single calendar
- - Store all time independent actions in a single action list that's separated into contexts
- - Maintain a list of projects, someday/maybe items, and items you're waiting for.
- - Maintain a general reference and project folder where you can quickly store and retrieve files.
- - *Review and update this system every week.*
+- *Capture absolutely everything that's on your mind*
+- *For everything that you capture, find and record a specific answer to the question: "What is the next action?"*
+- *If the next action will take less than two minutes to complete, do it immediately.*
+- Store all time dependent actions in a single calendar
+- Store all time independent actions in a single actions list that's separated into contexts
+- Maintain a list of projects, someday/maybe items, and items you're waiting for.
+- Maintain a general reference and project folder where you can quickly store and retrieve files.
+- *Review and update this system every week.*
 
 You will start to gain the full benefit of the GTD system once the above fundamentals become habits. Once you reach this point, you will be able to handle crises by spending extra time reflecting on your priorities and actions rather than "taking a break" from the system, going into panic mode, and focusing solely on in-the-moment actions. As you get more familiar with the system, you will integrate it more deeply into your life and custom fit it to suit your unique situation.
 
