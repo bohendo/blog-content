@@ -16,7 +16,7 @@ binmode(STDOUT, ":utf8"); # write to STDOUT as utf-8
 my $ifd; # aka input file descriptor
 open($ifd, "< my-clippings.txt") or die "Error: couldn't open my-clippings.txt. $!\n";
 
-my $outfolder = "highlights"; # folder where our index and book-specific files live
+my $outfolder = "clippings"; # folder where our index and book-specific files live
 
 my $ofile; # book file we're writing to at the moment
 my $ofd; # output file descriptor

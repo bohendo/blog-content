@@ -5,6 +5,13 @@
       "slug": "about",
       "title": "About"
     },
+    "evm": {
+      "category": "crypto",
+      "featured": true,
+      "slug": "evm",
+      "title": "Ethereum Virtual Machine",
+      "tldr": "Specifications & reference materials"
+    },
     "backgammon": {
       "category": "games",
       "draft": true,

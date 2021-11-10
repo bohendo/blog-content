@@ -40,7 +40,7 @@ sed 's/==========\([^=]\)/==========\n\1/g' |\
 # Super sort will sort these lines
 #   primarily by title to group books together
 #   secondarily by page/location to put each book in order
-python3 supersort.py |\
+python3 ops/supersort.py |\
 
 # Remove any duplicate lines (we're idempotent!)
 uniq |\
