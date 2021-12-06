@@ -5,6 +5,13 @@
       "slug": "about",
       "title": "About"
     },
+    "theism": {
+      "category": "social",
+      "featured": false,
+      "slug": "theism",
+      "title": "A New Theism",
+      "tldr": "I believe in God. Not the Christian God or Hindu Gods, just God."
+    },
     "evm": {
       "category": "crypto",
       "featured": true,
