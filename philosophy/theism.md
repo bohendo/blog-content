@@ -48,7 +48,7 @@ Like Michelangelo's David, if all humans who have ever existed are the stone blo
 Natural Selection & Intelligent Design are two facets of the same truth, they are not in opposition.
 
 
-## God minimizes faith
+## God Minimizes Faith
 
 Having faith in God isn't about embracing faith, rather it's about minimizing it. God is the first & last thing that I need to have faith in, by having faith in God I don't need to place my faith in anything or anyone else.
 
@@ -60,12 +60,18 @@ If you don't believe that the Universe is coherent & consistent, then either the
 
 Many who #BelieveScience place their faith in our human leaders and human institutions. This is a dangerous error. Only God is perfect, any institutions that requires faith in present or future human perfection deserves to fall. That which can be destroyed by the truth, deserves to be.
 
-## We are Punished by our sins, not for them
+## We Are Punished By Our Sins
 
-The lonely 40 year old man with a long history of porn addiction has crafted his own Hell right here on Earth, no faith in an afterlife is required (no faith in anything other than God is required). On his death bed, as his life flashes before his eyes, he will suffer for eternity (eternity meaning timeless or outside of time, not forever as in suffering for many many years).
+We are punished by our sins, not for them.
 
-My grandpa passed away recently and I believe that, as he died peacefully in the arms of his loving wife, his life flashed before his eyes and he experienced an eternity of Heaven as he reflected on the beauty of his community & family & all the positive contributions that he made to this wonderful world of ours.
+There is no final judgement after we die. Instead, we are being judged by God every second of every day and our life is full of joy and/or suffering in proportion to how virtuously and/or sinfully we live our life.
 
-There is no afterlife, there is no do-over, this life you have is your one & only shot. So don't blow it.
+The lonely 50 year old man with a long history of drug & porn addiction has crafted his very own Hell right here on Earth. On his death bed, as his life flashes before his eyes, he will suffer for one moment (aka eternity) as he reflects on the life he could have had, the beauty he could have created, the good deeds he could have done but didn't.
+
+My grandpa passed away recently and, as he died peacefully in the arms of his loving wife, I suspect that his life flashed before his eyes and he experienced an eternity of Heaven as he reflected on the beauty of his community & family & all the positive contributions that he made to this wonderful world of ours.
+
+Either way, once you die, you die and your story is over. Your song has ended.
+
+There is no afterlife, there is no do-over, this life you have is your one & only shot. Don't blow it.
 
 > "We do not know where death awaits us: so let us wait for it everywhere. To practice death is to practice freedom. A man who has learned how to die has unlearned how to be a slave." - Jed McKenna
