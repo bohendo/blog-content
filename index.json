@@ -6,10 +6,12 @@
       "title": "About"
     },
     "theism": {
-      "category": "philosophy",
-      "featured": false,
       "slug": "theism",
       "title": "A New Theism",
+      "category": "philosophy",
+      "draft": false,
+      "featured": false,
+      "publishedOn": "2021-12-07T17:47:42.414Z",
       "tldr": "I believe in God. Not the Christian God or Hindu Gods, just God."
     },
     "evm": {
