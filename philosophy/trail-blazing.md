@@ -2,7 +2,7 @@
 # Trail Blazing
 ### A metaphor for building things that have never been built before.
 
-The two distinct phases of a [slow-motion lightning strike](http://gifb.in/mFsV) mirror the POC/path-finding and MVP/path-widening phases of this story.
+The two distinct phases of a [slow-motion lightning strike](https://www.youtube.com/watch?v=dukkO7c2eUE) mirror the POC/path-finding and MVP/path-widening phases of this story.
 
 You're high in the mountains with a small team of adventurous friends. You're standing on a grassy hill above a village called Point A, behind you is the thick darkness of the haze of the unknown. You and your friends are swapping stories about a lush and beautiful place called Point B that's rumored to be out there somewhere. The haze of the unknown is too thick to see very far & know for certain, but you have good reason to believe that the rumors are true.
 
@@ -41,7 +41,7 @@ You recognize this part of the journey as one that will require quite a bit of t
 
 ### The Hacky Fix
 
-You notice what looks like a way to climb over these mountains atop a small cliff that's knobby & looks like it'd be pretty easy to climb. There would be no way to pave a road over this slip so no path that includes this shortcut would fulfil the POC requirements. But you would be able to skip past it to find out, **if** you invested the time into finding a good pass over this mountain range, would this path be a good way to get to Point B?
+You notice what looks like a way to climb over these mountains atop a small cliff that's knobby & looks like it'd be pretty easy to climb. There would be no way to pave a road over this slip so no path that includes this shortcut would fulfill the POC requirements. But you would be able to skip past it to find out, **if** you invested the time into finding a good pass over this mountain range, would this path be a good way to get to Point B?
 
 You & your team mark this spot on your map with a `// TODO`, scamper up this cliff, and move pass this range to explore the landscape beyond.
 
@@ -55,9 +55,9 @@ This is exactly the trap that Expedition X fell into. They found an easy shortcu
 
 Another expedition came along later & found that a completely different path avoided this mountain range entirely, and this route was later built up into a super highway connecting the far village to Point A.
 
-You don't want your expedition to follow the same path ax Expedition X's so you remind your team that Phase 1 isn't over yet. We can't start talking about investing in our current path until we're sure that it really can get support a road between Points A and Point B.
+You don't want your expedition to follow the same path as Expedition X's so you remind your team that Phase 1 isn't over yet. We can't start talking about investing in our current path until we're sure that it really can get support a road between Points A and Point B.
 
-You return the way to came until you encounter the pass that you hacked your way over last time. Now that you know this pass is the only thing stopping you from achieving the POC, you go full force mapping out the range on either side. More quickly than you expected, you find a much more reasonable pass that could be turned into a major highway given significant investment. It's not ideal but it fulfils your requirements.
+You return the way to came until you encounter the pass that you hacked your way over last time. Now that you know this pass is the only thing stopping you from achieving the POC, you go full force mapping out the range on either side. More quickly than you expected, you find a much more reasonable pass that could be turned into a major highway given significant investment. It's not ideal but it fulfills your requirements.
 
 You have now found an acceptable route from Point A to Point B. You have achieved the POC milestone & Phase 1 is over.
 
@@ -67,7 +67,7 @@ Your teammates get to work building out the road on either side of the crux whil
 
 The acceptable pass you found could be turned into a road with a fair bit of dynamite. You debate buying a bunch of dynamite now vs taking a little more time to search for an easier path.. You didn't search very deeply in phase 1 because you found an acceptable path relatively quickly, but now that it's time to invest in turning this acceptable path into a real road, it's time to consider searching a little more.
 
-The expected value of searching more outweighs that of a bunch of dynamite so you continue probing. Before too long, you discover a much smoother, lower pass to cross this mountain range. You scrap earlier plans & devote all resources to developing this newly discovered mountain pass. With all the money you expected to spend on dynamite, you manage to get the crux paved in half-time with some left over. Lucky you.
+The expected value of searching more outweighs that of a bunch of dynamite so you continue probing. Before too long, you discover a much smoother, lower pass to cross this mountain range. You scrap earlier plans & devote all resources to developing this newly discovered mountain pass. With all the money you expected to spend on dynamite, you manage to get the crux paved in half the time with some resources left over. Lucky you.
 
 ### Feature Creep
 
@@ -109,7 +109,7 @@ Now, you have resources to put towards building Point B up beyond just a minimum
 
 As you make Point B more appealing, more & more residents move in until your new settlement's growth becomes self-sustaining. Residents themselves are becoming more knowledgeable about the route & some are even starting to expand it completely on their own. They're batting away the Haze of the Unknown surrounding your village until the area is almost entirely mapped out, with just a few tiny patches of haze remaining.
 
-One day, you're on your balcony overlooking the bustling village of Point B. Up in the hill above, something catches your eye. You see a small group of adventurous-looking friends surveying the Point B Village from the very edge of the map. They're swapping rumors about a fabled Point C: far more lush & beautiful than any other village known to man.
+One day, you're on your balcony overlooking the bustling village of Point B. Up in the hill above, something catches your eye. You see a small group of adventurous-looking friends surveying the Point B Village from the very edge of the map. They're swapping rumors about a fabled Point C: far more lush & beautiful than any other known village.
 
 You watch them turn around, face the haze of the unknown, and set forth.
 

@@ -98,10 +98,12 @@
       "tldr": "Kratom: A great drug that I enjoy with one glaring problem"
     },
     "trail-blazing": {
-      "category": "philosophy",
-      "publishedOn": "2020-08-24",
       "slug": "trail-blazing",
       "title": "Trail Blazing",
+      "category": "philosophy",
+      "draft": false,
+      "featured": false,
+      "publishedOn": "2020-08-24",
       "tldr": "A metaphor for building things that have never been built before"
     },
     "elevator-investing": {
