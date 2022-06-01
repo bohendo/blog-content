@@ -114,11 +114,12 @@
       "tldr": "A story about a contrived investment game"
     },
     "flash-loan": {
-      "category": "crypto",
-      "featured": true,
-      "publishedOn": "2020-02-18",
       "slug": "flash-loan",
       "title": "Flash Loan",
+      "category": "crypto",
+      "draft": false,
+      "featured": true,
+      "publishedOn": "2020-02-18",
       "tldr": "The :shrimp: with a :whale: punch"
     },
     "opsec": {

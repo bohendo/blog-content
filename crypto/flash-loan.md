@@ -36,13 +36,13 @@ Nothing like a flash loan exists in traditional markets, it's an entirely new to
 
 A flash loan is an *uncollateralized* loan that only exists during a single transaction. The loan is provided at the beginning of the transaction and must be re-paid in full (+ a fee) before finishing otherwise the entire transaction will fail.
 
-From the loaner's perspective: if Alice has $1M laying around, she can flashloan it to Bob for $1 according to this agreement: Bob gets to take one action with this lump of $100 but, by the end of the action, $101 must be returned to Alice otherwise the action gets cancelled. As long as the smart contract agreement was audited, it's a pretty safe deal for Alice. The money can't go anywhere, it just grows by $1 in an instant. The risk to lenders is amazingly low.
+From the loaner's perspective: if Alice has $100 laying around, she can flashloan it to Bob for $1 according to this agreement: Bob gets to take one action with this lump of $100 but, by the end of the action, $101 must be returned to Alice otherwise the action gets cancelled. As long as the smart contract was audited, it's a pretty safe deal for Alice. The money can't go anywhere, it just grows by $1 in an instant. The risk to lenders is amazingly low.
 
 This is not purely a financial weapon, it's a useful tool in a lot of cases.
 
 For example, say an astute trader notices that some asset is trading for $100 on one exchange and $99.9 on another. There might be an opportunity to buy a bunch for $99.9 and sell them at the other place for $100 to yield a profit of $0.1 each.. But if they need to pay eg a $10 transaction fee then it's not profitable unless they can buy/sell more than 100 of them which would require an upfront investment of about $10k just to break even. Traditionally, only very wealthy traders are able to capitalize on such a narrow margin.. But not with flash loans. Now *anybody* can take out a huge loan, buy low/sell high, and profit.
 
-In doing so, they equalize the price until it's $99.95 at both places and people like me who don't want to have to think about it can blindly use whichever exchange and safely assume that the price is the same everywhere. Thanks traders!
+In doing so, they equalize the price until it's $99.95 at both places and people like me who don't want to have to think about it can blindly use whichever exchange and safely assume that the price is about the same everywhere. Thanks traders!
 
 ## What are the implications?
 
@@ -50,15 +50,15 @@ In any market, the big fish :whale: have the power to push smaller ones :shrimp:
 
 For example, if someone went out and bought enough bananas (like 50% of all bananas), then the rest of the world would notice get scared of a banana shortage & pay more to get the few bananas that are left (the pump). Then, when people are panicking, you sell all the bananas you bought earlier at this new higher price & flood the market (the dump). Many do this & walk away with profit, having effectively stolen money from those who bought during the pump or sold during the dump.
 
-Now, it's *illegal* to actually steal money from a market like this so it rarely happens outright, but that doesn't stop some wealthy people from finding legal loop holes or trying to manipulate markets without getting caught. The incentives are there. This is a big reason why KYC is so important in the traditional financial system's security model: the security model is to find out who someone is in real-life so if they bully people financially, they can be bullied back by the authorities in real life.
+Now, it's *illegal* to actually steal money from a market like this so it rarely happens outright, but that doesn't stop some wealthy people from finding legal loop holes or trying to manipulate markets without getting caught. The incentives are there. This is a big reason why KYC is so important in the traditional financial system's security model: the security model is to find out who someone is in real-life so if they bully people financially, they can be punished by the authorities in real life.
 
-But on Ethereum, you can't identify people & bully them physically so market manipulation proceeds unchecked (one of the reason crypto markets are so volatile). Account 0x148 committed a pretty clean-cut case of illegal market manipulation.. But nobody knows who they are so they'll probably get away with it.
+But on Ethereum, you can't identify people & punish them physically so market manipulation proceeds unchecked (one of the reason crypto markets are so volatile). Account 0x148 committed a pretty clean-cut case of illegal market manipulation.. But nobody knows who they are so they'll probably get away with it.
 
 Does that mean Ethereum markets are too dangerous to interact with and destined to fail? Not so fast.
 
 There were a couple problems exploited during this attack, most notably: a bug in the bZx market's code. A sanity check in the bZx code should have prevented the 5x leveraged position from being opened amidst drastic price changes that caused the debt to grow way past the value of the collateral. This check was cleverly avoided by the attacker but new code will be deployed that won't be so easy to trick into entering unprofitable positions.
 
-In general, market makers like bZx will treat illiquid markets (eg the ETH:wBTC market) with much more caution & be extremely careful if/when they're enabled for trading. Additionally, it's known to be bad practice to derive mission-critical prices directly from markets which are vulnerable to manipulation but this event provides a sharp example of what might happen to those who get sloppy. Uniswap (one of the markets that played a key role in this attack) is preparing to launch an upgrade with improved price reporting that is resistant to manipulation by flash loan attacks.
+In general, market makers like bZx will treat illiquid markets (eg the ETH:wBTC market) with much more caution & be extremely careful if/when they're enabled for trading. Additionally, it's known to be bad practice to derive mission-critical prices directly from markets which are vulnerable to manipulation and this event provides a sharp example of what might happen to those who get sloppy. Uniswap (one of the markets that played a key role in this attack) is preparing to launch an upgrade with improved price reporting that is resistant to manipulation by flash loan attacks.
 
 Theoretically, bZx would survive this attack, upgrade their code, and come out the other side stronger than ever.
 
@@ -66,7 +66,7 @@ In practice, they've already been attacked again ([transaction receipt](https://
 
 If bZx does die from this one-two punch, the service that pops up to take their place will know not to repeat the mistakes of their predecessor.
 
-Much like biological evolution, the Ethereum ecosystem is a ruthless survival of the fittest. Now that flash loans are being provided by one platform, they've become an apex predator reorganizing the balance of power.
+Much like biological evolution, the Ethereum ecosystem is ruthless survival of the fittest. Now that flash loans are being provided by one platform, they've become an apex predator reorganizing the security landscape.
 
 Exploits that used to be available to only the 0.1% most wealthy can now be taken advantage of by everyone. There will likely be even more bloodshed in the weeks to come but, when the dust settles, the service providers left standing will be utterly resistant to market manipulation attacks.
 
