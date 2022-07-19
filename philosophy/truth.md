@@ -7,8 +7,6 @@
 - Energy cannot be created or destroyed
 - Murdering children is wrong
 - The sky is blue
-- Joe Biden won the 2020 presidential election
-
 
 ## [Contexts](https://en.wikipedia.org/wiki/Contextualism)
 
