@@ -4,13 +4,9 @@
 ## by Thomas Limoncelli
 ---
 
- - loc 54 - The one-person-cavalry-to-the-rescue fetish is not a sustainable rationale for staying in the profession, but it sure does a good job of initially drawing people into the field.
-
  - loc 121 - Perfectionism is often overkill and a real time waster. The inventors of the Internet were brilliant at this. They realized they’d never get anywhere if they waited for the underlying communication links to be perfect, and so they developed protocols that worked around imperfections.
 
  - loc 335 - One “database” for time management information (use one organizer). Conserve your brain power for what’s important (conserve RAM). Develop routines and stick with them (reuse code libraries; don’t reinvent the wheel). Develop habits and mantras (replace runtime calculations with precomputed decisions). Maintain focus during “project time” (be like a kernel semaphore). Manage your social life with the same tools you use for your work life (social life isn’t an optional feature).
-
- - loc 379 - I know about 10 really good Perl idioms, and I reuse them over and over.
 
  - loc 379 - I know about 10 really good Perl idioms, and I reuse them over and over. Rarely is a program truly written from scratch.
 
@@ -35,8 +31,6 @@
  - loc 546 - I’ve developed an office cleaning mantra: When in doubt, throw it out. I then follow this three-step plan: File the things that can be filed. Take the unfinished items and put them in a stack to be done soon. Put all the remaining stuff in a large envelope marked, “If I haven’t opened this three months from now, I can throw it out.” Then seal the envelope.
 
  - loc 553 - When deciding to throw out the envelope I repeat the following mantra: When in doubt, throw it out. If I ever do need it, I can ask the source for a copy.
-
- - loc 554 - When in doubt, throw it out. If I ever do need it, I can ask the source for a copy.
 
  - loc 556 - I still have many posters, they just aren’t in my direct view. When I’m sitting at my desk facing my computer, I want blank walls, nothing distracting.
 
@@ -74,21 +68,15 @@
 
  - loc 978 - I wanted to be a hands-off manager — the other SAs were all smart, hardworking, and independent. I mostly left everyone alone. However, I soon learned that they felt ignored.
 
- - loc 978 - wanted to be a hands-off manager — the other SAs were all smart, hardworking, and independent. I mostly left everyone alone. However, I soon learned that they felt ignored.
-
  - loc 1001 - every Monday and Thursday at 9 a.m., I would do my “walk-around.” I would walk a particular path that went by each person’s office. Their offices were, essentially, in three different clusters, so it was almost like having three mini status meetings. I would stop in, say “hello,” and this would present them with an opportunity to bring up issues.
 
  - loc 1013 - Develop a routine that solves your problems. Perform the routine on a predictable schedule, and others will plan their schedules around you.
 
  - loc 1016 - If you are supporting a number of people who are in the same building as you, you can increase customer satisfaction by doing a walk-around once a day to visit customers, talk with them, answer questions, fix problems as you see them, record bigger problems to be worked on later, and so on. If anything, it develops a better rapport with your customers.
 
- - loc 1028 - they happened. Do not use this technique if you have a problem saying no to people. Part of the reason it worked so well was that my coworker employed something like the delegate, record, do process
-
  - loc 1028 - Do not use this technique if you have a problem saying no to people. Part of the reason it worked so well was that my coworker employed something like the delegate, record, do process
 
  - loc 1061 - If it has to be done every day, do it early in the day.
-
- - loc 1062 - day. After I did my morning planning using The Cycle, I would list “change tapes” as an A priority every day. As a result, there was one less thing weighing heavy on my mind all day, and I could be
 
  - loc 1066 - Routine #7: During Outages, Communicate to Management
 
@@ -96,25 +84,17 @@
 
  - loc 1084 - Routine #8: Use Automatic Checks While Performing Certain Tasks
 
- - loc 1087 - keys do I then close the door. I have a similar ritual when leaving my house.
-
  - loc 1090 - When I leave a secured room, I make sure I feel my access card-key in my pocket. (Related rule: I never put my card-key down on a table, floor, whatever, even just for a second. It always goes in my pocket and my pocket is where it goes.)
-
- - loc 1097 - I’m being friendly. I’m really checking for trespassers. Before I disconnect a network cable I set up a continuous “ping” (one per second), which should start failing when I disconnect the correct cable.
 
  - loc 1098 - Before I disconnect a network cable I set up a continuous “ping” (one per second), which should start failing when I disconnect the correct cable.
 
- - loc 1099 - disconnect the correct cable. Every time I add a new rule to my firewall, I first set up a demonstration of what I want to block and show that it isn’t blocked. Then I add the firewall rule. Then I repeat the demonstration and show that it now fails.
-
  - loc 1099 - Every time I add a new rule to my firewall, I first set up a demonstration of what I want to block and show that it isn’t blocked. Then I add the firewall rule. Then I repeat the demonstration and show that it now fails.
-
- - loc 1116 - When I’m about to edit a configuration file, I always make a backup. I don’t waste time thinking, “Gosh, is this file important enough?” If I have to ask, the answer is “Yes.”
 
  - loc 1116 - When I’m about to edit a configuration file, I always make a backup. I don’t waste time thinking, “Gosh, is this file important enough?” If I have to ask, the answer is “Yes.” I make backups the same way every time so there is no time wasted figuring out the best way. My system is to copy the file to a file with today’s date on it. For example, named.conf is copied to named.conf-20060120
 
  - loc 1127 - I write a “things to pack” list on the righthand side of my to do list for the day I’ll be traveling. For weeks (or months) leading up to the trip, anytime I think of something I should bring on the trip I pop open my organizer and write it on that list. Since I always have the organizer with me, I never fail to record an idea. When I pack, I check off the items as they go into my suitcase.
 
- - loc 1145 - Relationships require maintenance and are also similar to gardening (they grow if you work diligently, starve if they are ignored, and die if they get too much attention). There are four groups of people
+ - loc 1145 - Relationships require maintenance and are also similar to gardening (they grow if you work diligently, starve if they are ignored, and die if they get too much attention).
 
  - loc 1146 - There are four groups of people you need to maintain relationships with: your customers (or your single point of contact for each customer group), your staff (who report to you), your peers, and your boss(es). Do you routinely touch base with each of them? The key to networking (the career kind, not the data kind) is to maintain relationships throughout the year, not just when you are looking for a new job. Schedule lunch once a month
 
@@ -138,15 +118,9 @@
 
  - loc 1568 - They were not as important as the tasks you had to do yesterday, so you recorded them directly onto the first to do list that you thought was realistic, which happened to be today’s (Tuesday’s). This is in addition to the tasks that you managed yesterday by placing them on today’s to do list.
 
- - loc 1588 - used Tickets as a time holder for those moments in the day when I needed to work on tickets because one of them had become an unexpected priority.
-
- - loc 1588 - used Tickets as a time holder for those moments in the day when
-
  - loc 1588 - I used Tickets as a time holder for those moments in the day when I needed to work on tickets because one of them had become an unexpected priority.
 
  - loc 1727 - The wrong question to ask, and I know this because I used it unsuccessfully for years, is, “Do you need anything else from me?”
-
- - loc 1733 - when it seems like everything is done, I ask the magic question: “Can you tell me what date it will arrive?” Suddenly it clicks in the salesperson’s brain to tell me that I really am done or to list the roadblocks:
 
  - loc 1733 - when it seems like everything is done, I ask the magic question: “Can you tell me what date it will arrive?” Suddenly it clicks in the salesperson’s brain to tell me that I really am done or to list the roadblocks: the product isn’t available until next spring, or that while I’ve filled out the credit application, he hasn’t submitted it to his finance department. These are both real examples.
 
@@ -168,15 +142,11 @@
 
  - loc 1856 - Unix/Linux users will find it useful to enable the “at” service and use it to send email to your cell phone at a certain time:
 
- - loc 1868 - record them when I RSVP. I even record them when I so that I don’t accidentally repeat my rejection.)
-
- - loc 1868 - Party invites. (I record them when I RSVP. I even record them when I so that I don’t accidentally repeat my rejection.)
+ - loc 1868 - Party invites. (I record them when I RSVP. I even record them when I reject so that I don’t accidentally repeat my rejection.)
 
  - loc 1884 - I keep a weekly, monthly, and yearly list of reminders in my PAA. On every Monday, I read the weekly sheet and fill in any items for the remaining week. On the first of each month, I read the monthly sheet and fill in this month’s commitments.
 
  - loc 1884 - I keep a weekly, monthly, and yearly list of reminders in my PAA. On every Monday, I read the weekly sheet and fill in any items for the remaining week. On the first of each month, I read the monthly sheet and fill in this month’s commitments. On the first day of the year, I fill in the yearly items.
-
- - loc 1946 - cycles. I love working in cyclic industries. It makes planning things a lot easier. In fact, when I’m not in a cyclic industry, I try to find the
 
  - loc 1946 - I love working in cyclic industries. It makes planning things a lot easier. In fact, when I’m not in a cyclic industry, I try to find the unofficial cycle, or, when possible, move the company into a cycle.
 
@@ -184,13 +154,7 @@
 
  - loc 2119 - On the first day of the month, every month, take a moment to plan your goals. Close your office door (or go to a quiet place) and do the following: Goal review. Review and update your goal list. Cross out any completed goals. If you’ve jotted down any new goals since the last goal review, decide if they still sound like good ideas. If they do, prioritize them. Evaluate your prioritization of existing goals vis-à-vis the new goals you’ve added. Step review. Review and update your next steps list. As steps are marked “done,” schedule later steps into your to do lists, as before.
 
- - loc 2125 - try to sprinkle them into Mondays so that when I plan my week, I can make room for them, sliding them to a better day if needed.
-
- - loc 2125 - I try to sprinkle them into Mondays so that when I plan my week, I can make room for them, sliding them to a better day if needed.
-
  - loc 2125 - I try to sprinkle them into Mondays so that when I plan my week, I can make room for them, sliding them to a better day if needed. How can you remember to do this? Set a repeated event in your PDA called “Goal & Next Step Review.” Have it repeat on the first of every month or the first Monday of every month. Now you’ll always have a reminder to do this process.
-
- - loc 2125 - I try to sprinkle them into Mondays so that when I plan my week, I can make room for them, sliding them to a better day if needed. How can you remember to do this? Set a repeated event in your PDA called “Goal & Next Step Review.” Have it repeat on the first of every month or the first Monday of every month.
 
  - loc 2158 - because of the way you move items you couldn’t complete to the following day, it’s common for older items to bubble to the top of the list. Getting these older items done is a great way to start a day.
 
@@ -206,17 +170,9 @@
 
  - loc 2348 - I’ve had a number of bosses who surprised me when, privately, I asked them what their goals were and how I could help them meet those goals. The way I phrased my query was something like: “What metrics does your boss use to evaluate your performance? If I know how you are measured, I can contribute to the team more effectively by keeping those goals in mind.”
 
- - loc 2349 - The way I phrased my query was something like: “What metrics does your boss use to evaluate your performance? If I know how you are measured, I can contribute to the team more effectively by keeping those goals in mind.”
-
- - loc 2420 - that causes stress, it is how we react to what happens to us. I’ve found Feeling Good: The New Mood Therapy (Collins) and The Feeling Good Handbook (Plume) to be extremely helpful and highly regarded books in the area of managing stress in productive ways.
-
  - loc 2421 - I’ve found Feeling Good: The New Mood Therapy (Collins) and The Feeling Good Handbook (Plume) to be extremely helpful and highly regarded books in the area of managing stress in productive ways.
 
  - loc 2429 - I’m not recommending smoking, but I do encourage you to go outside every couple of hours, stretch your legs, and get some perspective.
-
- - loc 2435 - When I feel overloaded, I remind myself about the techniques for to do list management in Chapter 5. I close my office door (or steal a conference room), get some peace, and focus on The Cycle techniques. Soon, I realize that what got me feeling overloaded was that I was skipping steps. I go through the steps and plan the remainder of my day, moving to do items to the next day, and so on. It feels good to manage all of my tasks.
-
- - loc 2436 - realize that what got me feeling overloaded was that I was skipping steps. I go through the steps and plan the remainder of my day, moving to do items to the next day, and so on. It feels good to manage all of my tasks.
 
  - loc 2436 - I realize that what got me feeling overloaded was that I was skipping steps. I go through the steps and plan the remainder of my day, moving to do items to the next day, and so on. It feels good to manage all of my tasks. When I’m really overloaded, that doesn’t work, and I have to seek a higher power, most particularly my boss. A good boss can help prioritize your workload when you are overloaded.
 
@@ -230,17 +186,11 @@
 
  - loc 2574 - good SAs assume that a truck may hit them tomorrow and the company should be able to continue in their absence. Taking a long vacation is one way to test the coverage plan
 
- - loc 2589 - To keep your inbox clean, you need to have a plan for what you’re going to do with every email message you receive. Each possibility has to end with “delete the message,”
-
  - loc 2589 - To keep your inbox clean, you need to have a plan for what you’re going to do with every email message you receive. Each possibility has to end with “delete the message,” or your inbox will start to fill up.
-
- - loc 2612 - Once a month I evaluate the lists I’m subscribed to and unsubscribe from one of them. This
 
  - loc 2612 - Once a month I evaluate the lists I’m subscribed to and unsubscribe from one of them.
 
  - loc 2617 - If you aren’t sure if an email list is useful, it isn’t.
-
- - loc 2626 - My goal is to touch each email only once. By touch, I mean deal with it and send it to its final resting place.
 
  - loc 2626 - My goal is to touch each email only once. By touch, I mean deal with it and send it to its final resting place. If I don’t have time to read a message, I let it sit unread.
 
@@ -257,8 +207,6 @@
  - loc 2756 - I could whip through articles like you wouldn’t believe. Seriously — other Usenet aficionados would watch me and ask for tips. Then one day I came up with the most amazing optimization to the process. I decided to stop reading Usenet all together. I gained a couple of hours each day. The ultimate process improvement is to eliminate the process. Eliminate, don’t automate.
 
  - loc 2786 - Rule of thumb: set an alarm before doing something “just for a minute.”
-
- - loc 2886 - think TV is great. In the last 15 years, it has gone from being a total wasteland to a wasteland filled with pearls.
 
  - loc 2886 - I think TV is great. In the last 15 years, it has gone from being a total wasteland to a wasteland filled with pearls.
 
@@ -282,21 +230,13 @@
 
  - loc 3435 - after editing /etc/aliases (part of sendmail, Postfix, and various mail-transport-agent packages), you must run the newaliases command. That’s pretty easy to remember, right? After editing Postfix’s transports file, should you run the newtransports command? No, that would be too obvious. You must run postmap transports. And there is the m4 command to run after editing .m4 files, and so on and so on. Who has time to remember which command is used after which file is edited? Details like that are what computers are for. make to the rescue! You might think of make as a programming tool — the program you run when compiling software. In reality, it lets you set up any kind of relationship involving the need to run a command to update one file if another changes.
 
- - loc 3446 - you read the first two chapters of most books on make, you’ll know 99 percent of what you need to for most system administration tasks and 10 times more than what your coworkers know.)
-
  - loc 3446 - (If you read the first two chapters of most books on make, you’ll know 99 percent of what you need to for most system administration tasks and 10 times more than what your coworkers know.)
 
  - loc 3452 - The recipe begins with the file that is going to be created, then a colon, and then it lists the files needed to build the main file.
 
  - loc 3457 - A real-world example helps: aliases.db: aliases newaliases @echo Done updating aliases This code means that if aliases is changed, regenerate aliases.db using the command newaliases. Then the recipe outputs “Done updating aliases” to announce its success.
 
- - loc 3505 - I said that each recipe begins with the file that is going to be created, followed by a colon, and then it lists the files that make up the main file. make doesn’t know whether those files really make up the file to be created. There’s no way it could tell. Those items listed after
-
  - loc 3505 - I said that each recipe begins with the file that is going to be created, followed by a colon, and then it lists the files that make up the main file. make doesn’t know whether those files really make up the file to be created. There’s no way it could tell. Those items listed after the colon are really just dependencies that must be up-to-date.
-
- - loc 3507 - really make up the file to be created. There’s no way it could tell. Those items listed after the colon are really just dependencies that must be up-to-date.
-
- - loc 3507 - Those items listed after the colon are really just dependencies that must be up-to-date.
 
  - loc 3538 - By carefully constructing the recipes with proper dependencies, and touching *.done files where required, make will do the absolute minimal amount of work to bring the system up-to-date:
 
@@ -304,15 +244,11 @@
 
  - loc 3576 - Any file that is automatically pushed to other servers should always have a comment at the top of the file warning other system administrators where the file came from and where to edit it.
 
- - loc 3582 - There are many programs called xed, but this one can be found on http://www.nightcoder.com/code/xed. This program calls whatever editor you usually use ($EDITOR can be set to vi, pico, emacs, and so on) after locking the file. It is a must for any site that has multiple system administrators working on the same machine. If you are using RCS to track changes to a file, it does all the “check in” and “check out” work for you. This gives you infinite undo and a logfile of who changed what.
-
  - loc 3582 - There are many programs called xed, but this one can be found on http://www.nightcoder.com/code/xed. This program calls whatever editor you usually use ($EDITOR can be set to vi, pico, emacs, and so on) after locking the file. It is a must for any site that has multiple system administrators working on the same machine. If you are using RCS to track changes to a file, it does all the “check in” and “check out” work for you. This gives you infinite undo and a logfile of who changed what. If you find that a system has been acting funny for the last month, just check the log to see who changed the file a month ago and, well, be nice — we all make mistakes.
 
  - loc 3613 - The $* in the makeimage1 script means “any items on the command line.” So, if you typed: $ makeimage1 cdrom/ then the $* would be replaced by cdrom/.
 
  - loc 3632 - args='getopt ab: $*' if [ $? != 0 ] then echo "Usage: command [-a] [-b file.txt] file1 file2 ..." exit -1 fi set -- $args for i do case "$i" in -a) FLAGA=1 shift ;; -b) ITEMB="$2" ; shift shift ;; --) shift; break ;; esac done
-
- - loc 3650 - Advanced Bash-Scripting Guide at http://www.tldp.org/LDP/abs/html
 
  - loc 3650 - I highly recommend reading the Advanced Bash-Scripting Guide at http://www.tldp.org/LDP/abs/html
 
@@ -327,8 +263,6 @@
  - loc 3890 - I like to build three layers when I automate something for other people: Layer 1. A program that does the basic task. Layer 2. A program that the user will run, with sudo, that collects her input, validates it, makes sure she isn’t trying to do anything fishy, and then calls the first program. Layer 3. A more user-friendly way to access these previous layers, such as a web interface or menu program.
 
  - loc 3944 - On Unix/Linux systems, especially servers, standardize on having a Makefile in /etc that automates common tasks such as reindexing aliases, cloning data, and so on.
-
- - loc 3950 - When writing code to let users do privileged operations, be extremely careful. Build on security tools that already exist and have good credibility, such as sudo. Use a permission table to explain to management who will have access to what. It is their job to manage risk and your job to help them understand
 
  - loc 3950 - When writing code to let users do privileged operations, be extremely careful. Build on security tools that already exist and have good credibility, such as sudo. Use a permission table to explain to management who will have access to what. It is their job to manage risk and your job to help them understand the issues. Get approval before you deploy the system.
 
